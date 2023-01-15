@@ -47,5 +47,5 @@ File.WriteAllLines(@"..\..\..\Result.txt", result);
 
 var text = File.ReadAllText(@"..\..\..\ResultSubscription.txt");
 
-File.WriteAllText(@"..\..\..\Subscription\Result.txt", Base64Encode(text));
+File.WriteAllText(@"..\..\..\Subscription\Subscription.txt", Base64Encode(text));
 

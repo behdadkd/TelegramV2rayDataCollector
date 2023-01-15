@@ -1,0 +1,2236 @@
+{
+ "name": "Free Xray VPN",
+ "type": "private_channel",
+ "id": 1885529128,
+ "messages": [
+  {
+   "id": 1,
+   "type": "service",
+   "date": "2022-12-08T21:41:50",
+   "date_unixtime": "1670523110",
+   "actor": "Free Xray VPN",
+   "actor_id": "channel1885529128",
+   "action": "create_channel",
+   "title": "Free xray VPN",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 3,
+   "type": "message",
+   "date": "2022-12-08T21:52:42",
+   "date_unixtime": "1670523762",
+   "edited": "2022-12-11T16:28:39",
+   "edited_unixtime": "1670763519",
+   "from": "Free Xray VPN",
+   "from_id": "channel1885529128",
+   "text": "سلام دوستان قصد دارم یک سری اکانت وی پی ان راه اندازی کنم که بتونیم با هم استفاده کنیم . سعی میکنم سروریس رو رایگان و پایا پیش ببرم :)",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "سلام دوستان قصد دارم یک سری اکانت وی پی ان راه اندازی کنم که بتونیم با هم استفاده کنیم . سعی میکنم سروریس رو رایگان و پایا پیش ببرم :)"
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "type": "message",
+   "date": "2022-12-09T11:34:28",
+   "date_unixtime": "1670573068",
+   "edited": "2022-12-25T20:38:02",
+   "edited_unixtime": "1671988082",
+   "from": "Free Xray VPN",
+   "from_id": "channel1885529128",
+   "text": [
+    "سرعت و کیفیت هر کدام از سرور ها برای اینترنت های مختلف ایران متفاوت هست پس با توجه به شهر و نوع اینترنتی که دارید استفاده میکنید (ایرانسل همراه اول شاتل و ...) بین این سرور ها سوییچ کنید و ببینید کدومش برای اون اینترنت! و اون روز! بهتره .\n\nنحوه استفاده در اندروید\n",
+    {
+     "type": "link",
+     "text": "https://github.com/iranxray/hope/blob/main/install-android.md"
+    },
+    "\n\nنحوه استفاده در ویندوز\n",
+    {
+     "type": "link",
+     "text": "https://github.com/iranxray/hope/blob/main/install-windows.md"
+    },
+    "\n\nنحوه استفاده در آیفون:\n",
+    {
+     "type": "link",
+     "text": "https://github.com/iranxray/hope/blob/main/install-iphone.md"
+    },
+    "\n\n⭐️ اپلیکیشن‌های مورد نیاز جهت اتصال به V2RAY\n\n⭐️ iOS\nShadowrocket (vmess, vless)\nOneclick (vmess)\nFair VPN (vmess, vless)\nShadowLink (vmess)\n\n⭐️ Android\nXray VPN\nv2rayNG\nOneClick\n\n🟢 پس از نصب اپلیکیشن، لینک سرور را کپی و در اپلیکیشن مورد نظر Import نمایید."
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "سرعت و کیفیت هر کدام از سرور ها برای اینترنت های مختلف ایران متفاوت هست پس با توجه به شهر و نوع اینترنتی که دارید استفاده میکنید (ایرانسل همراه اول شاتل و ...) بین این سرور ها سوییچ کنید و ببینید کدومش برای اون اینترنت! و اون روز! بهتره .\n\nنحوه استفاده در اندروید\n"
+    },
+    {
+     "type": "link",
+     "text": "https://github.com/iranxray/hope/blob/main/install-android.md"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nنحوه استفاده در ویندوز\n"
+    },
+    {
+     "type": "link",
+     "text": "https://github.com/iranxray/hope/blob/main/install-windows.md"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nنحوه استفاده در آیفون:\n"
+    },
+    {
+     "type": "link",
+     "text": "https://github.com/iranxray/hope/blob/main/install-iphone.md"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n⭐️ اپلیکیشن‌های مورد نیاز جهت اتصال به V2RAY\n\n⭐️ iOS\nShadowrocket (vmess, vless)\nOneclick (vmess)\nFair VPN (vmess, vless)\nShadowLink (vmess)\n\n⭐️ Android\nXray VPN\nv2rayNG\nOneClick\n\n🟢 پس از نصب اپلیکیشن، لینک سرور را کپی و در اپلیکیشن مورد نظر Import نمایید."
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "type": "message",
+   "date": "2022-12-09T15:22:43",
+   "date_unixtime": "1670586763",
+   "edited": "2022-12-25T20:42:17",
+   "edited_unixtime": "1671988337",
+   "from": "Free Xray VPN",
+   "from_id": "channel1885529128",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "video_file",
+   "mime_type": "video/mp4",
+   "duration_seconds": 145,
+   "width": 384,
+   "height": 816,
+   "text": [
+    {
+     "type": "bold",
+     "text": "V2rayng"
+    },
+    " \nنحوه اضافه کردن کانکشن ها و انتخاب کانکشن برتر ✅\nنرم افزار ها معمولا از بین متن لینک ها رو استخراج میکنن و لازم نیست کانکشنها رو یک به یک اضافه کنید. \n🥸ضمنا با روشی که نمایش داده شد میتونید سرور های برتر رو انتخاب کنید و متصل بشید. اینطوری وقتتون بابت گشتن بین سرور هایی که کار میکنه کمتر گرفته میشه.  \n🤓 پینگ کمتر سرور بهتری خواهد بود.  -۱ یعنی کانکشن کار نمیکنه 🥲\n✅احتمالا در روزهای مختلف و اینترنت های مختلف ممکنه نتایج کانلا متفاوتی بگیرید."
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "V2rayng"
+    },
+    {
+     "type": "plain",
+     "text": " \nنحوه اضافه کردن کانکشن ها و انتخاب کانکشن برتر ✅\nنرم افزار ها معمولا از بین متن لینک ها رو استخراج میکنن و لازم نیست کانکشنها رو یک به یک اضافه کنید. \n🥸ضمنا با روشی که نمایش داده شد میتونید سرور های برتر رو انتخاب کنید و متصل بشید. اینطوری وقتتون بابت گشتن بین سرور هایی که کار میکنه کمتر گرفته میشه.  \n🤓 پینگ کمتر سرور بهتری خواهد بود.  -۱ یعنی کانکشن کار نمیکنه 🥲\n✅احتمالا در روزهای مختلف و اینترنت های مختلف ممکنه نتایج کانلا متفاوتی بگیرید."
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "type": "message",
+   "date": "2022-12-16T01:27:27",
+   "date_unixtime": "1671141447",
+   "edited": "2023-01-02T20:27:56",
+   "edited_unixtime": "1672678676",
+   "from": "Free Xray VPN",
+   "from_id": "channel1885529128",
+   "text": [
+    "سرور 4 آلمان\n\n🇩🇪 ",
+    {
+     "type": "bold",
+     "text": "Vmess Germany 4:\n"
+    },
+    {
+     "type": "pre",
+     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHZXJtYW55IDQiLAogICJhZGQiOiAib3Y0Z2VybWFueS5yb25hZ2hpLnRrIiwKICAicG9ydCI6IDQ0MywKICAiaWQiOiAiYjIyZmZkYTctOTAyMS00NDhhLTkyNTctZjcwNDk2Y2ExOTRhIiwKICAiYWlkIjogMCwKICAibmV0IjogIndzIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIi8iLAogICJ0bHMiOiAidGxzIgp9\n\n",
+     "language": ""
+    },
+    "🇩🇪",
+    {
+     "type": "underline",
+     "text": " Vless Germany 4:\n"
+    },
+    {
+     "type": "pre",
+     "text": "vless://5c3d0247-d6d5-4139-c8e5-67154de39fdf@ov4germany.ronaghi.tk:8443?type=tcp&security=xtls&flow=xtls-rprx-direct#Vless%20Germany%204\n\n",
+     "language": ""
+    },
+    "🇩🇪 ",
+    {
+     "type": "bold",
+     "text": "Trojan Germany 4:\n"
+    },
+    {
+     "type": "pre",
+     "text": "trojan://ryOkOHWVCH@ov4germany.ronaghi.tk:2087#Trojan%20Germany%204\n\n",
+     "language": ""
+    },
+    "🇩🇪 ",
+    {
+     "type": "bold",
+     "text": "SS Germany 4:\n"
+    },
+    {
+     "type": "code",
+     "text": "ss://YWVzLTEyOC1nY206RU5POU5OT2FSZg==@ov4germany.ronaghi.tk:46720#SS+Germany+4"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "سرور 4 آلمان\n\n🇩🇪 "
+    },
+    {
+     "type": "bold",
+     "text": "Vmess Germany 4:\n"
+    },
+    {
+     "type": "pre",
+     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHZXJtYW55IDQiLAogICJhZGQiOiAib3Y0Z2VybWFueS5yb25hZ2hpLnRrIiwKICAicG9ydCI6IDQ0MywKICAiaWQiOiAiYjIyZmZkYTctOTAyMS00NDhhLTkyNTctZjcwNDk2Y2ExOTRhIiwKICAiYWlkIjogMCwKICAibmV0IjogIndzIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIi8iLAogICJ0bHMiOiAidGxzIgp9\n\n",
+     "language": ""
+    },
+    {
+     "type": "plain",
+     "text": "🇩🇪"
+    },
+    {
+     "type": "underline",
+     "text": " Vless Germany 4:\n"
+    },
+    {
+     "type": "pre",
+     "text": "vless://5c3d0247-d6d5-4139-c8e5-67154de39fdf@ov4germany.ronaghi.tk:8443?type=tcp&security=xtls&flow=xtls-rprx-direct#Vless%20Germany%204\n\n",
+     "language": ""
+    },
+    {
+     "type": "plain",
+     "text": "🇩🇪 "
+    },
+    {
+     "type": "bold",
+     "text": "Trojan Germany 4:\n"
+    },
+    {
+     "type": "pre",
+     "text": "trojan://ryOkOHWVCH@ov4germany.ronaghi.tk:2087#Trojan%20Germany%204\n\n",
+     "language": ""
+    },
+    {
+     "type": "plain",
+     "text": "🇩🇪 "
+    },
+    {
+     "type": "bold",
+     "text": "SS Germany 4:\n"
+    },
+    {
+     "type": "code",
+     "text": "ss://YWVzLTEyOC1nY206RU5POU5OT2FSZg==@ov4germany.ronaghi.tk:46720#SS+Germany+4"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 93,
+   "type": "message",
+   "date": "2022-12-21T04:47:54",
+   "date_unixtime": "1671585474",
+   "edited": "2022-12-21T09:13:55",
+   "edited_unixtime": "1671601435",
+   "from": "Free Xray VPN",
+   "from_id": "channel1885529128",
+   "text": [
+    "کانال ها و ربات های مشابه که بهتون کانکشن های رایگان میدن رو اینجا لیست میکنم:\n\n🌐",
+    {
+     "type": "mention",
+     "text": "@aknoonvpn"
+    },
+    "\n🌐",
+    {
+     "type": "mention",
+     "text": "@aknoonbot"
+    },
+    "\n🌐",
+    {
+     "type": "mention",
+     "text": "@wbnet"
+    },
+    "\n🌐",
+    {
+     "type": "mention",
+     "text": "@ArashVPN_bot"
+    },
+    "    کد: free\n🌐",
+    {
+     "type": "mention",
+     "text": "@vmessiran"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "کانال ها و ربات های مشابه که بهتون کانکشن های رایگان میدن رو اینجا لیست میکنم:\n\n🌐"
+    },
+    {
+     "type": "mention",
+     "text": "@aknoonvpn"
+    },
+    {
+     "type": "plain",
+     "text": "\n🌐"
+    },
+    {
+     "type": "mention",
+     "text": "@aknoonbot"
+    },
+    {
+     "type": "plain",
+     "text": "\n🌐"
+    },
+    {
+     "type": "mention",
+     "text": "@wbnet"
+    },
+    {
+     "type": "plain",
+     "text": "\n🌐"
+    },
+    {
+     "type": "mention",
+     "text": "@ArashVPN_bot"
+    },
+    {
+     "type": "plain",
+     "text": "    کد: free\n🌐"
+    },
+    {
+     "type": "mention",
+     "text": "@vmessiran"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 94,
+   "type": "message",
+   "date": "2022-12-21T05:24:49",
+   "date_unixtime": "1671587689",
+   "edited": "2022-12-21T13:53:43",
+   "edited_unixtime": "1671618223",
+   "from": "Free Xray VPN",
+   "from_id": "channel1885529128",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "video_file",
+   "mime_type": "video/mp4",
+   "duration_seconds": 34,
+   "width": 384,
+   "height": 848,
+   "text": "😎شاید استفاده همزمان بین نرم افزار های داخلی و نرم افزار های فیلتر شده براتون سخت باشه. \n🤓با این روش میتونین مشخص کنید چه نرم افزار هایی از طریق vpn وصل بشن و کدوم ها خیر. مثلا با این روش میتونید نرم افزارهای بانکیتون رو از مسیر vpn خارج کنید",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "😎شاید استفاده همزمان بین نرم افزار های داخلی و نرم افزار های فیلتر شده براتون سخت باشه. \n🤓با این روش میتونین مشخص کنید چه نرم افزار هایی از طریق vpn وصل بشن و کدوم ها خیر. مثلا با این روش میتونید نرم افزارهای بانکیتون رو از مسیر vpn خارج کنید"
+    }
+   ]
+  },
+  {
+   "id": 95,
+   "type": "message",
+   "date": "2022-12-22T16:50:25",
+   "date_unixtime": "1671715225",
+   "edited": "2022-12-22T16:51:04",
+   "edited_unixtime": "1671715264",
+   "from": "Free Xray VPN",
+   "from_id": "channel1885529128",
+   "text": "من این کانال رو برای استفاده دوستان و آشنایان ساختم و حالا نزدیک هزار نفر عضو داره 😊 فکر نمیکردم انقدر استقبال بشه 🤯\n✅قدم همگی به روی چشم!\n❗️ولی فکر‌کنم با افزایش تعداد اعضا احتمال فیلتر شدن سرورها هم کم کم وجود خواهد داشت.\nاگر دوست و آشنایی دارید که خارج از ایران هستند؛ باهاشون صحبت کنید و تشویقشون کنید که وارد این راه بشن. باور کنید کار سختی نیست. من هم با ویدیو یوتیوب یاد گرفتم سرور بسازم. \nتا الان خیلیا توی همین کانال هستند که یاد گرفتن چطور سرور مشابه بسازن قطعا شما هم از پسش بر میاید. \nباور کنید راه مبارزه با فیلترینگ اینه که خودمون دست به کار بشیم و برای خودمون و خانوادمون یه حرکتی بکنیم.\nزیر این پست به صورت کامنت یه سری لینک و ویدیو میذارم و میتونیم بیشتر در موردش صحبت کنیم.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "من این کانال رو برای استفاده دوستان و آشنایان ساختم و حالا نزدیک هزار نفر عضو داره 😊 فکر نمیکردم انقدر استقبال بشه 🤯\n✅قدم همگی به روی چشم!\n❗️ولی فکر‌کنم با افزایش تعداد اعضا احتمال فیلتر شدن سرورها هم کم کم وجود خواهد داشت.\nاگر دوست و آشنایی دارید که خارج از ایران هستند؛ باهاشون صحبت کنید و تشویقشون کنید که وارد این راه بشن. باور کنید کار سختی نیست. من هم با ویدیو یوتیوب یاد گرفتم سرور بسازم. \nتا الان خیلیا توی همین کانال هستند که یاد گرفتن چطور سرور مشابه بسازن قطعا شما هم از پسش بر میاید. \nباور کنید راه مبارزه با فیلترینگ اینه که خودمون دست به کار بشیم و برای خودمون و خانوادمون یه حرکتی بکنیم.\nزیر این پست به صورت کامنت یه سری لینک و ویدیو میذارم و میتونیم بیشتر در موردش صحبت کنیم."
+    }
+   ]
+  },
+  {
+   "id": 116,
+   "type": "message",
+   "date": "2022-12-25T15:27:12",
+   "date_unixtime": "1671969432",
+   "edited": "2022-12-25T15:27:38",
+   "edited_unixtime": "1671969458",
+   "from": "Free Xray VPN",
+   "from_id": "channel1885529128",
+   "text": "لگو قبلی رو پسرم کشیده بود ❤️😍\nحالا یه لگو اهدایی برامون درست کردن 👍🎉😊",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "لگو قبلی رو پسرم کشیده بود ❤️😍\nحالا یه لگو اهدایی برامون درست کردن 👍🎉😊"
+    }
+   ]
+  },
+  {
+   "id": 121,
+   "type": "service",
+   "date": "2022-12-25T15:35:42",
+   "date_unixtime": "1671969942",
+   "actor": "Free Xray VPN",
+   "actor_id": "channel1885529128",
+   "action": "edit_group_photo",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 640,
+   "height": 640,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 122,
+   "type": "service",
+   "date": "2022-12-25T15:36:28",
+   "date_unixtime": "1671969988",
+   "actor": "Free Xray VPN",
+   "actor_id": "channel1885529128",
+   "action": "edit_group_photo",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 640,
+   "height": 640,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 133,
+   "type": "message",
+   "date": "2022-12-26T00:55:07",
+   "date_unixtime": "1672003507",
+   "edited": "2022-12-26T00:57:15",
+   "edited_unixtime": "1672003635",
+   "from": "Free Xray VPN",
+   "from_id": "channel1885529128",
+   "text": [
+    "سرور آلمان 2 به نظر میاد هنوز گروهی دارن استفاده میکنن :)\n🇩🇪  ",
+    {
+     "type": "bold",
+     "text": "Vmess Germany 2:\n"
+    },
+    {
+     "type": "pre",
+     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHZXJtYW55IDIiLAogICJhZGQiOiAib3YyZ2VybWFueS5yb25hZ2hpLnRrIiwKICAicG9ydCI6IDQ0MywKICAiaWQiOiAiYjIyZmZkYTctOTAyMS00NDhhLTkyNTctZjcwNDk2Y2ExOTRhIiwKICAiYWlkIjogMCwKICAibmV0IjogIndzIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIi8iLAogICJ0bHMiOiAidGxzIgp9\n\n",
+     "language": ""
+    },
+    "🇩🇪 ",
+    {
+     "type": "underline",
+     "text": "Vless Germany 2:\n"
+    },
+    {
+     "type": "pre",
+     "text": "vless://5c3d0247-d6d5-4139-c8e5-67154de39fdf@ov2germany.ronaghi.tk:8443?type=tcp&security=xtls&flow=xtls-rprx-direct#Vless%20Germany%202\n\n",
+     "language": ""
+    },
+    "🇩🇪 ",
+    {
+     "type": "bold",
+     "text": "Trojan Germany 2:\n"
+    },
+    {
+     "type": "pre",
+     "text": "trojan://ryOkOHWVCH@ov2germany.ronaghi.tk:2087#Trojan%20Germany2\n\n",
+     "language": ""
+    },
+    "🇩🇪 ",
+    {
+     "type": "bold",
+     "text": "SS Germany 2:\n"
+    },
+    {
+     "type": "code",
+     "text": "ss://YWVzLTI1Ni1nY206S0w3QkpCTklRVQ==@ov2germany.ronaghi.tk:8882#SS+Germany+2"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "سرور آلمان 2 به نظر میاد هنوز گروهی دارن استفاده میکنن :)\n🇩🇪  "
+    },
+    {
+     "type": "bold",
+     "text": "Vmess Germany 2:\n"
+    },
+    {
+     "type": "pre",
+     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHZXJtYW55IDIiLAogICJhZGQiOiAib3YyZ2VybWFueS5yb25hZ2hpLnRrIiwKICAicG9ydCI6IDQ0MywKICAiaWQiOiAiYjIyZmZkYTctOTAyMS00NDhhLTkyNTctZjcwNDk2Y2ExOTRhIiwKICAiYWlkIjogMCwKICAibmV0IjogIndzIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIi8iLAogICJ0bHMiOiAidGxzIgp9\n\n",
+     "language": ""
+    },
+    {
+     "type": "plain",
+     "text": "🇩🇪 "
+    },
+    {
+     "type": "underline",
+     "text": "Vless Germany 2:\n"
+    },
+    {
+     "type": "pre",
+     "text": "vless://5c3d0247-d6d5-4139-c8e5-67154de39fdf@ov2germany.ronaghi.tk:8443?type=tcp&security=xtls&flow=xtls-rprx-direct#Vless%20Germany%202\n\n",
+     "language": ""
+    },
+    {
+     "type": "plain",
+     "text": "🇩🇪 "
+    },
+    {
+     "type": "bold",
+     "text": "Trojan Germany 2:\n"
+    },
+    {
+     "type": "pre",
+     "text": "trojan://ryOkOHWVCH@ov2germany.ronaghi.tk:2087#Trojan%20Germany2\n\n",
+     "language": ""
+    },
+    {
+     "type": "plain",
+     "text": "🇩🇪 "
+    },
+    {
+     "type": "bold",
+     "text": "SS Germany 2:\n"
+    },
+    {
+     "type": "code",
+     "text": "ss://YWVzLTI1Ni1nY206S0w3QkpCTklRVQ==@ov2germany.ronaghi.tk:8882#SS+Germany+2"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 157,
+   "type": "message",
+   "date": "2022-12-28T20:23:04",
+   "date_unixtime": "1672246384",
+   "edited": "2022-12-29T07:12:22",
+   "edited_unixtime": "1672285342",
+   "from": "Free Xray VPN",
+   "from_id": "channel1885529128",
+   "text": [
+    "سرور آلمان پنج به نظر میرسه کانکشن هاش استفاده نمیشه. لطفا بگید اگر اینطوریه من جایگزینش کنم 👍\n\n🇩🇪 ",
+    {
+     "type": "bold",
+     "text": "Vmess Germany 5:"
+    },
+    "\n",
+    {
+     "type": "code",
+     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHZXJtYW55IDUiLAogICJhZGQiOiAib3Y1Z2VybWFueS5yb25hZ2hpLnRrIiwKICAicG9ydCI6IDQ0MywKICAiaWQiOiAiYjIyZmZkYTctOTAyMS00NDhhLTkyNTctZjcwNDk2Y2ExOTRhIiwKICAiYWlkIjogMCwKICAibmV0IjogIndzIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIi8iLAogICJ0bHMiOiAidGxzIgp9"
+    },
+    "\n\n🇩🇪 ",
+    {
+     "type": "underline",
+     "text": "Vless Germany 5:"
+    },
+    "\n",
+    {
+     "type": "code",
+     "text": "vless://5c3d0247-d6d5-4139-c8e5-67154de39fdf@ov5germany.ronaghi.tk:8443?type=tcp&security=xtls&flow=xtls-rprx-direct#Vless%20Germany%205"
+    },
+    "\n\n🇩🇪 ",
+    {
+     "type": "bold",
+     "text": "Trojan Germany 5:"
+    },
+    "\n",
+    {
+     "type": "code",
+     "text": "trojan://ryOkOHWVCH@ov5germany.ronaghi.tk:2087#Trojan%20Germany%205"
+    },
+    "\n\n🇩🇪 ",
+    {
+     "type": "bold",
+     "text": "SS Germany 5:"
+    },
+    "\n",
+    {
+     "type": "code",
+     "text": "ss://Y2hhY2hhMjAtcG9seTEzMDU6SERLOE1tS3hLOQ==@ov5germany.ronaghi.tk:15489#SS+Germany+5"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "سرور آلمان پنج به نظر میرسه کانکشن هاش استفاده نمیشه. لطفا بگید اگر اینطوریه من جایگزینش کنم 👍\n\n🇩🇪 "
+    },
+    {
+     "type": "bold",
+     "text": "Vmess Germany 5:"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "code",
+     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHZXJtYW55IDUiLAogICJhZGQiOiAib3Y1Z2VybWFueS5yb25hZ2hpLnRrIiwKICAicG9ydCI6IDQ0MywKICAiaWQiOiAiYjIyZmZkYTctOTAyMS00NDhhLTkyNTctZjcwNDk2Y2ExOTRhIiwKICAiYWlkIjogMCwKICAibmV0IjogIndzIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIi8iLAogICJ0bHMiOiAidGxzIgp9"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n🇩🇪 "
+    },
+    {
+     "type": "underline",
+     "text": "Vless Germany 5:"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "code",
+     "text": "vless://5c3d0247-d6d5-4139-c8e5-67154de39fdf@ov5germany.ronaghi.tk:8443?type=tcp&security=xtls&flow=xtls-rprx-direct#Vless%20Germany%205"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n🇩🇪 "
+    },
+    {
+     "type": "bold",
+     "text": "Trojan Germany 5:"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "code",
+     "text": "trojan://ryOkOHWVCH@ov5germany.ronaghi.tk:2087#Trojan%20Germany%205"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n🇩🇪 "
+    },
+    {
+     "type": "bold",
+     "text": "SS Germany 5:"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "code",
+     "text": "ss://Y2hhY2hhMjAtcG9seTEzMDU6SERLOE1tS3hLOQ==@ov5germany.ronaghi.tk:15489#SS+Germany+5"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 172,
+   "type": "message",
+   "date": "2023-01-02T18:33:28",
+   "date_unixtime": "1672671808",
+   "edited": "2023-01-02T19:49:57",
+   "edited_unixtime": "1672676397",
+   "from": "Free Xray VPN",
+   "from_id": "channel1885529128",
+   "text": [
+    "سرور 11 آلمان \n",
+    {
+     "type": "bold",
+     "text": "🇩🇪 Vless Germany 11:\n"
+    },
+    {
+     "type": "code",
+     "text": "vless://f65d4a44-9b59-47e2-9c3b-572c8a269c54@ov11germany.tavakoli.gq:443?path=%2F&security=tls&encryption=none&type=ws&sni=ov11germany.tavakoli.gq#Vless+Germany+11"
+    },
+    {
+     "type": "code",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "🇩🇪 Trojan Germany 11:\n"
+    },
+    {
+     "type": "code",
+     "text": "trojan://WG1aD0x62W@ov11germany.tavakoli.gq:53785#Trojan%20Germany%2011"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "سرور 11 آلمان \n"
+    },
+    {
+     "type": "bold",
+     "text": "🇩🇪 Vless Germany 11:\n"
+    },
+    {
+     "type": "code",
+     "text": "vless://f65d4a44-9b59-47e2-9c3b-572c8a269c54@ov11germany.tavakoli.gq:443?path=%2F&security=tls&encryption=none&type=ws&sni=ov11germany.tavakoli.gq#Vless+Germany+11"
+    },
+    {
+     "type": "code",
+     "text": "\n\n"
+    },
+    {
+     "type": "bold",
+     "text": "🇩🇪 Trojan Germany 11:\n"
+    },
+    {
+     "type": "code",
+     "text": "trojan://WG1aD0x62W@ov11germany.tavakoli.gq:53785#Trojan%20Germany%2011"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 183,
+   "type": "message",
+   "date": "2023-01-04T21:12:51",
+   "date_unixtime": "1672854171",
+   "edited": "2023-01-04T21:13:17",
+   "edited_unixtime": "1672854197",
+   "from": "Free Xray VPN",
+   "from_id": "channel1885529128",
+   "text": "سلام دوستان عزیز لازمه یاد آوری کنم که : \n۱- کانکشنی هایی که توی گروه قابل دیدن هستن روشون ترافیک هست و داره توسط بخشی از کاربرا استفاده میشه. \n۲- برای دو تا گوشی توی یک خونه با یک وایفای امکان داره نتیجه متفاوت بگیرید.\n۳ - کانکشنی که الان کار نمیکنه احتمالا بعدا برای شما کار کنه و بلعکس.  \n۴ - کاری که دارن میکنن اینه که روی اصل اینترنت اختلال ایجاد کنن یعنی یک وایت لیستی دارند از سایت هایی که کاری باهاش ندارن روی بقیه آی پی ها رندوم پورت ها رو میبندن باز میکنن یا آپلود رو کم میکنن. \n\n۵- چاره چیه؟ فامیل خارج از ایران دارید بگید پول دو سه تا بیگ مک رو بذاره کنار و یه مقدار وقت بذاره حتما از پسش بر میاد :) بیاد من هم کمکش میکنم .\n\n۶- من اینجا بازم سرور میذارم . \nبه امید روزهای بهتر 🕊",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "سلام دوستان عزیز لازمه یاد آوری کنم که : \n۱- کانکشنی هایی که توی گروه قابل دیدن هستن روشون ترافیک هست و داره توسط بخشی از کاربرا استفاده میشه. \n۲- برای دو تا گوشی توی یک خونه با یک وایفای امکان داره نتیجه متفاوت بگیرید.\n۳ - کانکشنی که الان کار نمیکنه احتمالا بعدا برای شما کار کنه و بلعکس.  \n۴ - کاری که دارن میکنن اینه که روی اصل اینترنت اختلال ایجاد کنن یعنی یک وایت لیستی دارند از سایت هایی که کاری باهاش ندارن روی بقیه آی پی ها رندوم پورت ها رو میبندن باز میکنن یا آپلود رو کم میکنن. \n\n۵- چاره چیه؟ فامیل خارج از ایران دارید بگید پول دو سه تا بیگ مک رو بذاره کنار و یه مقدار وقت بذاره حتما از پسش بر میاد :) بیاد من هم کمکش میکنم .\n\n۶- من اینجا بازم سرور میذارم . \nبه امید روزهای بهتر 🕊"
+    }
+   ]
+  },
+  {
+   "id": 190,
+   "type": "message",
+   "date": "2023-01-05T16:51:44",
+   "date_unixtime": "1672924904",
+   "edited": "2023-01-05T16:51:47",
+   "edited_unixtime": "1672924907",
+   "from": "Free Xray VPN",
+   "from_id": "channel1885529128",
+   "text": "دوستان روی این اسکریپت جدید به من feedback بدید 👆\nبدون بازخورد شما کارمون سخت میشه :)",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "دوستان روی این اسکریپت جدید به من feedback بدید 👆\nبدون بازخورد شما کارمون سخت میشه :)"
+    }
+   ]
+  },
+  {
+   "id": 191,
+   "type": "message",
+   "date": "2023-01-05T18:11:10",
+   "date_unixtime": "1672929670",
+   "edited": "2023-01-05T18:16:04",
+   "edited_unixtime": "1672929964",
+   "from": "Free Xray VPN",
+   "from_id": "channel1885529128",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 655,
+   "height": 1280,
+   "text": [
+    "کسایی که ios دارید بیاید بگید چه نرم افزاری استفاده میکنید ؟ \n\nاین لینک رو دیدید؟ \n",
+    {
+     "type": "link",
+     "text": "https://ov16germany.tavakoli.gq/26fd03bdbc78bb8597a178d78d53d194/"
+    },
+    "\nبیاید این زیر حتما فیدبک بدید از تجربتون بگید که بتونیم به راه حل های بهتر برسیم 👍"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "کسایی که ios دارید بیاید بگید چه نرم افزاری استفاده میکنید ؟ \n\nاین لینک رو دیدید؟ \n"
+    },
+    {
+     "type": "link",
+     "text": "https://ov16germany.tavakoli.gq/26fd03bdbc78bb8597a178d78d53d194/"
+    },
+    {
+     "type": "plain",
+     "text": "\nبیاید این زیر حتما فیدبک بدید از تجربتون بگید که بتونیم به راه حل های بهتر برسیم 👍"
+    }
+   ]
+  },
+  {
+   "id": 197,
+   "type": "message",
+   "date": "2023-01-06T03:47:47",
+   "date_unixtime": "1672964267",
+   "edited": "2023-01-06T06:58:30",
+   "edited_unixtime": "1672975710",
+   "from": "Free Xray VPN",
+   "from_id": "channel1885529128",
+   "forwarded_from": "Hiddify",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 400,
+   "height": 822,
+   "text": [
+    "نسخه 0.6 هایدیفای پروکسی اندروید منتشر شد\nحتما آپدیت کنید\n\nرفع اشکال کانکت نشدن بعضی لینکها\n\nپشتیبانی از همه پروتوکل های معروف\nvless, vless+xtls, vmess, v2ray, trojan, trojan-go, socks, http, https, shadowsocks, ssr\n\nشما میتوانید چندین پیام تلگرام را کپی کنید و در نرم افزار هایدیفای پروکسی اجرا کنید.\nبا این کار یک پروفایل ایجاد می شود (نه چند تا پروفایل) و پروکسی که کار میکند را نشان میدهد\nهمچنین میتوانید با یک کلیک ببینید کدام پروکسی برای شما کار میکند\n\n\n- امکان ایمپورت گروهی\n\n- بای پس کردن سایت های ایرانی (rule) یا global\n\n- انتخاب فوری پروفایل پس از ایمپورت\n\nامکانات بیشتر را شما پیشنهاد کنید\n\nلینک دانلود:\n",
+    {
+     "type": "link",
+     "text": "https://github.com/hiddify/HiddifyProxyAndroid/releases"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "نسخه 0.6 هایدیفای پروکسی اندروید منتشر شد\nحتما آپدیت کنید\n\nرفع اشکال کانکت نشدن بعضی لینکها\n\nپشتیبانی از همه پروتوکل های معروف\nvless, vless+xtls, vmess, v2ray, trojan, trojan-go, socks, http, https, shadowsocks, ssr\n\nشما میتوانید چندین پیام تلگرام را کپی کنید و در نرم افزار هایدیفای پروکسی اجرا کنید.\nبا این کار یک پروفایل ایجاد می شود (نه چند تا پروفایل) و پروکسی که کار میکند را نشان میدهد\nهمچنین میتوانید با یک کلیک ببینید کدام پروکسی برای شما کار میکند\n\n\n- امکان ایمپورت گروهی\n\n- بای پس کردن سایت های ایرانی (rule) یا global\n\n- انتخاب فوری پروفایل پس از ایمپورت\n\nامکانات بیشتر را شما پیشنهاد کنید\n\nلینک دانلود:\n"
+    },
+    {
+     "type": "link",
+     "text": "https://github.com/hiddify/HiddifyProxyAndroid/releases"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 198,
+   "type": "message",
+   "date": "2023-01-06T03:47:47",
+   "date_unixtime": "1672964267",
+   "edited": "2023-01-06T06:58:34",
+   "edited_unixtime": "1672975714",
+   "from": "Free Xray VPN",
+   "from_id": "channel1885529128",
+   "forwarded_from": "Hiddify",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "mime_type": "application/vnd.android.package-archive",
+   "text": [
+    "فایل نصبی نسخه 0.6 \n\nتوجه کنید که هایدیفای پروکسی کاملا امن و اوپن سورس هست و اتوماتیک کد کامپایل می‌شود  و نسخه جدید ایجاد می‌گردد\n\n\n\nمشاهده در گیت هاب\n",
+    {
+     "type": "link",
+     "text": "https://github.com/hiddify/HiddifyProxyAndroid/releases"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "فایل نصبی نسخه 0.6 \n\nتوجه کنید که هایدیفای پروکسی کاملا امن و اوپن سورس هست و اتوماتیک کد کامپایل می‌شود  و نسخه جدید ایجاد می‌گردد\n\n\n\nمشاهده در گیت هاب\n"
+    },
+    {
+     "type": "link",
+     "text": "https://github.com/hiddify/HiddifyProxyAndroid/releases"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 200,
+   "type": "message",
+   "date": "2023-01-06T13:42:35",
+   "date_unixtime": "1672999955",
+   "edited": "2023-01-06T14:57:26",
+   "edited_unixtime": "1673004446",
+   "from": "Free Xray VPN",
+   "from_id": "channel1885529128",
+   "reply_to_message_id": 191,
+   "text": "دوستانی که آیفون دارن و میتونن از لینک های کانال استفاده کنن بیان زیر پست بالا به بقیه کمک کنن . من آیفون ندارم واقعا کمکی از دستم بر نمیاد 👆",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "دوستانی که آیفون دارن و میتونن از لینک های کانال استفاده کنن بیان زیر پست بالا به بقیه کمک کنن . من آیفون ندارم واقعا کمکی از دستم بر نمیاد 👆"
+    }
+   ]
+  },
+  {
+   "id": 201,
+   "type": "service",
+   "date": "2023-01-06T17:15:23",
+   "date_unixtime": "1673012723",
+   "actor": "Free Xray VPN",
+   "actor_id": "channel1885529128",
+   "action": "pin_message",
+   "message_id": 183,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 203,
+   "type": "message",
+   "date": "2023-01-06T17:48:14",
+   "date_unixtime": "1673014694",
+   "edited": "2023-01-06T18:22:40",
+   "edited_unixtime": "1673016760",
+   "from": "Free Xray VPN",
+   "from_id": "channel1885529128",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "video_file",
+   "mime_type": "video/mp4",
+   "duration_seconds": 69,
+   "width": 592,
+   "height": 1136,
+   "text": "نحوه استفاده از کانکشن های گروه در هایدیفای \n(برای کاربران اندروید)\n\n1️⃣مرحله ۱ : مطابق ویدیو تمام کانکشن هایی که مورد نظرتون هست رو یکجا انتخاب و کپی کنید. \n\n2⃣مرحله ۲: بعد از کپی این پیام ها وارد نرم افزار هایدیفای بشین.\nاین گزینه رو انتخاب کنند تا پیام های کپی شده ایمپورت بشه.\n\n3️⃣مرحله ۳: بعد از اون روی گزینه پروفایل میزنید \n4⃣در مرحله ۴: و پروفایل ایجاد شده رو انتخاب کنند\n\n5️⃣مرحله ۵: بر روی این گزینه بزنند. تا اتصال صورت بگیره.\n\n✅نرم افزار هایدیفای بصورت اتوماتیک مناسب ترین سرور رو برای اتصال شما پیدا میکنه و کانکت میشه",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "نحوه استفاده از کانکشن های گروه در هایدیفای \n(برای کاربران اندروید)\n\n1️⃣مرحله ۱ : مطابق ویدیو تمام کانکشن هایی که مورد نظرتون هست رو یکجا انتخاب و کپی کنید. \n\n2⃣مرحله ۲: بعد از کپی این پیام ها وارد نرم افزار هایدیفای بشین.\nاین گزینه رو انتخاب کنند تا پیام های کپی شده ایمپورت بشه.\n\n3️⃣مرحله ۳: بعد از اون روی گزینه پروفایل میزنید \n4⃣در مرحله ۴: و پروفایل ایجاد شده رو انتخاب کنند\n\n5️⃣مرحله ۵: بر روی این گزینه بزنند. تا اتصال صورت بگیره.\n\n✅نرم افزار هایدیفای بصورت اتوماتیک مناسب ترین سرور رو برای اتصال شما پیدا میکنه و کانکت میشه"
+    }
+   ]
+  },
+  {
+   "id": 204,
+   "type": "message",
+   "date": "2023-01-06T17:48:14",
+   "date_unixtime": "1673014694",
+   "edited": "2023-01-06T17:57:41",
+   "edited_unixtime": "1673015261",
+   "from": "Free Xray VPN",
+   "from_id": "channel1885529128",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 590,
+   "height": 177,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 205,
+   "type": "message",
+   "date": "2023-01-06T17:48:14",
+   "date_unixtime": "1673014694",
+   "edited": "2023-01-06T17:48:17",
+   "edited_unixtime": "1673014697",
+   "from": "Free Xray VPN",
+   "from_id": "channel1885529128",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 657,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 206,
+   "type": "message",
+   "date": "2023-01-06T17:48:14",
+   "date_unixtime": "1673014694",
+   "edited": "2023-01-06T17:58:23",
+   "edited_unixtime": "1673015303",
+   "from": "Free Xray VPN",
+   "from_id": "channel1885529128",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 659,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 207,
+   "type": "message",
+   "date": "2023-01-06T17:48:14",
+   "date_unixtime": "1673014694",
+   "edited": "2023-01-06T17:48:17",
+   "edited_unixtime": "1673014697",
+   "from": "Free Xray VPN",
+   "from_id": "channel1885529128",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 649,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 208,
+   "type": "message",
+   "date": "2023-01-06T17:48:15",
+   "date_unixtime": "1673014695",
+   "edited": "2023-01-06T18:01:08",
+   "edited_unixtime": "1673015468",
+   "from": "Free Xray VPN",
+   "from_id": "channel1885529128",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "video_file",
+   "mime_type": "video/mp4",
+   "duration_seconds": 69,
+   "width": 446,
+   "height": 854,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 211,
+   "type": "message",
+   "date": "2023-01-07T14:51:12",
+   "date_unixtime": "1673090472",
+   "edited": "2023-01-07T14:51:49",
+   "edited_unixtime": "1673090509",
+   "from": "Free Xray VPN",
+   "from_id": "channel1885529128",
+   "forwarded_from": "Hiddify",
+   "text": [
+    "دوستان ما میخواستیم واتساپ پروکسی را اضافه کنیم به مجموعمون ولی همین بگیم که این پروکسی واتساپ یه تبلیغ دروغه\n\nبا پروکسی واتساپ، شما فقط میتونید پیام متنی ببینید و خبری از تماس و حتی دانلود و آپلود تصاویر و ویدیوها نیست\n\nضمنا پروتکل پروکسیش خیلی مسخرس و ظرف ۲۰ دقیقه شناسایی و سرور بلاک میشه\n\n",
+    {
+     "type": "mention",
+     "text": "@hiddify"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "دوستان ما میخواستیم واتساپ پروکسی را اضافه کنیم به مجموعمون ولی همین بگیم که این پروکسی واتساپ یه تبلیغ دروغه\n\nبا پروکسی واتساپ، شما فقط میتونید پیام متنی ببینید و خبری از تماس و حتی دانلود و آپلود تصاویر و ویدیوها نیست\n\nضمنا پروتکل پروکسیش خیلی مسخرس و ظرف ۲۰ دقیقه شناسایی و سرور بلاک میشه\n\n"
+    },
+    {
+     "type": "mention",
+     "text": "@hiddify"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 212,
+   "type": "message",
+   "date": "2023-01-08T05:33:18",
+   "date_unixtime": "1673143398",
+   "edited": "2023-01-08T05:33:21",
+   "edited_unixtime": "1673143401",
+   "from": "Free Xray VPN",
+   "from_id": "channel1885529128",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "video_file",
+   "mime_type": "video/mp4",
+   "duration_seconds": 27,
+   "width": 384,
+   "height": 816,
+   "text": "پروکسی های تلگرام هم استفاده کنید :) و خبر بدین که آیا برای شما کار میکنه؟",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "پروکسی های تلگرام هم استفاده کنید :) و خبر بدین که آیا برای شما کار میکنه؟"
+    }
+   ]
+  },
+  {
+   "id": 217,
+   "type": "message",
+   "date": "2023-01-09T00:15:07",
+   "date_unixtime": "1673210707",
+   "edited": "2023-01-09T00:17:48",
+   "edited_unixtime": "1673210868",
+   "from": "Free Xray VPN",
+   "from_id": "channel1885529128",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1195,
+   "height": 385,
+   "text": "سرور ها مجموعا روی هم ۵۰۰ مگابیت بر ثانیه ترافیک دارن . حدود ۶۰ مگابایت بر ثاینه.یعنی  سه الی چهار گیگ در دقیقه",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "سرور ها مجموعا روی هم ۵۰۰ مگابیت بر ثانیه ترافیک دارن . حدود ۶۰ مگابایت بر ثاینه.یعنی  سه الی چهار گیگ در دقیقه"
+    }
+   ]
+  },
+  {
+   "id": 218,
+   "type": "message",
+   "date": "2023-01-09T15:39:49",
+   "date_unixtime": "1673266189",
+   "edited": "2023-01-09T15:46:12",
+   "edited_unixtime": "1673266572",
+   "from": "Free Xray VPN",
+   "from_id": "channel1885529128",
+   "text": [
+    "سرور 5 لهستان\n",
+    {
+     "type": "link",
+     "text": "https://ov5poland.tavakoli.gq/3f5ab45ed70ef11ac81fe20662443371/"
+    },
+    "\n\n",
+    {
+     "type": "hashtag",
+     "text": "#xtls"
+    },
+    ":\n",
+    {
+     "type": "pre",
+     "text": "vless://3f5ab45e-d70e-f11a-c81f-e20662443371@146.59.116.243:443?flow=xtls-rprx-direct&security=xtls&alpn=h2&sni=ov5poland.tavakoli.gq&type=tcp#vless+xtls_ov5poland.tavakoli.gq\n\n",
+     "language": ""
+    },
+    {
+     "type": "hashtag",
+     "text": "#ws"
+    },
+    ":\n",
+    {
+     "type": "pre",
+     "text": "vless://3f5ab45e-d70e-f11a-c81f-e20662443371@146.59.116.243:443?security=tls&alpn=h2&sni=ov5poland.tavakoli.gq&type=ws&path=%2F3f5ab45ed70ef11ac81fe20662443371%2Fvlessws#vless_ws_ov5poland.tavakoli.gq\ntrojan://3f5ab45e-d70e-f11a-c81f-e20662443371@146.59.116.243:443?security=tls&alpn=h2&sni=ov5poland.tavakoli.gq&type=ws&path=%2F3f5ab45ed70ef11ac81fe20662443371%2Ftrojanws#trojan_ws_ov5poland.tavakoli.gq\nvmess://{\"v\":\"2\", \"ps\":\"vmess_ws_ov5poland.tavakoli.gq\", \"add\":\"146.59.116.243\", \"port\":\"443\", \"id\":\"3f5ab45e-d70e-f11a-c81f-e20662443371\", \"aid\":\"0\", \"scy\":\"auto\", \"net\":\"ws\", \"type\":\"none\", \"host\":\"\", \"path\":\"/3f5ab45ed70ef11ac81fe20662443371/vmessws\", \"tls\":\"tls\", \"sni\":\"ov5poland.tavakoli.gq\", \"alpn\":\"h2\"}\n\n#ws CDN:\nvless://3f5ab45e-d70e-f11a-c81f-e20662443371@ov5poland.tavakoli.gq:443?security=tls&alpn=h2&sni=ov5poland.tavakoli.gq&type=ws&path=%2F3f5ab45ed70ef11ac81fe20662443371%2Fvlessws#CDNvless_ws_ov5poland.tavakoli.gq\ntrojan://3f5ab45e-d70e-f11a-c81f-e20662443371@ov5poland.tavakoli.gq:443?security=tls&alpn=h2&sni=ov5poland.tavakoli.gq&type=ws&path=%2F3f5ab45ed70ef11ac81fe20662443371%2Ftrojanws#CDNtrojan_ws_ov5poland.tavakoli.gq\nvmess://{\"v\":\"2\", \"ps\":\"CDNvmess_ws_ov5poland.tavakoli.gq\", \"add\":\"ov5poland.tavakoli.gq\", \"port\":\"443\", \"id\":\"3f5ab45e-d70e-f11a-c81f-e20662443371\", \"aid\":\"0\", \"scy\":\"auto\", \"net\":\"ws\", \"type\":\"none\", \"host\":\"\", \"path\":\"/3f5ab45ed70ef11ac81fe20662443371/vmessws\", \"tls\":\"tls\", \"sni\":\"ov5poland.tavakoli.gq\", \"alpn\":\"h2\"}\n\n\n",
+     "language": ""
+    },
+    {
+     "type": "hashtag",
+     "text": "#grpc"
+    },
+    "\n",
+    {
+     "type": "pre",
+     "text": "vless://3f5ab45e-d70e-f11a-c81f-e20662443371@146.59.116.243:443?security=tls&alpn=h2&sni=ov5poland.tavakoli.gq&type=grpc&serviceName=3f5ab45ed70ef11ac81fe20662443371-vlgrpc&mode=multi#vless-grpc_ov5poland.tavakoli.gq\ntrojan://3f5ab45e-d70e-f11a-c81f-e20662443371@146.59.116.243:443?security=tls&alpn=h2&sni=ov5poland.tavakoli.gq&type=grpc&serviceName=3f5ab45ed70ef11ac81fe20662443371-trgrpc&mode=multi#trojan-grpc_ov5poland.tavakoli.gq\nvmess://{\"v\":\"2\", \"ps\":\"vmess_grpc_ov5poland.tavakoli.gq\", \"add\":\"146.59.116.243\", \"port\":\"443\", \"id\":\"3f5ab45e-d70e-f11a-c81f-e20662443371\", \"aid\":\"0\", \"scy\":\"auto\", \"net\":\"grpc\", \"type\":\"multi\", \"host\":\"\", \"path\":\"3f5ab45ed70ef11ac81fe20662443371-vmgrpc\", \"tls\":\"tls\", \"sni\":\"ov5poland.tavakoli.gq\", \"alpn\":\"h2\"}\n\n",
+     "language": ""
+    },
+    {
+     "type": "hashtag",
+     "text": "#tls"
+    },
+    "\n",
+    {
+     "type": "pre",
+     "text": "trojan://3f5ab45e-d70e-f11a-c81f-e20662443371@146.59.116.243:443?security=tls&sni=ov5poland.tavakoli.gq&alpn=h2&type=tcp#trojan+tls_ov5poland.tavakoli.gq\nvless://3f5ab45e-d70e-f11a-c81f-e20662443371@146.59.116.243:443?security=tls&sni=ov5poland.tavakoli.gq&alpn=h2&type=tcp#vless+tls_ov5poland.tavakoli.gq\nvmess://{\"v\": \"2\", \"ps\": \"vmess+tls_ov5poland.tavakoli.gq\", \"add\": \"146.59.116.243\", \"port\": \"443\", \"id\": \"3f5ab45e-d70e-f11a-c81f-e20662443371\", \"aid\": \"0\", \"scy\": \"auto\", \"net\": \"tcp\", \"type\":\"http\", \"host\": \"\", \"path\": \"/3f5ab45ed70ef11ac81fe20662443371/vmtc\", \"tls\": \"tls\", \"sni\": \"ov5poland.tavakoli.gq\", \"alpn\": \"h2\"}\n\n\n\n",
+     "language": ""
+    },
+    {
+     "type": "hashtag",
+     "text": "#tls"
+    },
+    "+http1.1\n#",
+    {
+     "type": "code",
+     "text": "trojan://3f5ab45e-d70e-f11a-c81f-e20662443371@146.59.116.243:443?security=tls&sni=ov5poland.tavakoli.gq&alpn=http/1.1&type=tcp&headerType=http&path=%2F3f5ab45ed70ef11ac81fe20662443371%2Ftrtc#trojan+tls+http1.1_ov5poland.tavakoli.gq\nvless://3f5ab45e-d70e-f11a-c81f-e20662443371@146.59.116.243:443?security=tls&sni=ov5poland.tavakoli.gq&alpn=http/1.1&type=tcp&headerType=http&path=%2F3f5ab45ed70ef11ac81fe20662443371%2Fvltc#vless+tls+http1.1_ov5poland.tavakoli.gq\nvmess://{\"v\": \"2\", \"ps\": \"vmess+tls+http1.1_ov5poland.tavakoli.gq\", \"add\": \"146.59.116.243\", \"port\": \"443\", \"id\": \"3f5ab45e-d70e-f11a-c81f-e20662443371\", \"aid\": \"0\", \"scy\": \"auto\", \"net\": \"tcp\", \"type\": \"http\", \"host\": \"\", \"path\": \"/3f5ab45ed70ef11ac81fe20662443371/vmtc\", \"tls\": \"tls\", \"sni\": \"ov5poland.tavakoli.gq\", \"alpn\": \"http/1.1\"}"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "سرور 5 لهستان\n"
+    },
+    {
+     "type": "link",
+     "text": "https://ov5poland.tavakoli.gq/3f5ab45ed70ef11ac81fe20662443371/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "hashtag",
+     "text": "#xtls"
+    },
+    {
+     "type": "plain",
+     "text": ":\n"
+    },
+    {
+     "type": "pre",
+     "text": "vless://3f5ab45e-d70e-f11a-c81f-e20662443371@146.59.116.243:443?flow=xtls-rprx-direct&security=xtls&alpn=h2&sni=ov5poland.tavakoli.gq&type=tcp#vless+xtls_ov5poland.tavakoli.gq\n\n",
+     "language": ""
+    },
+    {
+     "type": "hashtag",
+     "text": "#ws"
+    },
+    {
+     "type": "plain",
+     "text": ":\n"
+    },
+    {
+     "type": "pre",
+     "text": "vless://3f5ab45e-d70e-f11a-c81f-e20662443371@146.59.116.243:443?security=tls&alpn=h2&sni=ov5poland.tavakoli.gq&type=ws&path=%2F3f5ab45ed70ef11ac81fe20662443371%2Fvlessws#vless_ws_ov5poland.tavakoli.gq\ntrojan://3f5ab45e-d70e-f11a-c81f-e20662443371@146.59.116.243:443?security=tls&alpn=h2&sni=ov5poland.tavakoli.gq&type=ws&path=%2F3f5ab45ed70ef11ac81fe20662443371%2Ftrojanws#trojan_ws_ov5poland.tavakoli.gq\nvmess://{\"v\":\"2\", \"ps\":\"vmess_ws_ov5poland.tavakoli.gq\", \"add\":\"146.59.116.243\", \"port\":\"443\", \"id\":\"3f5ab45e-d70e-f11a-c81f-e20662443371\", \"aid\":\"0\", \"scy\":\"auto\", \"net\":\"ws\", \"type\":\"none\", \"host\":\"\", \"path\":\"/3f5ab45ed70ef11ac81fe20662443371/vmessws\", \"tls\":\"tls\", \"sni\":\"ov5poland.tavakoli.gq\", \"alpn\":\"h2\"}\n\n#ws CDN:\nvless://3f5ab45e-d70e-f11a-c81f-e20662443371@ov5poland.tavakoli.gq:443?security=tls&alpn=h2&sni=ov5poland.tavakoli.gq&type=ws&path=%2F3f5ab45ed70ef11ac81fe20662443371%2Fvlessws#CDNvless_ws_ov5poland.tavakoli.gq\ntrojan://3f5ab45e-d70e-f11a-c81f-e20662443371@ov5poland.tavakoli.gq:443?security=tls&alpn=h2&sni=ov5poland.tavakoli.gq&type=ws&path=%2F3f5ab45ed70ef11ac81fe20662443371%2Ftrojanws#CDNtrojan_ws_ov5poland.tavakoli.gq\nvmess://{\"v\":\"2\", \"ps\":\"CDNvmess_ws_ov5poland.tavakoli.gq\", \"add\":\"ov5poland.tavakoli.gq\", \"port\":\"443\", \"id\":\"3f5ab45e-d70e-f11a-c81f-e20662443371\", \"aid\":\"0\", \"scy\":\"auto\", \"net\":\"ws\", \"type\":\"none\", \"host\":\"\", \"path\":\"/3f5ab45ed70ef11ac81fe20662443371/vmessws\", \"tls\":\"tls\", \"sni\":\"ov5poland.tavakoli.gq\", \"alpn\":\"h2\"}\n\n\n",
+     "language": ""
+    },
+    {
+     "type": "hashtag",
+     "text": "#grpc"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "pre",
+     "text": "vless://3f5ab45e-d70e-f11a-c81f-e20662443371@146.59.116.243:443?security=tls&alpn=h2&sni=ov5poland.tavakoli.gq&type=grpc&serviceName=3f5ab45ed70ef11ac81fe20662443371-vlgrpc&mode=multi#vless-grpc_ov5poland.tavakoli.gq\ntrojan://3f5ab45e-d70e-f11a-c81f-e20662443371@146.59.116.243:443?security=tls&alpn=h2&sni=ov5poland.tavakoli.gq&type=grpc&serviceName=3f5ab45ed70ef11ac81fe20662443371-trgrpc&mode=multi#trojan-grpc_ov5poland.tavakoli.gq\nvmess://{\"v\":\"2\", \"ps\":\"vmess_grpc_ov5poland.tavakoli.gq\", \"add\":\"146.59.116.243\", \"port\":\"443\", \"id\":\"3f5ab45e-d70e-f11a-c81f-e20662443371\", \"aid\":\"0\", \"scy\":\"auto\", \"net\":\"grpc\", \"type\":\"multi\", \"host\":\"\", \"path\":\"3f5ab45ed70ef11ac81fe20662443371-vmgrpc\", \"tls\":\"tls\", \"sni\":\"ov5poland.tavakoli.gq\", \"alpn\":\"h2\"}\n\n",
+     "language": ""
+    },
+    {
+     "type": "hashtag",
+     "text": "#tls"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "pre",
+     "text": "trojan://3f5ab45e-d70e-f11a-c81f-e20662443371@146.59.116.243:443?security=tls&sni=ov5poland.tavakoli.gq&alpn=h2&type=tcp#trojan+tls_ov5poland.tavakoli.gq\nvless://3f5ab45e-d70e-f11a-c81f-e20662443371@146.59.116.243:443?security=tls&sni=ov5poland.tavakoli.gq&alpn=h2&type=tcp#vless+tls_ov5poland.tavakoli.gq\nvmess://{\"v\": \"2\", \"ps\": \"vmess+tls_ov5poland.tavakoli.gq\", \"add\": \"146.59.116.243\", \"port\": \"443\", \"id\": \"3f5ab45e-d70e-f11a-c81f-e20662443371\", \"aid\": \"0\", \"scy\": \"auto\", \"net\": \"tcp\", \"type\":\"http\", \"host\": \"\", \"path\": \"/3f5ab45ed70ef11ac81fe20662443371/vmtc\", \"tls\": \"tls\", \"sni\": \"ov5poland.tavakoli.gq\", \"alpn\": \"h2\"}\n\n\n\n",
+     "language": ""
+    },
+    {
+     "type": "hashtag",
+     "text": "#tls"
+    },
+    {
+     "type": "plain",
+     "text": "+http1.1\n#"
+    },
+    {
+     "type": "code",
+     "text": "trojan://3f5ab45e-d70e-f11a-c81f-e20662443371@146.59.116.243:443?security=tls&sni=ov5poland.tavakoli.gq&alpn=http/1.1&type=tcp&headerType=http&path=%2F3f5ab45ed70ef11ac81fe20662443371%2Ftrtc#trojan+tls+http1.1_ov5poland.tavakoli.gq\nvless://3f5ab45e-d70e-f11a-c81f-e20662443371@146.59.116.243:443?security=tls&sni=ov5poland.tavakoli.gq&alpn=http/1.1&type=tcp&headerType=http&path=%2F3f5ab45ed70ef11ac81fe20662443371%2Fvltc#vless+tls+http1.1_ov5poland.tavakoli.gq\nvmess://{\"v\": \"2\", \"ps\": \"vmess+tls+http1.1_ov5poland.tavakoli.gq\", \"add\": \"146.59.116.243\", \"port\": \"443\", \"id\": \"3f5ab45e-d70e-f11a-c81f-e20662443371\", \"aid\": \"0\", \"scy\": \"auto\", \"net\": \"tcp\", \"type\": \"http\", \"host\": \"\", \"path\": \"/3f5ab45ed70ef11ac81fe20662443371/vmtc\", \"tls\": \"tls\", \"sni\": \"ov5poland.tavakoli.gq\", \"alpn\": \"http/1.1\"}"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 221,
+   "type": "message",
+   "date": "2023-01-09T23:27:09",
+   "date_unixtime": "1673294229",
+   "edited": "2023-01-10T00:00:45",
+   "edited_unixtime": "1673296245",
+   "from": "Free Xray VPN",
+   "from_id": "channel1885529128",
+   "text": [
+    "سرور 4 لهستان \n",
+    {
+     "type": "link",
+     "text": "https://ov4poland.tavakoli.gq/3e6993b68ba07c052237caa3bf418863/"
+    },
+    "\n\n",
+    {
+     "type": "hashtag",
+     "text": "#xtls"
+    },
+    ":\n",
+    {
+     "type": "pre",
+     "text": "vless://3e6993b6-8ba0-7c05-2237-caa3bf418863@146.59.116.74:443?flow=xtls-rprx-direct&security=xtls&alpn=h2&sni=ov4poland.tavakoli.gq&type=tcp#vless+xtls_ov4poland.tavakoli.gq\n\n",
+     "language": ""
+    },
+    {
+     "type": "hashtag",
+     "text": "#ws"
+    },
+    ":\n",
+    {
+     "type": "pre",
+     "text": "vless://3e6993b6-8ba0-7c05-2237-caa3bf418863@146.59.116.74:443?security=tls&alpn=h2&sni=ov4poland.tavakoli.gq&type=ws&path=%2F3e6993b68ba07c052237caa3bf418863%2Fvlessws#vless_ws_ov4poland.tavakoli.gq\ntrojan://3e6993b6-8ba0-7c05-2237-caa3bf418863@146.59.116.74:443?security=tls&alpn=h2&sni=ov4poland.tavakoli.gq&type=ws&path=%2F3e6993b68ba07c052237caa3bf418863%2Ftrojanws#trojan_ws_ov4poland.tavakoli.gq\nvmess://{\"v\":\"2\", \"ps\":\"vmess_ws_ov4poland.tavakoli.gq\", \"add\":\"146.59.116.74\", \"port\":\"443\", \"id\":\"3e6993b6-8ba0-7c05-2237-caa3bf418863\", \"aid\":\"0\", \"scy\":\"auto\", \"net\":\"ws\", \"type\":\"none\", \"host\":\"\", \"path\":\"/3e6993b68ba07c052237caa3bf418863/vmessws\", \"tls\":\"tls\", \"sni\":\"ov4poland.tavakoli.gq\", \"alpn\":\"h2\"}\n\n",
+     "language": ""
+    },
+    {
+     "type": "hashtag",
+     "text": "#ws"
+    },
+    " CDN:\n",
+    {
+     "type": "pre",
+     "text": "vless://3e6993b6-8ba0-7c05-2237-caa3bf418863@ov4poland.tavakoli.gq:443?security=tls&alpn=h2&sni=ov4poland.tavakoli.gq&type=ws&path=%2F3e6993b68ba07c052237caa3bf418863%2Fvlessws#CDNvless_ws_ov4poland.tavakoli.gq\ntrojan://3e6993b6-8ba0-7c05-2237-caa3bf418863@ov4poland.tavakoli.gq:443?security=tls&alpn=h2&sni=ov4poland.tavakoli.gq&type=ws&path=%2F3e6993b68ba07c052237caa3bf418863%2Ftrojanws#CDNtrojan_ws_ov4poland.tavakoli.gq\nvmess://{\"v\":\"2\", \"ps\":\"CDNvmess_ws_ov4poland.tavakoli.gq\", \"add\":\"ov4poland.tavakoli.gq\", \"port\":\"443\", \"id\":\"3e6993b6-8ba0-7c05-2237-caa3bf418863\", \"aid\":\"0\", \"scy\":\"auto\", \"net\":\"ws\", \"type\":\"none\", \"host\":\"\", \"path\":\"/3e6993b68ba07c052237caa3bf418863/vmessws\", \"tls\":\"tls\", \"sni\":\"ov4poland.tavakoli.gq\", \"alpn\":\"h2\"}\n\n\n",
+     "language": ""
+    },
+    {
+     "type": "hashtag",
+     "text": "#grpc"
+    },
+    "\n",
+    {
+     "type": "pre",
+     "text": "vless://3e6993b6-8ba0-7c05-2237-caa3bf418863@146.59.116.74:443?security=tls&alpn=h2&sni=ov4poland.tavakoli.gq&type=grpc&serviceName=3e6993b68ba07c052237caa3bf418863-vlgrpc&mode=multi#vless-grpc_ov4poland.tavakoli.gq\ntrojan://3e6993b6-8ba0-7c05-2237-caa3bf418863@146.59.116.74:443?security=tls&alpn=h2&sni=ov4poland.tavakoli.gq&type=grpc&serviceName=3e6993b68ba07c052237caa3bf418863-trgrpc&mode=multi#trojan-grpc_ov4poland.tavakoli.gq\nvmess://{\"v\":\"2\", \"ps\":\"vmess_grpc_ov4poland.tavakoli.gq\", \"add\":\"146.59.116.74\", \"port\":\"443\", \"id\":\"3e6993b6-8ba0-7c05-2237-caa3bf418863\", \"aid\":\"0\", \"scy\":\"auto\", \"net\":\"grpc\", \"type\":\"multi\", \"host\":\"\", \"path\":\"3e6993b68ba07c052237caa3bf418863-vmgrpc\", \"tls\":\"tls\", \"sni\":\"ov4poland.tavakoli.gq\", \"alpn\":\"h2\"}\n\n",
+     "language": ""
+    },
+    {
+     "type": "hashtag",
+     "text": "#tls"
+    },
+    "\n",
+    {
+     "type": "pre",
+     "text": "trojan://3e6993b6-8ba0-7c05-2237-caa3bf418863@146.59.116.74:443?security=tls&sni=ov4poland.tavakoli.gq&alpn=h2&type=tcp#trojan+tls_ov4poland.tavakoli.gq\nvless://3e6993b6-8ba0-7c05-2237-caa3bf418863@146.59.116.74:443?security=tls&sni=ov4poland.tavakoli.gq&alpn=h2&type=tcp#vless+tls_ov4poland.tavakoli.gq\nvmess://{\"v\": \"2\", \"ps\": \"vmess+tls_ov4poland.tavakoli.gq\", \"add\": \"146.59.116.74\", \"port\": \"443\", \"id\": \"3e6993b6-8ba0-7c05-2237-caa3bf418863\", \"aid\": \"0\", \"scy\": \"auto\", \"net\": \"tcp\", \"type\":\"http\", \"host\": \"\", \"path\": \"/3e6993b68ba07c052237caa3bf418863/vmtc\", \"tls\": \"tls\", \"sni\": \"ov4poland.tavakoli.gq\", \"alpn\": \"h2\"}\n\n\n\n",
+     "language": ""
+    },
+    {
+     "type": "hashtag",
+     "text": "#tls"
+    },
+    "+http1.1\n#",
+    {
+     "type": "code",
+     "text": "trojan://3e6993b6-8ba0-7c05-2237-caa3bf418863@146.59.116.74:443?security=tls&sni=ov4poland.tavakoli.gq&alpn=http/1.1&type=tcp&headerType=http&path=%2F3e6993b68ba07c052237caa3bf418863%2Ftrtc#trojan+tls+http1.1_ov4poland.tavakoli.gq\nvless://3e6993b6-8ba0-7c05-2237-caa3bf418863@146.59.116.74:443?security=tls&sni=ov4poland.tavakoli.gq&alpn=http/1.1&type=tcp&headerType=http&path=%2F3e6993b68ba07c052237caa3bf418863%2Fvltc#vless+tls+http1.1_ov4poland.tavakoli.gq\nvmess://{\"v\": \"2\", \"ps\": \"vmess+tls+http1.1_ov4poland.tavakoli.gq\", \"add\": \"146.59.116.74\", \"port\": \"443\", \"id\": \"3e6993b6-8ba0-7c05-2237-caa3bf418863\", \"aid\": \"0\", \"scy\": \"auto\", \"net\": \"tcp\", \"type\": \"http\", \"host\": \"\", \"path\": \"/3e6993b68ba07c052237caa3bf418863/vmtc\", \"tls\": \"tls\", \"sni\": \"ov4poland.tavakoli.gq\", \"alpn\": \"http/1.1\"}"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "سرور 4 لهستان \n"
+    },
+    {
+     "type": "link",
+     "text": "https://ov4poland.tavakoli.gq/3e6993b68ba07c052237caa3bf418863/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "hashtag",
+     "text": "#xtls"
+    },
+    {
+     "type": "plain",
+     "text": ":\n"
+    },
+    {
+     "type": "pre",
+     "text": "vless://3e6993b6-8ba0-7c05-2237-caa3bf418863@146.59.116.74:443?flow=xtls-rprx-direct&security=xtls&alpn=h2&sni=ov4poland.tavakoli.gq&type=tcp#vless+xtls_ov4poland.tavakoli.gq\n\n",
+     "language": ""
+    },
+    {
+     "type": "hashtag",
+     "text": "#ws"
+    },
+    {
+     "type": "plain",
+     "text": ":\n"
+    },
+    {
+     "type": "pre",
+     "text": "vless://3e6993b6-8ba0-7c05-2237-caa3bf418863@146.59.116.74:443?security=tls&alpn=h2&sni=ov4poland.tavakoli.gq&type=ws&path=%2F3e6993b68ba07c052237caa3bf418863%2Fvlessws#vless_ws_ov4poland.tavakoli.gq\ntrojan://3e6993b6-8ba0-7c05-2237-caa3bf418863@146.59.116.74:443?security=tls&alpn=h2&sni=ov4poland.tavakoli.gq&type=ws&path=%2F3e6993b68ba07c052237caa3bf418863%2Ftrojanws#trojan_ws_ov4poland.tavakoli.gq\nvmess://{\"v\":\"2\", \"ps\":\"vmess_ws_ov4poland.tavakoli.gq\", \"add\":\"146.59.116.74\", \"port\":\"443\", \"id\":\"3e6993b6-8ba0-7c05-2237-caa3bf418863\", \"aid\":\"0\", \"scy\":\"auto\", \"net\":\"ws\", \"type\":\"none\", \"host\":\"\", \"path\":\"/3e6993b68ba07c052237caa3bf418863/vmessws\", \"tls\":\"tls\", \"sni\":\"ov4poland.tavakoli.gq\", \"alpn\":\"h2\"}\n\n",
+     "language": ""
+    },
+    {
+     "type": "hashtag",
+     "text": "#ws"
+    },
+    {
+     "type": "plain",
+     "text": " CDN:\n"
+    },
+    {
+     "type": "pre",
+     "text": "vless://3e6993b6-8ba0-7c05-2237-caa3bf418863@ov4poland.tavakoli.gq:443?security=tls&alpn=h2&sni=ov4poland.tavakoli.gq&type=ws&path=%2F3e6993b68ba07c052237caa3bf418863%2Fvlessws#CDNvless_ws_ov4poland.tavakoli.gq\ntrojan://3e6993b6-8ba0-7c05-2237-caa3bf418863@ov4poland.tavakoli.gq:443?security=tls&alpn=h2&sni=ov4poland.tavakoli.gq&type=ws&path=%2F3e6993b68ba07c052237caa3bf418863%2Ftrojanws#CDNtrojan_ws_ov4poland.tavakoli.gq\nvmess://{\"v\":\"2\", \"ps\":\"CDNvmess_ws_ov4poland.tavakoli.gq\", \"add\":\"ov4poland.tavakoli.gq\", \"port\":\"443\", \"id\":\"3e6993b6-8ba0-7c05-2237-caa3bf418863\", \"aid\":\"0\", \"scy\":\"auto\", \"net\":\"ws\", \"type\":\"none\", \"host\":\"\", \"path\":\"/3e6993b68ba07c052237caa3bf418863/vmessws\", \"tls\":\"tls\", \"sni\":\"ov4poland.tavakoli.gq\", \"alpn\":\"h2\"}\n\n\n",
+     "language": ""
+    },
+    {
+     "type": "hashtag",
+     "text": "#grpc"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "pre",
+     "text": "vless://3e6993b6-8ba0-7c05-2237-caa3bf418863@146.59.116.74:443?security=tls&alpn=h2&sni=ov4poland.tavakoli.gq&type=grpc&serviceName=3e6993b68ba07c052237caa3bf418863-vlgrpc&mode=multi#vless-grpc_ov4poland.tavakoli.gq\ntrojan://3e6993b6-8ba0-7c05-2237-caa3bf418863@146.59.116.74:443?security=tls&alpn=h2&sni=ov4poland.tavakoli.gq&type=grpc&serviceName=3e6993b68ba07c052237caa3bf418863-trgrpc&mode=multi#trojan-grpc_ov4poland.tavakoli.gq\nvmess://{\"v\":\"2\", \"ps\":\"vmess_grpc_ov4poland.tavakoli.gq\", \"add\":\"146.59.116.74\", \"port\":\"443\", \"id\":\"3e6993b6-8ba0-7c05-2237-caa3bf418863\", \"aid\":\"0\", \"scy\":\"auto\", \"net\":\"grpc\", \"type\":\"multi\", \"host\":\"\", \"path\":\"3e6993b68ba07c052237caa3bf418863-vmgrpc\", \"tls\":\"tls\", \"sni\":\"ov4poland.tavakoli.gq\", \"alpn\":\"h2\"}\n\n",
+     "language": ""
+    },
+    {
+     "type": "hashtag",
+     "text": "#tls"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "pre",
+     "text": "trojan://3e6993b6-8ba0-7c05-2237-caa3bf418863@146.59.116.74:443?security=tls&sni=ov4poland.tavakoli.gq&alpn=h2&type=tcp#trojan+tls_ov4poland.tavakoli.gq\nvless://3e6993b6-8ba0-7c05-2237-caa3bf418863@146.59.116.74:443?security=tls&sni=ov4poland.tavakoli.gq&alpn=h2&type=tcp#vless+tls_ov4poland.tavakoli.gq\nvmess://{\"v\": \"2\", \"ps\": \"vmess+tls_ov4poland.tavakoli.gq\", \"add\": \"146.59.116.74\", \"port\": \"443\", \"id\": \"3e6993b6-8ba0-7c05-2237-caa3bf418863\", \"aid\": \"0\", \"scy\": \"auto\", \"net\": \"tcp\", \"type\":\"http\", \"host\": \"\", \"path\": \"/3e6993b68ba07c052237caa3bf418863/vmtc\", \"tls\": \"tls\", \"sni\": \"ov4poland.tavakoli.gq\", \"alpn\": \"h2\"}\n\n\n\n",
+     "language": ""
+    },
+    {
+     "type": "hashtag",
+     "text": "#tls"
+    },
+    {
+     "type": "plain",
+     "text": "+http1.1\n#"
+    },
+    {
+     "type": "code",
+     "text": "trojan://3e6993b6-8ba0-7c05-2237-caa3bf418863@146.59.116.74:443?security=tls&sni=ov4poland.tavakoli.gq&alpn=http/1.1&type=tcp&headerType=http&path=%2F3e6993b68ba07c052237caa3bf418863%2Ftrtc#trojan+tls+http1.1_ov4poland.tavakoli.gq\nvless://3e6993b6-8ba0-7c05-2237-caa3bf418863@146.59.116.74:443?security=tls&sni=ov4poland.tavakoli.gq&alpn=http/1.1&type=tcp&headerType=http&path=%2F3e6993b68ba07c052237caa3bf418863%2Fvltc#vless+tls+http1.1_ov4poland.tavakoli.gq\nvmess://{\"v\": \"2\", \"ps\": \"vmess+tls+http1.1_ov4poland.tavakoli.gq\", \"add\": \"146.59.116.74\", \"port\": \"443\", \"id\": \"3e6993b6-8ba0-7c05-2237-caa3bf418863\", \"aid\": \"0\", \"scy\": \"auto\", \"net\": \"tcp\", \"type\": \"http\", \"host\": \"\", \"path\": \"/3e6993b68ba07c052237caa3bf418863/vmtc\", \"tls\": \"tls\", \"sni\": \"ov4poland.tavakoli.gq\", \"alpn\": \"http/1.1\"}"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 223,
+   "type": "message",
+   "date": "2023-01-10T12:40:43",
+   "date_unixtime": "1673341843",
+   "edited": "2023-01-10T13:50:42",
+   "edited_unixtime": "1673346042",
+   "from": "Free Xray VPN",
+   "from_id": "channel1885529128",
+   "text": [
+    "سرور 4 فرانسه\n",
+    {
+     "type": "link",
+     "text": "https://ov4france.tavakoli.gq/5842dbf8b69df6c1562676a4eb00e8c1/"
+    },
+    "\n\n",
+    {
+     "type": "hashtag",
+     "text": "#xtls"
+    },
+    ":\n",
+    {
+     "type": "pre",
+     "text": "vless://5842dbf8-b69d-f6c1-5626-76a4eb00e8c1@51.68.93.50:443?flow=xtls-rprx-direct&security=xtls&alpn=h2&sni=ov4france.tavakoli.gq&type=tcp#vless+xtls_ov4france.tavakoli.gq\n\n",
+     "language": ""
+    },
+    {
+     "type": "hashtag",
+     "text": "#ws"
+    },
+    ":\n",
+    {
+     "type": "pre",
+     "text": "vless://5842dbf8-b69d-f6c1-5626-76a4eb00e8c1@51.68.93.50:443?security=tls&alpn=h2&sni=ov4france.tavakoli.gq&type=ws&path=%2F5842dbf8b69df6c1562676a4eb00e8c1%2Fvlessws#vless_ws_ov4france.tavakoli.gq\ntrojan://5842dbf8-b69d-f6c1-5626-76a4eb00e8c1@51.68.93.50:443?security=tls&alpn=h2&sni=ov4france.tavakoli.gq&type=ws&path=%2F5842dbf8b69df6c1562676a4eb00e8c1%2Ftrojanws#trojan_ws_ov4france.tavakoli.gq\nvmess://{\"v\":\"2\", \"ps\":\"vmess_ws_ov4france.tavakoli.gq\", \"add\":\"51.68.93.50\", \"port\":\"443\", \"id\":\"5842dbf8-b69d-f6c1-5626-76a4eb00e8c1\", \"aid\":\"0\", \"scy\":\"auto\", \"net\":\"ws\", \"type\":\"none\", \"host\":\"\", \"path\":\"/5842dbf8b69df6c1562676a4eb00e8c1/vmessws\", \"tls\":\"tls\", \"sni\":\"ov4france.tavakoli.gq\", \"alpn\":\"h2\"}\n\n",
+     "language": ""
+    },
+    {
+     "type": "hashtag",
+     "text": "#ws"
+    },
+    " CDN:\n",
+    {
+     "type": "pre",
+     "text": "vless://5842dbf8-b69d-f6c1-5626-76a4eb00e8c1@ov4france.tavakoli.gq:443?security=tls&alpn=h2&sni=ov4france.tavakoli.gq&type=ws&path=%2F5842dbf8b69df6c1562676a4eb00e8c1%2Fvlessws#CDNvless_ws_ov4france.tavakoli.gq\ntrojan://5842dbf8-b69d-f6c1-5626-76a4eb00e8c1@ov4france.tavakoli.gq:443?security=tls&alpn=h2&sni=ov4france.tavakoli.gq&type=ws&path=%2F5842dbf8b69df6c1562676a4eb00e8c1%2Ftrojanws#CDNtrojan_ws_ov4france.tavakoli.gq\nvmess://{\"v\":\"2\", \"ps\":\"CDNvmess_ws_ov4france.tavakoli.gq\", \"add\":\"ov4france.tavakoli.gq\", \"port\":\"443\", \"id\":\"5842dbf8-b69d-f6c1-5626-76a4eb00e8c1\", \"aid\":\"0\", \"scy\":\"auto\", \"net\":\"ws\", \"type\":\"none\", \"host\":\"\", \"path\":\"/5842dbf8b69df6c1562676a4eb00e8c1/vmessws\", \"tls\":\"tls\", \"sni\":\"ov4france.tavakoli.gq\", \"alpn\":\"h2\"}\n\n\n",
+     "language": ""
+    },
+    {
+     "type": "hashtag",
+     "text": "#grpc"
+    },
+    "\n",
+    {
+     "type": "pre",
+     "text": "vless://5842dbf8-b69d-f6c1-5626-76a4eb00e8c1@51.68.93.50:443?security=tls&alpn=h2&sni=ov4france.tavakoli.gq&type=grpc&serviceName=5842dbf8b69df6c1562676a4eb00e8c1-vlgrpc&mode=multi#vless-grpc_ov4france.tavakoli.gq\ntrojan://5842dbf8-b69d-f6c1-5626-76a4eb00e8c1@51.68.93.50:443?security=tls&alpn=h2&sni=ov4france.tavakoli.gq&type=grpc&serviceName=5842dbf8b69df6c1562676a4eb00e8c1-trgrpc&mode=multi#trojan-grpc_ov4france.tavakoli.gq\nvmess://{\"v\":\"2\", \"ps\":\"vmess_grpc_ov4france.tavakoli.gq\", \"add\":\"51.68.93.50\", \"port\":\"443\", \"id\":\"5842dbf8-b69d-f6c1-5626-76a4eb00e8c1\", \"aid\":\"0\", \"scy\":\"auto\", \"net\":\"grpc\", \"type\":\"multi\", \"host\":\"\", \"path\":\"5842dbf8b69df6c1562676a4eb00e8c1-vmgrpc\", \"tls\":\"tls\", \"sni\":\"ov4france.tavakoli.gq\", \"alpn\":\"h2\"}\n\n",
+     "language": ""
+    },
+    {
+     "type": "hashtag",
+     "text": "#tls"
+    },
+    "\n",
+    {
+     "type": "pre",
+     "text": "trojan://5842dbf8-b69d-f6c1-5626-76a4eb00e8c1@51.68.93.50:443?security=tls&sni=ov4france.tavakoli.gq&alpn=h2&type=tcp#trojan+tls_ov4france.tavakoli.gq\nvless://5842dbf8-b69d-f6c1-5626-76a4eb00e8c1@51.68.93.50:443?security=tls&sni=ov4france.tavakoli.gq&alpn=h2&type=tcp#vless+tls_ov4france.tavakoli.gq\nvmess://{\"v\": \"2\", \"ps\": \"vmess+tls_ov4france.tavakoli.gq\", \"add\": \"51.68.93.50\", \"port\": \"443\", \"id\": \"5842dbf8-b69d-f6c1-5626-76a4eb00e8c1\", \"aid\": \"0\", \"scy\": \"auto\", \"net\": \"tcp\", \"type\":\"http\", \"host\": \"\", \"path\": \"/5842dbf8b69df6c1562676a4eb00e8c1/vmtc\", \"tls\": \"tls\", \"sni\": \"ov4france.tavakoli.gq\", \"alpn\": \"h2\"}\n\n\n\n",
+     "language": ""
+    },
+    {
+     "type": "hashtag",
+     "text": "#tls"
+    },
+    "+http1.1\n#",
+    {
+     "type": "code",
+     "text": "trojan://5842dbf8-b69d-f6c1-5626-76a4eb00e8c1@51.68.93.50:443?security=tls&sni=ov4france.tavakoli.gq&alpn=http/1.1&type=tcp&headerType=http&path=%2F5842dbf8b69df6c1562676a4eb00e8c1%2Ftrtc#trojan+tls+http1.1_ov4france.tavakoli.gq\nvless://5842dbf8-b69d-f6c1-5626-76a4eb00e8c1@51.68.93.50:443?security=tls&sni=ov4france.tavakoli.gq&alpn=http/1.1&type=tcp&headerType=http&path=%2F5842dbf8b69df6c1562676a4eb00e8c1%2Fvltc#vless+tls+http1.1_ov4france.tavakoli.gq\nvmess://{\"v\": \"2\", \"ps\": \"vmess+tls+http1.1_ov4france.tavakoli.gq\", \"add\": \"51.68.93.50\", \"port\": \"443\", \"id\": \"5842dbf8-b69d-f6c1-5626-76a4eb00e8c1\", \"aid\": \"0\", \"scy\": \"auto\", \"net\": \"tcp\", \"type\": \"http\", \"host\": \"\", \"path\": \"/5842dbf8b69df6c1562676a4eb00e8c1/vmtc\", \"tls\": \"tls\", \"sni\": \"ov4france.tavakoli.gq\", \"alpn\": \"http/1.1\"}"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "سرور 4 فرانسه\n"
+    },
+    {
+     "type": "link",
+     "text": "https://ov4france.tavakoli.gq/5842dbf8b69df6c1562676a4eb00e8c1/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "hashtag",
+     "text": "#xtls"
+    },
+    {
+     "type": "plain",
+     "text": ":\n"
+    },
+    {
+     "type": "pre",
+     "text": "vless://5842dbf8-b69d-f6c1-5626-76a4eb00e8c1@51.68.93.50:443?flow=xtls-rprx-direct&security=xtls&alpn=h2&sni=ov4france.tavakoli.gq&type=tcp#vless+xtls_ov4france.tavakoli.gq\n\n",
+     "language": ""
+    },
+    {
+     "type": "hashtag",
+     "text": "#ws"
+    },
+    {
+     "type": "plain",
+     "text": ":\n"
+    },
+    {
+     "type": "pre",
+     "text": "vless://5842dbf8-b69d-f6c1-5626-76a4eb00e8c1@51.68.93.50:443?security=tls&alpn=h2&sni=ov4france.tavakoli.gq&type=ws&path=%2F5842dbf8b69df6c1562676a4eb00e8c1%2Fvlessws#vless_ws_ov4france.tavakoli.gq\ntrojan://5842dbf8-b69d-f6c1-5626-76a4eb00e8c1@51.68.93.50:443?security=tls&alpn=h2&sni=ov4france.tavakoli.gq&type=ws&path=%2F5842dbf8b69df6c1562676a4eb00e8c1%2Ftrojanws#trojan_ws_ov4france.tavakoli.gq\nvmess://{\"v\":\"2\", \"ps\":\"vmess_ws_ov4france.tavakoli.gq\", \"add\":\"51.68.93.50\", \"port\":\"443\", \"id\":\"5842dbf8-b69d-f6c1-5626-76a4eb00e8c1\", \"aid\":\"0\", \"scy\":\"auto\", \"net\":\"ws\", \"type\":\"none\", \"host\":\"\", \"path\":\"/5842dbf8b69df6c1562676a4eb00e8c1/vmessws\", \"tls\":\"tls\", \"sni\":\"ov4france.tavakoli.gq\", \"alpn\":\"h2\"}\n\n",
+     "language": ""
+    },
+    {
+     "type": "hashtag",
+     "text": "#ws"
+    },
+    {
+     "type": "plain",
+     "text": " CDN:\n"
+    },
+    {
+     "type": "pre",
+     "text": "vless://5842dbf8-b69d-f6c1-5626-76a4eb00e8c1@ov4france.tavakoli.gq:443?security=tls&alpn=h2&sni=ov4france.tavakoli.gq&type=ws&path=%2F5842dbf8b69df6c1562676a4eb00e8c1%2Fvlessws#CDNvless_ws_ov4france.tavakoli.gq\ntrojan://5842dbf8-b69d-f6c1-5626-76a4eb00e8c1@ov4france.tavakoli.gq:443?security=tls&alpn=h2&sni=ov4france.tavakoli.gq&type=ws&path=%2F5842dbf8b69df6c1562676a4eb00e8c1%2Ftrojanws#CDNtrojan_ws_ov4france.tavakoli.gq\nvmess://{\"v\":\"2\", \"ps\":\"CDNvmess_ws_ov4france.tavakoli.gq\", \"add\":\"ov4france.tavakoli.gq\", \"port\":\"443\", \"id\":\"5842dbf8-b69d-f6c1-5626-76a4eb00e8c1\", \"aid\":\"0\", \"scy\":\"auto\", \"net\":\"ws\", \"type\":\"none\", \"host\":\"\", \"path\":\"/5842dbf8b69df6c1562676a4eb00e8c1/vmessws\", \"tls\":\"tls\", \"sni\":\"ov4france.tavakoli.gq\", \"alpn\":\"h2\"}\n\n\n",
+     "language": ""
+    },
+    {
+     "type": "hashtag",
+     "text": "#grpc"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "pre",
+     "text": "vless://5842dbf8-b69d-f6c1-5626-76a4eb00e8c1@51.68.93.50:443?security=tls&alpn=h2&sni=ov4france.tavakoli.gq&type=grpc&serviceName=5842dbf8b69df6c1562676a4eb00e8c1-vlgrpc&mode=multi#vless-grpc_ov4france.tavakoli.gq\ntrojan://5842dbf8-b69d-f6c1-5626-76a4eb00e8c1@51.68.93.50:443?security=tls&alpn=h2&sni=ov4france.tavakoli.gq&type=grpc&serviceName=5842dbf8b69df6c1562676a4eb00e8c1-trgrpc&mode=multi#trojan-grpc_ov4france.tavakoli.gq\nvmess://{\"v\":\"2\", \"ps\":\"vmess_grpc_ov4france.tavakoli.gq\", \"add\":\"51.68.93.50\", \"port\":\"443\", \"id\":\"5842dbf8-b69d-f6c1-5626-76a4eb00e8c1\", \"aid\":\"0\", \"scy\":\"auto\", \"net\":\"grpc\", \"type\":\"multi\", \"host\":\"\", \"path\":\"5842dbf8b69df6c1562676a4eb00e8c1-vmgrpc\", \"tls\":\"tls\", \"sni\":\"ov4france.tavakoli.gq\", \"alpn\":\"h2\"}\n\n",
+     "language": ""
+    },
+    {
+     "type": "hashtag",
+     "text": "#tls"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "pre",
+     "text": "trojan://5842dbf8-b69d-f6c1-5626-76a4eb00e8c1@51.68.93.50:443?security=tls&sni=ov4france.tavakoli.gq&alpn=h2&type=tcp#trojan+tls_ov4france.tavakoli.gq\nvless://5842dbf8-b69d-f6c1-5626-76a4eb00e8c1@51.68.93.50:443?security=tls&sni=ov4france.tavakoli.gq&alpn=h2&type=tcp#vless+tls_ov4france.tavakoli.gq\nvmess://{\"v\": \"2\", \"ps\": \"vmess+tls_ov4france.tavakoli.gq\", \"add\": \"51.68.93.50\", \"port\": \"443\", \"id\": \"5842dbf8-b69d-f6c1-5626-76a4eb00e8c1\", \"aid\": \"0\", \"scy\": \"auto\", \"net\": \"tcp\", \"type\":\"http\", \"host\": \"\", \"path\": \"/5842dbf8b69df6c1562676a4eb00e8c1/vmtc\", \"tls\": \"tls\", \"sni\": \"ov4france.tavakoli.gq\", \"alpn\": \"h2\"}\n\n\n\n",
+     "language": ""
+    },
+    {
+     "type": "hashtag",
+     "text": "#tls"
+    },
+    {
+     "type": "plain",
+     "text": "+http1.1\n#"
+    },
+    {
+     "type": "code",
+     "text": "trojan://5842dbf8-b69d-f6c1-5626-76a4eb00e8c1@51.68.93.50:443?security=tls&sni=ov4france.tavakoli.gq&alpn=http/1.1&type=tcp&headerType=http&path=%2F5842dbf8b69df6c1562676a4eb00e8c1%2Ftrtc#trojan+tls+http1.1_ov4france.tavakoli.gq\nvless://5842dbf8-b69d-f6c1-5626-76a4eb00e8c1@51.68.93.50:443?security=tls&sni=ov4france.tavakoli.gq&alpn=http/1.1&type=tcp&headerType=http&path=%2F5842dbf8b69df6c1562676a4eb00e8c1%2Fvltc#vless+tls+http1.1_ov4france.tavakoli.gq\nvmess://{\"v\": \"2\", \"ps\": \"vmess+tls+http1.1_ov4france.tavakoli.gq\", \"add\": \"51.68.93.50\", \"port\": \"443\", \"id\": \"5842dbf8-b69d-f6c1-5626-76a4eb00e8c1\", \"aid\": \"0\", \"scy\": \"auto\", \"net\": \"tcp\", \"type\": \"http\", \"host\": \"\", \"path\": \"/5842dbf8b69df6c1562676a4eb00e8c1/vmtc\", \"tls\": \"tls\", \"sni\": \"ov4france.tavakoli.gq\", \"alpn\": \"http/1.1\"}"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 224,
+   "type": "message",
+   "date": "2023-01-10T13:48:39",
+   "date_unixtime": "1673345919",
+   "edited": "2023-01-10T13:50:52",
+   "edited_unixtime": "1673346052",
+   "from": "Free Xray VPN",
+   "from_id": "channel1885529128",
+   "text": [
+    "سرور 5 فرانسه:\n",
+    {
+     "type": "code",
+     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBGcmFuY2UgNSIsCiAgImFkZCI6ICJvdjVmcmFuY2UudGF2YWtvbGkuZ3EiLAogICJwb3J0IjogNDQzLAogICJpZCI6ICJhNjc1YWM2Zi00NTM3LTRiOGItYWFjMC00YWVkM2YyZDZiYTEiLAogICJhaWQiOiAwLAogICJuZXQiOiAid3MiLAogICJ0eXBlIjogIm5vbmUiLAogICJob3N0IjogIiIsCiAgInBhdGgiOiAiLyIsCiAgInRscyI6ICJ0bHMiCn0=\n\nvless://b7c9144c-6329-41b1-c59a-0d373d9eae2f@ov5france.tavakoli.gq:8443?type=tcp&security=xtls&flow=xtls-rprx-direct#Vless%20France%205\n\ntrojan://hPdnK8VwqO@ov5france.tavakoli.gq:2087#Trojan%20France%205"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "سرور 5 فرانسه:\n"
+    },
+    {
+     "type": "code",
+     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBGcmFuY2UgNSIsCiAgImFkZCI6ICJvdjVmcmFuY2UudGF2YWtvbGkuZ3EiLAogICJwb3J0IjogNDQzLAogICJpZCI6ICJhNjc1YWM2Zi00NTM3LTRiOGItYWFjMC00YWVkM2YyZDZiYTEiLAogICJhaWQiOiAwLAogICJuZXQiOiAid3MiLAogICJ0eXBlIjogIm5vbmUiLAogICJob3N0IjogIiIsCiAgInBhdGgiOiAiLyIsCiAgInRscyI6ICJ0bHMiCn0=\n\nvless://b7c9144c-6329-41b1-c59a-0d373d9eae2f@ov5france.tavakoli.gq:8443?type=tcp&security=xtls&flow=xtls-rprx-direct#Vless%20France%205\n\ntrojan://hPdnK8VwqO@ov5france.tavakoli.gq:2087#Trojan%20France%205"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 225,
+   "type": "message",
+   "date": "2023-01-10T20:31:58",
+   "date_unixtime": "1673370118",
+   "edited": "2023-01-10T20:36:16",
+   "edited_unixtime": "1673370376",
+   "from": "Free Xray VPN",
+   "from_id": "channel1885529128",
+   "text": [
+    "سرور 21 آلمان \n",
+    {
+     "type": "pre",
+     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHZXJtYW55IDIxIiwKICAiYWRkIjogIm92MjFnZXJtYW55LnRhdmFrb2xpLmdxIiwKICAicG9ydCI6IDQ0MywKICAiaWQiOiAiZTE0OTRmNDktZmRiZS00ODQwLWY3YTEtOGFlNzkyOGViYzVhIiwKICAiYWlkIjogMCwKICAibmV0IjogIndzIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIi8iLAogICJ0bHMiOiAidGxzIgp9\n\nvless://c5665f4c-c78b-427c-af83-04dac65869fa@ov21germany.tavakoli.gq:8443?type=tcp&security=xtls&flow=xtls-rprx-direct#Vless%20Germany%2021\n\n",
+     "language": ""
+    },
+    {
+     "type": "code",
+     "text": "trojan://THN3O5N8un@ov21germany.tavakoli.gq:2087#Trojan%20Germany%2021"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "سرور 21 آلمان \n"
+    },
+    {
+     "type": "pre",
+     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHZXJtYW55IDIxIiwKICAiYWRkIjogIm92MjFnZXJtYW55LnRhdmFrb2xpLmdxIiwKICAicG9ydCI6IDQ0MywKICAiaWQiOiAiZTE0OTRmNDktZmRiZS00ODQwLWY3YTEtOGFlNzkyOGViYzVhIiwKICAiYWlkIjogMCwKICAibmV0IjogIndzIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIi8iLAogICJ0bHMiOiAidGxzIgp9\n\nvless://c5665f4c-c78b-427c-af83-04dac65869fa@ov21germany.tavakoli.gq:8443?type=tcp&security=xtls&flow=xtls-rprx-direct#Vless%20Germany%2021\n\n",
+     "language": ""
+    },
+    {
+     "type": "code",
+     "text": "trojan://THN3O5N8un@ov21germany.tavakoli.gq:2087#Trojan%20Germany%2021"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 226,
+   "type": "message",
+   "date": "2023-01-11T12:03:51",
+   "date_unixtime": "1673426031",
+   "edited": "2023-01-11T12:05:54",
+   "edited_unixtime": "1673426154",
+   "from": "Free Xray VPN",
+   "from_id": "channel1885529128",
+   "text": [
+    "سرور 16 آلمان:\n\n",
+    {
+     "type": "pre",
+     "text": "trojan://Gx7qYzxgSz@ov16germany.tavakoli.gq:443#Trojan%20Germany%2016\n\nvless://4b79730c-e34f-4c57-f3fc-a64fd1d1f571@ov16germany.tavakoli.gq:8443?type=tcp&security=xtls&flow=xtls-rprx-direct#Vless%20Germany%2016\n\n",
+     "language": ""
+    },
+    {
+     "type": "code",
+     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHZXJtYW55IDE2IiwKICAiYWRkIjogIm92MTZnZXJtYW55LnRhdmFrb2xpLmdxIiwKICAicG9ydCI6IDIwODcsCiAgImlkIjogIjVmNjEyMTc5LWEyZjItNGFjZC1mYTFhLWM3OGFjMTIwNmQxYiIsCiAgImFpZCI6IDAsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiAibm9uZSIsCiAgImhvc3QiOiAiIiwKICAicGF0aCI6ICIvIiwKICAidGxzIjogInRscyIKfQ=="
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "سرور 16 آلمان:\n\n"
+    },
+    {
+     "type": "pre",
+     "text": "trojan://Gx7qYzxgSz@ov16germany.tavakoli.gq:443#Trojan%20Germany%2016\n\nvless://4b79730c-e34f-4c57-f3fc-a64fd1d1f571@ov16germany.tavakoli.gq:8443?type=tcp&security=xtls&flow=xtls-rprx-direct#Vless%20Germany%2016\n\n",
+     "language": ""
+    },
+    {
+     "type": "code",
+     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHZXJtYW55IDE2IiwKICAiYWRkIjogIm92MTZnZXJtYW55LnRhdmFrb2xpLmdxIiwKICAicG9ydCI6IDIwODcsCiAgImlkIjogIjVmNjEyMTc5LWEyZjItNGFjZC1mYTFhLWM3OGFjMTIwNmQxYiIsCiAgImFpZCI6IDAsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiAibm9uZSIsCiAgImhvc3QiOiAiIiwKICAicGF0aCI6ICIvIiwKICAidGxzIjogInRscyIKfQ=="
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 227,
+   "type": "message",
+   "date": "2023-01-11T17:10:01",
+   "date_unixtime": "1673444401",
+   "edited": "2023-01-11T17:23:19",
+   "edited_unixtime": "1673445199",
+   "from": "Free Xray VPN",
+   "from_id": "channel1885529128",
+   "text": [
+    "سرور 17 آلمان :\n",
+    {
+     "type": "pre",
+     "text": "trojan://oGPIR0pFqf@ov17germany.tavakoli.gq:443#Trojan%20Germany%2017\n\nvless://217e9ce1-e00e-4f7b-97cc-6d07dea049e2@ov17germany.tavakoli.gq:8443?type=tcp&security=xtls&flow=xtls-rprx-direct#Vless%20Germany%2017\n\n",
+     "language": ""
+    },
+    {
+     "type": "code",
+     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHZXJtYW55IDE3IiwKICAiYWRkIjogIm92MTdnZXJtYW55LnRhdmFrb2xpLmdxIiwKICAicG9ydCI6IDIwODcsCiAgImlkIjogImZmOTBiNDQ5LTE0MWEtNDUwZC1hOWJhLTQ0ZjI5NjJmNTRmOCIsCiAgImFpZCI6IDAsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiAibm9uZSIsCiAgImhvc3QiOiAiIiwKICAicGF0aCI6ICIvIiwKICAidGxzIjogInRscyIKfQ=="
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "سرور 17 آلمان :\n"
+    },
+    {
+     "type": "pre",
+     "text": "trojan://oGPIR0pFqf@ov17germany.tavakoli.gq:443#Trojan%20Germany%2017\n\nvless://217e9ce1-e00e-4f7b-97cc-6d07dea049e2@ov17germany.tavakoli.gq:8443?type=tcp&security=xtls&flow=xtls-rprx-direct#Vless%20Germany%2017\n\n",
+     "language": ""
+    },
+    {
+     "type": "code",
+     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHZXJtYW55IDE3IiwKICAiYWRkIjogIm92MTdnZXJtYW55LnRhdmFrb2xpLmdxIiwKICAicG9ydCI6IDIwODcsCiAgImlkIjogImZmOTBiNDQ5LTE0MWEtNDUwZC1hOWJhLTQ0ZjI5NjJmNTRmOCIsCiAgImFpZCI6IDAsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiAibm9uZSIsCiAgImhvc3QiOiAiIiwKICAicGF0aCI6ICIvIiwKICAidGxzIjogInRscyIKfQ=="
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 228,
+   "type": "message",
+   "date": "2023-01-11T17:21:44",
+   "date_unixtime": "1673445104",
+   "edited": "2023-01-11T17:23:14",
+   "edited_unixtime": "1673445194",
+   "from": "Free Xray VPN",
+   "from_id": "channel1885529128",
+   "text": [
+    "سرور 18 آلمان :\n\n",
+    {
+     "type": "pre",
+     "text": "trojan://ilVDp9zagx@ov18germany.tavakoli.gq:443#Trojan%20Germany%2018\n\nvless://c0ad3469-4229-4454-fa7e-29146eabae12@ov18germany.tavakoli.gq:8443?type=tcp&security=xtls&flow=xtls-rprx-direct#Vless%20Germany%2018\n\n",
+     "language": ""
+    },
+    {
+     "type": "code",
+     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHZXJtYW55IDE4IiwKICAiYWRkIjogIm92MThnZXJtYW55LnRhdmFrb2xpLmdxIiwKICAicG9ydCI6IDIwODcsCiAgImlkIjogIjQxZDE5M2U3LTA1MTEtNDgzOC04YzQzLTIzMzg3NDRjYjk2NyIsCiAgImFpZCI6IDAsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiAibm9uZSIsCiAgImhvc3QiOiAiIiwKICAicGF0aCI6ICIvIiwKICAidGxzIjogInRscyIKfQ=="
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "سرور 18 آلمان :\n\n"
+    },
+    {
+     "type": "pre",
+     "text": "trojan://ilVDp9zagx@ov18germany.tavakoli.gq:443#Trojan%20Germany%2018\n\nvless://c0ad3469-4229-4454-fa7e-29146eabae12@ov18germany.tavakoli.gq:8443?type=tcp&security=xtls&flow=xtls-rprx-direct#Vless%20Germany%2018\n\n",
+     "language": ""
+    },
+    {
+     "type": "code",
+     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHZXJtYW55IDE4IiwKICAiYWRkIjogIm92MThnZXJtYW55LnRhdmFrb2xpLmdxIiwKICAicG9ydCI6IDIwODcsCiAgImlkIjogIjQxZDE5M2U3LTA1MTEtNDgzOC04YzQzLTIzMzg3NDRjYjk2NyIsCiAgImFpZCI6IDAsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiAibm9uZSIsCiAgImhvc3QiOiAiIiwKICAicGF0aCI6ICIvIiwKICAidGxzIjogInRscyIKfQ=="
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 229,
+   "type": "message",
+   "date": "2023-01-11T18:22:18",
+   "date_unixtime": "1673448738",
+   "edited": "2023-01-11T19:42:16",
+   "edited_unixtime": "1673453536",
+   "from": "Free Xray VPN",
+   "from_id": "channel1885529128",
+   "text": [
+    "سرور 19 آلمان: \n\n",
+    {
+     "type": "pre",
+     "text": "trojan://H6lcmTxE5G@ov19germany.tavakoli.gq:442#Trojan%20Germany%2019\n\n",
+     "language": ""
+    },
+    {
+     "type": "code",
+     "text": "vless://272b49e3-b6cb-47e2-ddb3-14794ac2a337@ov19germany.tavakoli.gq:8443?type=tcp&security=xtls&flow=xtls-rprx-direct#Vless%20Germany%2019\n\nvmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHZXJtYW55IDE5IiwKICAiYWRkIjogIm92MTlnZXJtYW55LnRhdmFrb2xpLmdxIiwKICAicG9ydCI6IDIwODcsCiAgImlkIjogIjBkM2RjYjQ0LTE3NTEtNDk1My1iY2RkLWU0ZjU4YzQ3YWVkYSIsCiAgImFpZCI6IDAsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiAibm9uZSIsCiAgImhvc3QiOiAiIiwKICAicGF0aCI6ICIvIiwKICAidGxzIjogInRscyIKfQ=="
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "سرور 19 آلمان: \n\n"
+    },
+    {
+     "type": "pre",
+     "text": "trojan://H6lcmTxE5G@ov19germany.tavakoli.gq:442#Trojan%20Germany%2019\n\n",
+     "language": ""
+    },
+    {
+     "type": "code",
+     "text": "vless://272b49e3-b6cb-47e2-ddb3-14794ac2a337@ov19germany.tavakoli.gq:8443?type=tcp&security=xtls&flow=xtls-rprx-direct#Vless%20Germany%2019\n\nvmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHZXJtYW55IDE5IiwKICAiYWRkIjogIm92MTlnZXJtYW55LnRhdmFrb2xpLmdxIiwKICAicG9ydCI6IDIwODcsCiAgImlkIjogIjBkM2RjYjQ0LTE3NTEtNDk1My1iY2RkLWU0ZjU4YzQ3YWVkYSIsCiAgImFpZCI6IDAsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiAibm9uZSIsCiAgImhvc3QiOiAiIiwKICAicGF0aCI6ICIvIiwKICAidGxzIjogInRscyIKfQ=="
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 231,
+   "type": "message",
+   "date": "2023-01-11T21:22:49",
+   "date_unixtime": "1673459569",
+   "edited": "2023-01-11T21:24:46",
+   "edited_unixtime": "1673459686",
+   "from": "Free Xray VPN",
+   "from_id": "channel1885529128",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 349,
+   "text": "سرور های ۲ ۱۱ ۱۶ و ۲۱ آلمان بیشترین لود رو دارن میتونین استفاده کنین :)",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "سرور های ۲ ۱۱ ۱۶ و ۲۱ آلمان بیشترین لود رو دارن میتونین استفاده کنین :)"
+    }
+   ]
+  },
+  {
+   "id": 233,
+   "type": "message",
+   "date": "2023-01-12T17:46:44",
+   "date_unixtime": "1673533004",
+   "edited": "2023-01-12T18:36:16",
+   "edited_unixtime": "1673535976",
+   "from": "Free Xray VPN",
+   "from_id": "channel1885529128",
+   "text": [
+    "سرور 2 انگلستان \n",
+    {
+     "type": "link",
+     "text": "https://ov2uk.tavakoli.gq/2ed0eecdb803866feefcb44021e343e1/"
+    },
+    "\n\n",
+    {
+     "type": "hashtag",
+     "text": "#xtls"
+    },
+    ":\n",
+    {
+     "type": "pre",
+     "text": "vless://2ed0eecd-b803-866f-eefc-b44021e343e1@51.195.233.185:443?flow=xtls-rprx-direct&security=xtls&alpn=h2&sni=ov2uk.tavakoli.gq&type=tcp#vless+xtls_ov2uk.tavakoli.gq\n\n",
+     "language": ""
+    },
+    {
+     "type": "hashtag",
+     "text": "#ws"
+    },
+    ":\n",
+    {
+     "type": "pre",
+     "text": "vless://2ed0eecd-b803-866f-eefc-b44021e343e1@51.195.233.185:443?security=tls&alpn=h2&sni=ov2uk.tavakoli.gq&type=ws&path=%2F2ed0eecdb803866feefcb44021e343e1%2Fvlessws#vless_ws_ov2uk.tavakoli.gq\ntrojan://2ed0eecd-b803-866f-eefc-b44021e343e1@51.195.233.185:443?security=tls&alpn=h2&sni=ov2uk.tavakoli.gq&type=ws&path=%2F2ed0eecdb803866feefcb44021e343e1%2Ftrojanws#trojan_ws_ov2uk.tavakoli.gq\nvmess://{\"v\":\"2\", \"ps\":\"vmess_ws_ov2uk.tavakoli.gq\", \"add\":\"51.195.233.185\", \"port\":\"443\", \"id\":\"2ed0eecd-b803-866f-eefc-b44021e343e1\", \"aid\":\"0\", \"scy\":\"auto\", \"net\":\"ws\", \"type\":\"none\", \"host\":\"\", \"path\":\"/2ed0eecdb803866feefcb44021e343e1/vmessws\", \"tls\":\"tls\", \"sni\":\"ov2uk.tavakoli.gq\", \"alpn\":\"h2\"}\n\n",
+     "language": ""
+    },
+    {
+     "type": "hashtag",
+     "text": "#ws"
+    },
+    " CDN:\n",
+    {
+     "type": "pre",
+     "text": "vless://2ed0eecd-b803-866f-eefc-b44021e343e1@ov2uk.tavakoli.gq:443?security=tls&alpn=h2&sni=ov2uk.tavakoli.gq&type=ws&path=%2F2ed0eecdb803866feefcb44021e343e1%2Fvlessws#CDNvless_ws_ov2uk.tavakoli.gq\ntrojan://2ed0eecd-b803-866f-eefc-b44021e343e1@ov2uk.tavakoli.gq:443?security=tls&alpn=h2&sni=ov2uk.tavakoli.gq&type=ws&path=%2F2ed0eecdb803866feefcb44021e343e1%2Ftrojanws#CDNtrojan_ws_ov2uk.tavakoli.gq\nvmess://{\"v\":\"2\", \"ps\":\"CDNvmess_ws_ov2uk.tavakoli.gq\", \"add\":\"ov2uk.tavakoli.gq\", \"port\":\"443\", \"id\":\"2ed0eecd-b803-866f-eefc-b44021e343e1\", \"aid\":\"0\", \"scy\":\"auto\", \"net\":\"ws\", \"type\":\"none\", \"host\":\"\", \"path\":\"/2ed0eecdb803866feefcb44021e343e1/vmessws\", \"tls\":\"tls\", \"sni\":\"ov2uk.tavakoli.gq\", \"alpn\":\"h2\"}\n\n\n",
+     "language": ""
+    },
+    {
+     "type": "hashtag",
+     "text": "#grpc"
+    },
+    "\n",
+    {
+     "type": "pre",
+     "text": "vless://2ed0eecd-b803-866f-eefc-b44021e343e1@51.195.233.185:443?security=tls&alpn=h2&sni=ov2uk.tavakoli.gq&type=grpc&serviceName=2ed0eecdb803866feefcb44021e343e1-vlgrpc&mode=multi#vless-grpc_ov2uk.tavakoli.gq\ntrojan://2ed0eecd-b803-866f-eefc-b44021e343e1@51.195.233.185:443?security=tls&alpn=h2&sni=ov2uk.tavakoli.gq&type=grpc&serviceName=2ed0eecdb803866feefcb44021e343e1-trgrpc&mode=multi#trojan-grpc_ov2uk.tavakoli.gq\nvmess://{\"v\":\"2\", \"ps\":\"vmess_grpc_ov2uk.tavakoli.gq\", \"add\":\"51.195.233.185\", \"port\":\"443\", \"id\":\"2ed0eecd-b803-866f-eefc-b44021e343e1\", \"aid\":\"0\", \"scy\":\"auto\", \"net\":\"grpc\", \"type\":\"multi\", \"host\":\"\", \"path\":\"2ed0eecdb803866feefcb44021e343e1-vmgrpc\", \"tls\":\"tls\", \"sni\":\"ov2uk.tavakoli.gq\", \"alpn\":\"h2\"}\n\n",
+     "language": ""
+    },
+    {
+     "type": "hashtag",
+     "text": "#tls"
+    },
+    "\n",
+    {
+     "type": "pre",
+     "text": "trojan://2ed0eecd-b803-866f-eefc-b44021e343e1@51.195.233.185:443?security=tls&sni=ov2uk.tavakoli.gq&alpn=h2&type=tcp#trojan+tls_ov2uk.tavakoli.gq\nvless://2ed0eecd-b803-866f-eefc-b44021e343e1@51.195.233.185:443?security=tls&sni=ov2uk.tavakoli.gq&alpn=h2&type=tcp#vless+tls_ov2uk.tavakoli.gq\nvmess://{\"v\": \"2\", \"ps\": \"vmess+tls_ov2uk.tavakoli.gq\", \"add\": \"51.195.233.185\", \"port\": \"443\", \"id\": \"2ed0eecd-b803-866f-eefc-b44021e343e1\", \"aid\": \"0\", \"scy\": \"auto\", \"net\": \"tcp\", \"type\":\"http\", \"host\": \"\", \"path\": \"/2ed0eecdb803866feefcb44021e343e1/vmtc\", \"tls\": \"tls\", \"sni\": \"ov2uk.tavakoli.gq\", \"alpn\": \"h2\"}\n\n\n\n",
+     "language": ""
+    },
+    {
+     "type": "hashtag",
+     "text": "#tls"
+    },
+    "+http1.1\n#",
+    {
+     "type": "code",
+     "text": "trojan://2ed0eecd-b803-866f-eefc-b44021e343e1@51.195.233.185:443?security=tls&sni=ov2uk.tavakoli.gq&alpn=http/1.1&type=tcp&headerType=http&path=%2F2ed0eecdb803866feefcb44021e343e1%2Ftrtc#trojan+tls+http1.1_ov2uk.tavakoli.gq\nvless://2ed0eecd-b803-866f-eefc-b44021e343e1@51.195.233.185:443?security=tls&sni=ov2uk.tavakoli.gq&alpn=http/1.1&type=tcp&headerType=http&path=%2F2ed0eecdb803866feefcb44021e343e1%2Fvltc#vless+tls+http1.1_ov2uk.tavakoli.gq\nvmess://{\"v\": \"2\", \"ps\": \"vmess+tls+http1.1_ov2uk.tavakoli.gq\", \"add\": \"51.195.233.185\", \"port\": \"443\", \"id\": \"2ed0eecd-b803-866f-eefc-b44021e343e1\", \"aid\": \"0\", \"scy\": \"auto\", \"net\": \"tcp\", \"type\": \"http\", \"host\": \"\", \"path\": \"/2ed0eecdb803866feefcb44021e343e1/vmtc\", \"tls\": \"tls\", \"sni\": \"ov2uk.tavakoli.gq\", \"alpn\": \"http/1.1\"}"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "سرور 2 انگلستان \n"
+    },
+    {
+     "type": "link",
+     "text": "https://ov2uk.tavakoli.gq/2ed0eecdb803866feefcb44021e343e1/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "hashtag",
+     "text": "#xtls"
+    },
+    {
+     "type": "plain",
+     "text": ":\n"
+    },
+    {
+     "type": "pre",
+     "text": "vless://2ed0eecd-b803-866f-eefc-b44021e343e1@51.195.233.185:443?flow=xtls-rprx-direct&security=xtls&alpn=h2&sni=ov2uk.tavakoli.gq&type=tcp#vless+xtls_ov2uk.tavakoli.gq\n\n",
+     "language": ""
+    },
+    {
+     "type": "hashtag",
+     "text": "#ws"
+    },
+    {
+     "type": "plain",
+     "text": ":\n"
+    },
+    {
+     "type": "pre",
+     "text": "vless://2ed0eecd-b803-866f-eefc-b44021e343e1@51.195.233.185:443?security=tls&alpn=h2&sni=ov2uk.tavakoli.gq&type=ws&path=%2F2ed0eecdb803866feefcb44021e343e1%2Fvlessws#vless_ws_ov2uk.tavakoli.gq\ntrojan://2ed0eecd-b803-866f-eefc-b44021e343e1@51.195.233.185:443?security=tls&alpn=h2&sni=ov2uk.tavakoli.gq&type=ws&path=%2F2ed0eecdb803866feefcb44021e343e1%2Ftrojanws#trojan_ws_ov2uk.tavakoli.gq\nvmess://{\"v\":\"2\", \"ps\":\"vmess_ws_ov2uk.tavakoli.gq\", \"add\":\"51.195.233.185\", \"port\":\"443\", \"id\":\"2ed0eecd-b803-866f-eefc-b44021e343e1\", \"aid\":\"0\", \"scy\":\"auto\", \"net\":\"ws\", \"type\":\"none\", \"host\":\"\", \"path\":\"/2ed0eecdb803866feefcb44021e343e1/vmessws\", \"tls\":\"tls\", \"sni\":\"ov2uk.tavakoli.gq\", \"alpn\":\"h2\"}\n\n",
+     "language": ""
+    },
+    {
+     "type": "hashtag",
+     "text": "#ws"
+    },
+    {
+     "type": "plain",
+     "text": " CDN:\n"
+    },
+    {
+     "type": "pre",
+     "text": "vless://2ed0eecd-b803-866f-eefc-b44021e343e1@ov2uk.tavakoli.gq:443?security=tls&alpn=h2&sni=ov2uk.tavakoli.gq&type=ws&path=%2F2ed0eecdb803866feefcb44021e343e1%2Fvlessws#CDNvless_ws_ov2uk.tavakoli.gq\ntrojan://2ed0eecd-b803-866f-eefc-b44021e343e1@ov2uk.tavakoli.gq:443?security=tls&alpn=h2&sni=ov2uk.tavakoli.gq&type=ws&path=%2F2ed0eecdb803866feefcb44021e343e1%2Ftrojanws#CDNtrojan_ws_ov2uk.tavakoli.gq\nvmess://{\"v\":\"2\", \"ps\":\"CDNvmess_ws_ov2uk.tavakoli.gq\", \"add\":\"ov2uk.tavakoli.gq\", \"port\":\"443\", \"id\":\"2ed0eecd-b803-866f-eefc-b44021e343e1\", \"aid\":\"0\", \"scy\":\"auto\", \"net\":\"ws\", \"type\":\"none\", \"host\":\"\", \"path\":\"/2ed0eecdb803866feefcb44021e343e1/vmessws\", \"tls\":\"tls\", \"sni\":\"ov2uk.tavakoli.gq\", \"alpn\":\"h2\"}\n\n\n",
+     "language": ""
+    },
+    {
+     "type": "hashtag",
+     "text": "#grpc"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "pre",
+     "text": "vless://2ed0eecd-b803-866f-eefc-b44021e343e1@51.195.233.185:443?security=tls&alpn=h2&sni=ov2uk.tavakoli.gq&type=grpc&serviceName=2ed0eecdb803866feefcb44021e343e1-vlgrpc&mode=multi#vless-grpc_ov2uk.tavakoli.gq\ntrojan://2ed0eecd-b803-866f-eefc-b44021e343e1@51.195.233.185:443?security=tls&alpn=h2&sni=ov2uk.tavakoli.gq&type=grpc&serviceName=2ed0eecdb803866feefcb44021e343e1-trgrpc&mode=multi#trojan-grpc_ov2uk.tavakoli.gq\nvmess://{\"v\":\"2\", \"ps\":\"vmess_grpc_ov2uk.tavakoli.gq\", \"add\":\"51.195.233.185\", \"port\":\"443\", \"id\":\"2ed0eecd-b803-866f-eefc-b44021e343e1\", \"aid\":\"0\", \"scy\":\"auto\", \"net\":\"grpc\", \"type\":\"multi\", \"host\":\"\", \"path\":\"2ed0eecdb803866feefcb44021e343e1-vmgrpc\", \"tls\":\"tls\", \"sni\":\"ov2uk.tavakoli.gq\", \"alpn\":\"h2\"}\n\n",
+     "language": ""
+    },
+    {
+     "type": "hashtag",
+     "text": "#tls"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "pre",
+     "text": "trojan://2ed0eecd-b803-866f-eefc-b44021e343e1@51.195.233.185:443?security=tls&sni=ov2uk.tavakoli.gq&alpn=h2&type=tcp#trojan+tls_ov2uk.tavakoli.gq\nvless://2ed0eecd-b803-866f-eefc-b44021e343e1@51.195.233.185:443?security=tls&sni=ov2uk.tavakoli.gq&alpn=h2&type=tcp#vless+tls_ov2uk.tavakoli.gq\nvmess://{\"v\": \"2\", \"ps\": \"vmess+tls_ov2uk.tavakoli.gq\", \"add\": \"51.195.233.185\", \"port\": \"443\", \"id\": \"2ed0eecd-b803-866f-eefc-b44021e343e1\", \"aid\": \"0\", \"scy\": \"auto\", \"net\": \"tcp\", \"type\":\"http\", \"host\": \"\", \"path\": \"/2ed0eecdb803866feefcb44021e343e1/vmtc\", \"tls\": \"tls\", \"sni\": \"ov2uk.tavakoli.gq\", \"alpn\": \"h2\"}\n\n\n\n",
+     "language": ""
+    },
+    {
+     "type": "hashtag",
+     "text": "#tls"
+    },
+    {
+     "type": "plain",
+     "text": "+http1.1\n#"
+    },
+    {
+     "type": "code",
+     "text": "trojan://2ed0eecd-b803-866f-eefc-b44021e343e1@51.195.233.185:443?security=tls&sni=ov2uk.tavakoli.gq&alpn=http/1.1&type=tcp&headerType=http&path=%2F2ed0eecdb803866feefcb44021e343e1%2Ftrtc#trojan+tls+http1.1_ov2uk.tavakoli.gq\nvless://2ed0eecd-b803-866f-eefc-b44021e343e1@51.195.233.185:443?security=tls&sni=ov2uk.tavakoli.gq&alpn=http/1.1&type=tcp&headerType=http&path=%2F2ed0eecdb803866feefcb44021e343e1%2Fvltc#vless+tls+http1.1_ov2uk.tavakoli.gq\nvmess://{\"v\": \"2\", \"ps\": \"vmess+tls+http1.1_ov2uk.tavakoli.gq\", \"add\": \"51.195.233.185\", \"port\": \"443\", \"id\": \"2ed0eecd-b803-866f-eefc-b44021e343e1\", \"aid\": \"0\", \"scy\": \"auto\", \"net\": \"tcp\", \"type\": \"http\", \"host\": \"\", \"path\": \"/2ed0eecdb803866feefcb44021e343e1/vmtc\", \"tls\": \"tls\", \"sni\": \"ov2uk.tavakoli.gq\", \"alpn\": \"http/1.1\"}"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 234,
+   "type": "message",
+   "date": "2023-01-13T11:52:18",
+   "date_unixtime": "1673598138",
+   "edited": "2023-01-13T13:35:04",
+   "edited_unixtime": "1673604304",
+   "from": "Free Xray VPN",
+   "from_id": "channel1885529128",
+   "text": [
+    "سرور 22 آلمان:\n",
+    {
+     "type": "pre",
+     "text": "trojan://Z6Sd4vj62y@ov22germany.tavakoli.gq:443#Trojan%20Germany%2022\n\nvless://540f9abd-bc89-4422-ddb2-259bb70a6245@ov22germany.tavakoli.gq:8443?type=tcp&security=xtls&flow=xtls-rprx-direct#Vless%20Germany%2022\n\n",
+     "language": ""
+    },
+    {
+     "type": "code",
+     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHZXJtYW55IDIyIiwKICAiYWRkIjogIm92MjJnZXJtYW55LnRhdmFrb2xpLmdxIiwKICAicG9ydCI6IDIwODcsCiAgImlkIjogIjM1MTBlOTU5LTBhZTQtNGE1Zi1jMzc0LWRhMjY0ODhjZDk4YiIsCiAgImFpZCI6IDAsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiAibm9uZSIsCiAgImhvc3QiOiAiIiwKICAicGF0aCI6ICIvIiwKICAidGxzIjogInRscyIKfQ=="
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "سرور 22 آلمان:\n"
+    },
+    {
+     "type": "pre",
+     "text": "trojan://Z6Sd4vj62y@ov22germany.tavakoli.gq:443#Trojan%20Germany%2022\n\nvless://540f9abd-bc89-4422-ddb2-259bb70a6245@ov22germany.tavakoli.gq:8443?type=tcp&security=xtls&flow=xtls-rprx-direct#Vless%20Germany%2022\n\n",
+     "language": ""
+    },
+    {
+     "type": "code",
+     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHZXJtYW55IDIyIiwKICAiYWRkIjogIm92MjJnZXJtYW55LnRhdmFrb2xpLmdxIiwKICAicG9ydCI6IDIwODcsCiAgImlkIjogIjM1MTBlOTU5LTBhZTQtNGE1Zi1jMzc0LWRhMjY0ODhjZDk4YiIsCiAgImFpZCI6IDAsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiAibm9uZSIsCiAgImhvc3QiOiAiIiwKICAicGF0aCI6ICIvIiwKICAidGxzIjogInRscyIKfQ=="
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 235,
+   "type": "message",
+   "date": "2023-01-13T23:33:48",
+   "date_unixtime": "1673640228",
+   "edited": "2023-01-14T06:26:02",
+   "edited_unixtime": "1673664962",
+   "from": "Free Xray VPN",
+   "from_id": "channel1885529128",
+   "text": [
+    "سرور آلمان 23:\n\n",
+    {
+     "type": "pre",
+     "text": "trojan://ubzj8sTMM8@ov23germany.tavakoli.gq:443#Trojan%20Germany%2023\n\nvless://de7f515e-f4ba-438b-a656-7db790a0d5a7@ov23germany.tavakoli.gq:8443?type=tcp&security=xtls&flow=xtls-rprx-direct#Vless%20Germany%2023\n\n",
+     "language": ""
+    },
+    {
+     "type": "code",
+     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHZXJtYW55IDIzIiwKICAiYWRkIjogIm92MjNnZXJtYW55LnRhdmFrb2xpLmdxIiwKICAicG9ydCI6IDIwODcsCiAgImlkIjogIjdlYTJjZDdiLWIyZTEtNDgxNy1mMmQzLTM1NmIwZTNlZmM2NCIsCiAgImFpZCI6IDAsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiAibm9uZSIsCiAgImhvc3QiOiAiIiwKICAicGF0aCI6ICIvIiwKICAidGxzIjogInRscyIKfQ=="
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "سرور آلمان 23:\n\n"
+    },
+    {
+     "type": "pre",
+     "text": "trojan://ubzj8sTMM8@ov23germany.tavakoli.gq:443#Trojan%20Germany%2023\n\nvless://de7f515e-f4ba-438b-a656-7db790a0d5a7@ov23germany.tavakoli.gq:8443?type=tcp&security=xtls&flow=xtls-rprx-direct#Vless%20Germany%2023\n\n",
+     "language": ""
+    },
+    {
+     "type": "code",
+     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHZXJtYW55IDIzIiwKICAiYWRkIjogIm92MjNnZXJtYW55LnRhdmFrb2xpLmdxIiwKICAicG9ydCI6IDIwODcsCiAgImlkIjogIjdlYTJjZDdiLWIyZTEtNDgxNy1mMmQzLTM1NmIwZTNlZmM2NCIsCiAgImFpZCI6IDAsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiAibm9uZSIsCiAgImhvc3QiOiAiIiwKICAicGF0aCI6ICIvIiwKICAidGxzIjogInRscyIKfQ=="
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 236,
+   "type": "message",
+   "date": "2023-01-14T03:06:12",
+   "date_unixtime": "1673652972",
+   "edited": "2023-01-14T06:02:01",
+   "edited_unixtime": "1673663521",
+   "from": "Free Xray VPN",
+   "from_id": "channel1885529128",
+   "text": [
+    "سرور آلمان 24:\n",
+    {
+     "type": "pre",
+     "text": "trojan://HmKyuA5Aqa@ov24germany.tavakoli.gq:443#Trojan%20Germany%20%2024\n\nvless://77b19636-59be-4335-9e47-8eb1a3a691da@ov24germany.tavakoli.gq:8443?type=tcp&security=xtls&flow=xtls-rprx-direct#Vless%20Germany%2024\n\n",
+     "language": ""
+    },
+    {
+     "type": "code",
+     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHZXJtYW55IDI0IiwKICAiYWRkIjogIm92MjRnZXJtYW55LnRhdmFrb2xpLmdxIiwKICAicG9ydCI6IDIzMDgxLAogICJpZCI6ICI2ODhmNDQ3NC0yYTMwLTQzOGYtZDU5Ni1hYjhlMGJiZGNhYjQiLAogICJhaWQiOiAwLAogICJuZXQiOiAid3MiLAogICJ0eXBlIjogIm5vbmUiLAogICJob3N0IjogIiIsCiAgInBhdGgiOiAiLyIsCiAgInRscyI6ICJ0bHMiCn0="
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "سرور آلمان 24:\n"
+    },
+    {
+     "type": "pre",
+     "text": "trojan://HmKyuA5Aqa@ov24germany.tavakoli.gq:443#Trojan%20Germany%20%2024\n\nvless://77b19636-59be-4335-9e47-8eb1a3a691da@ov24germany.tavakoli.gq:8443?type=tcp&security=xtls&flow=xtls-rprx-direct#Vless%20Germany%2024\n\n",
+     "language": ""
+    },
+    {
+     "type": "code",
+     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHZXJtYW55IDI0IiwKICAiYWRkIjogIm92MjRnZXJtYW55LnRhdmFrb2xpLmdxIiwKICAicG9ydCI6IDIzMDgxLAogICJpZCI6ICI2ODhmNDQ3NC0yYTMwLTQzOGYtZDU5Ni1hYjhlMGJiZGNhYjQiLAogICJhaWQiOiAwLAogICJuZXQiOiAid3MiLAogICJ0eXBlIjogIm5vbmUiLAogICJob3N0IjogIiIsCiAgInBhdGgiOiAiLyIsCiAgInRscyI6ICJ0bHMiCn0="
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 237,
+   "type": "message",
+   "date": "2023-01-14T21:31:54",
+   "date_unixtime": "1673719314",
+   "edited": "2023-01-14T22:15:18",
+   "edited_unixtime": "1673721918",
+   "from": "Free Xray VPN",
+   "from_id": "channel1885529128",
+   "text": [
+    "سرور آلمان ۲:\n\n",
+    {
+     "type": "code",
+     "text": "vless://42388748-1b84-4d32-c7be-20013fa3e064@ov2germanyp.ronaghi.tk:8443?path=%2F&security=tls&encryption=none&type=ws&sni=ov2germanyp.ronaghi.tk#Vless+Germany+2+p1"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "سرور آلمان ۲:\n\n"
+    },
+    {
+     "type": "code",
+     "text": "vless://42388748-1b84-4d32-c7be-20013fa3e064@ov2germanyp.ronaghi.tk:8443?path=%2F&security=tls&encryption=none&type=ws&sni=ov2germanyp.ronaghi.tk#Vless+Germany+2+p1"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 239,
+   "type": "message",
+   "date": "2023-01-14T22:14:55",
+   "date_unixtime": "1673721895",
+   "edited": "2023-01-14T22:16:51",
+   "edited_unixtime": "1673722011",
+   "from": "Free Xray VPN",
+   "from_id": "channel1885529128",
+   "text": [
+    "سرور آلمان ۴:\n",
+    {
+     "type": "code",
+     "text": "vless://935ca785-bb88-43cc-d845-a91f58184d05@ov4germanyp.ronaghi.tk:2053?path=%2F&security=tls&encryption=none&type=ws&sni=ov4germanyp.ronaghi.tk#Vless+GErmany+4+p1"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "سرور آلمان ۴:\n"
+    },
+    {
+     "type": "code",
+     "text": "vless://935ca785-bb88-43cc-d845-a91f58184d05@ov4germanyp.ronaghi.tk:2053?path=%2F&security=tls&encryption=none&type=ws&sni=ov4germanyp.ronaghi.tk#Vless+GErmany+4+p1"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 241,
+   "type": "message",
+   "date": "2023-01-14T23:02:22",
+   "date_unixtime": "1673724742",
+   "edited": "2023-01-14T23:04:17",
+   "edited_unixtime": "1673724857",
+   "from": "Free Xray VPN",
+   "from_id": "channel1885529128",
+   "text": [
+    "سرور آلمان 25:\n\n",
+    {
+     "type": "pre",
+     "text": "trojan://HwiEg5ZJWd@ov25germany.tavakoli.gq:443#Trojan%20Germany%2025\n\nvless://9a88024a-9d7b-452b-d5f5-a19b7980ad53@ov25germany.tavakoli.gq:8443?type=ws&security=tls&path=%2F&sni=ov25germany.tavakoli.gq#Vless%20Germany%2025\n\nvmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHZXJtYW55IDI1IiwKICAiYWRkIjogIm92MjVnZXJtYW55LnRhdmFrb2xpLmdxIiwKICAicG9ydCI6IDIwODcsCiAgImlkIjogIjgxZjEyZDNmLTVjMTYtNDc0YS1kOGI1LTRhNjM3ZGQwNDE5MiIsCiAgImFpZCI6IDAsCiAgIm5ldCI6ICJ0Y3AiLAogICJ0eXBlIjogIm5vbmUiLAogICJob3N0IjogIiIsCiAgInBhdGgiOiAiIiwKICAidGxzIjogInRscyIKfQ==\n\n",
+     "language": ""
+    },
+    {
+     "type": "code",
+     "text": "vless://cdc97adf-cce1-4881-d66d-fed53334334f@ov25germanyp.tavakoli.gq:2053?type=ws&security=tls&path=%2F&sni=ov25germanyp.tavakoli.gq#Vless%20Germany%2025%20p1"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "سرور آلمان 25:\n\n"
+    },
+    {
+     "type": "pre",
+     "text": "trojan://HwiEg5ZJWd@ov25germany.tavakoli.gq:443#Trojan%20Germany%2025\n\nvless://9a88024a-9d7b-452b-d5f5-a19b7980ad53@ov25germany.tavakoli.gq:8443?type=ws&security=tls&path=%2F&sni=ov25germany.tavakoli.gq#Vless%20Germany%2025\n\nvmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHZXJtYW55IDI1IiwKICAiYWRkIjogIm92MjVnZXJtYW55LnRhdmFrb2xpLmdxIiwKICAicG9ydCI6IDIwODcsCiAgImlkIjogIjgxZjEyZDNmLTVjMTYtNDc0YS1kOGI1LTRhNjM3ZGQwNDE5MiIsCiAgImFpZCI6IDAsCiAgIm5ldCI6ICJ0Y3AiLAogICJ0eXBlIjogIm5vbmUiLAogICJob3N0IjogIiIsCiAgInBhdGgiOiAiIiwKICAidGxzIjogInRscyIKfQ==\n\n",
+     "language": ""
+    },
+    {
+     "type": "code",
+     "text": "vless://cdc97adf-cce1-4881-d66d-fed53334334f@ov25germanyp.tavakoli.gq:2053?type=ws&security=tls&path=%2F&sni=ov25germanyp.tavakoli.gq#Vless%20Germany%2025%20p1"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 243,
+   "type": "message",
+   "date": "2023-01-14T23:41:27",
+   "date_unixtime": "1673727087",
+   "edited": "2023-01-14T23:53:08",
+   "edited_unixtime": "1673727788",
+   "from": "Free Xray VPN",
+   "from_id": "channel1885529128",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 572,
+   "text": "سرور المان ۲ رنگ زرده که میبینین یکهو ترافیکش کم شده ولی صفر نشده. دقت داشته باشید با سرعت بالای ۳۰۰ مگابیت یعنی حدود ۴۰ مگابایت در ثانیه دارید استفاوه میکنید ولی معلومه نسبت به دیروز ترافیک کم شده که همش سر از دست رفتن آلمان ۲ هست. سرور آلمان ۲ تا الان ۱۲ ترابایت مصرف داشته :)",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "سرور المان ۲ رنگ زرده که میبینین یکهو ترافیکش کم شده ولی صفر نشده. دقت داشته باشید با سرعت بالای ۳۰۰ مگابیت یعنی حدود ۴۰ مگابایت در ثانیه دارید استفاوه میکنید ولی معلومه نسبت به دیروز ترافیک کم شده که همش سر از دست رفتن آلمان ۲ هست. سرور آلمان ۲ تا الان ۱۲ ترابایت مصرف داشته :)"
+    }
+   ]
+  }
+ ]
+}

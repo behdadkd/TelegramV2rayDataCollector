@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TekegramV2rayDataCollector", "TekegramV2rayDataCollector.csproj", "{0579E23D-1FCA-471C-9034-CC701321FB56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0579E23D-1FCA-471C-9034-CC701321FB56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0579E23D-1FCA-471C-9034-CC701321FB56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0579E23D-1FCA-471C-9034-CC701321FB56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0579E23D-1FCA-471C-9034-CC701321FB56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33E1C334-99A4-4684-91F8-9D1D4A548FEE}
+	EndGlobalSection
+EndGlobal

@@ -2231,6 +2231,179 @@
      "text": "سرور المان ۲ رنگ زرده که میبینین یکهو ترافیکش کم شده ولی صفر نشده. دقت داشته باشید با سرعت بالای ۳۰۰ مگابیت یعنی حدود ۴۰ مگابایت در ثانیه دارید استفاوه میکنید ولی معلومه نسبت به دیروز ترافیک کم شده که همش سر از دست رفتن آلمان ۲ هست. سرور آلمان ۲ تا الان ۱۲ ترابایت مصرف داشته :)"
     }
    ]
+  },
+  {
+   "id": 246,
+   "type": "message",
+   "date": "2023-01-15T16:20:16",
+   "date_unixtime": "1673787016",
+   "edited": "2023-01-15T16:27:25",
+   "edited_unixtime": "1673787445",
+   "from": "Free Xray VPN",
+   "from_id": "channel1885529128",
+   "text": [
+    "سرور لهستان ۶:\n",
+    {
+     "type": "link",
+     "text": "https://ov6poland.kianpir.tk/30aedb2d0cfca8b199080bcbbcd3ab85/30aedb2d0cfca8b199080bcbbcd3ab85/"
+    },
+    "\n\n",
+    {
+     "type": "hashtag",
+     "text": "#xtls"
+    },
+    ":\n",
+    {
+     "type": "pre",
+     "text": "vless://30aedb2d-0cfc-a8b1-9908-0bcbbcd3ab85@51.83.254.7:443?flow=xtls-rprx-direct&security=xtls&alpn=h2&sni=ov6poland.kianpir.tk&type=tcp#vless+xtls_ov6poland.kianpir.tk\n\n",
+     "language": ""
+    },
+    {
+     "type": "hashtag",
+     "text": "#ws"
+    },
+    ":\n",
+    {
+     "type": "pre",
+     "text": "vless://30aedb2d-0cfc-a8b1-9908-0bcbbcd3ab85@51.83.254.7:443?security=tls&alpn=h2&sni=ov6poland.kianpir.tk&type=ws&path=%2F30aedb2d0cfca8b199080bcbbcd3ab85%2Fvlessws#vless_ws_ov6poland.kianpir.tk\ntrojan://30aedb2d-0cfc-a8b1-9908-0bcbbcd3ab85@51.83.254.7:443?security=tls&alpn=h2&sni=ov6poland.kianpir.tk&type=ws&path=%2F30aedb2d0cfca8b199080bcbbcd3ab85%2Ftrojanws#trojan_ws_ov6poland.kianpir.tk\nvmess://{\"v\":\"2\", \"ps\":\"vmess_ws_ov6poland.kianpir.tk\", \"add\":\"51.83.254.7\", \"port\":\"443\", \"id\":\"30aedb2d-0cfc-a8b1-9908-0bcbbcd3ab85\", \"aid\":\"0\", \"scy\":\"auto\", \"net\":\"ws\", \"type\":\"none\", \"host\":\"\", \"path\":\"/30aedb2d0cfca8b199080bcbbcd3ab85/vmessws\", \"tls\":\"tls\", \"sni\":\"ov6poland.kianpir.tk\", \"alpn\":\"h2\"}\n\n",
+     "language": ""
+    },
+    {
+     "type": "hashtag",
+     "text": "#ws"
+    },
+    " CDN:\n",
+    {
+     "type": "pre",
+     "text": "vless://30aedb2d-0cfc-a8b1-9908-0bcbbcd3ab85@ov6poland.kianpir.tk:443?security=tls&alpn=h2&sni=ov6poland.kianpir.tk&type=ws&path=%2F30aedb2d0cfca8b199080bcbbcd3ab85%2Fvlessws#CDNvless_ws_ov6poland.kianpir.tk\ntrojan://30aedb2d-0cfc-a8b1-9908-0bcbbcd3ab85@ov6poland.kianpir.tk:443?security=tls&alpn=h2&sni=ov6poland.kianpir.tk&type=ws&path=%2F30aedb2d0cfca8b199080bcbbcd3ab85%2Ftrojanws#CDNtrojan_ws_ov6poland.kianpir.tk\n\nvmess://{\"v\":\"2\", \"ps\":\"CDNvmess_ws_ov6poland.kianpir.tk\", \"add\":\"ov6poland.kianpir.tk\", \"port\":\"443\", \"id\":\"30aedb2d-0cfc-a8b1-9908-0bcbbcd3ab85\", \"aid\":\"0\", \"scy\":\"auto\", \"net\":\"ws\", \"type\":\"none\", \"host\":\"\", \"path\":\"/30aedb2d0cfca8b199080bcbbcd3ab85/vmessws\", \"tls\":\"tls\", \"sni\":\"ov6poland.kianpir.tk\", \"alpn\":\"h2\"}\n\n",
+     "language": ""
+    },
+    {
+     "type": "hashtag",
+     "text": "#grpc"
+    },
+    "\n",
+    {
+     "type": "pre",
+     "text": "vless://30aedb2d-0cfc-a8b1-9908-0bcbbcd3ab85@51.83.254.7:443?security=tls&alpn=h2&sni=ov6poland.kianpir.tk&type=grpc&serviceName=30aedb2d0cfca8b199080bcbbcd3ab85-vlgrpc&mode=multi#vless-grpc_ov6poland.kianpir.tk\ntrojan://30aedb2d-0cfc-a8b1-9908-0bcbbcd3ab85@51.83.254.7:443?security=tls&alpn=h2&sni=ov6poland.kianpir.tk&type=grpc&serviceName=30aedb2d0cfca8b199080bcbbcd3ab85-trgrpc&mode=multi#trojan-grpc_ov6poland.kianpir.tk\nvmess://{\"v\":\"2\", \"ps\":\"vmess_grpc_ov6poland.kianpir.tk\", \"add\":\"51.83.254.7\", \"port\":\"443\", \"id\":\"30aedb2d-0cfc-a8b1-9908-0bcbbcd3ab85\", \"aid\":\"0\", \"scy\":\"auto\", \"net\":\"grpc\", \"type\":\"multi\", \"host\":\"\", \"path\":\"30aedb2d0cfca8b199080bcbbcd3ab85-vmgrpc\", \"tls\":\"tls\", \"sni\":\"ov6poland.kianpir.tk\", \"alpn\":\"h2\"}\n\n",
+     "language": ""
+    },
+    {
+     "type": "hashtag",
+     "text": "#tls"
+    },
+    "\n",
+    {
+     "type": "pre",
+     "text": "trojan://30aedb2d-0cfc-a8b1-9908-0bcbbcd3ab85@51.83.254.7:443?security=tls&sni=ov6poland.kianpir.tk&alpn=h2&type=tcp#trojan+tls_ov6poland.kianpir.tk\nvless://30aedb2d-0cfc-a8b1-9908-0bcbbcd3ab85@51.83.254.7:443?security=tls&sni=ov6poland.kianpir.tk&alpn=h2&type=tcp#vless+tls_ov6poland.kianpir.tk\nvmess://{\"v\": \"2\", \"ps\": \"vmess+tls_ov6poland.kianpir.tk\", \"add\": \"51.83.254.7\", \"port\": \"443\", \"id\": \"30aedb2d-0cfc-a8b1-9908-0bcbbcd3ab85\", \"aid\": \"0\", \"scy\": \"auto\", \"net\": \"tcp\", \"type\":\"http\", \"host\": \"\", \"path\": \"/30aedb2d0cfca8b199080bcbbcd3ab85/vmtc\", \"tls\": \"tls\", \"sni\": \"ov6poland.kianpir.tk\", \"alpn\": \"h2\"}\n\n\n",
+     "language": ""
+    },
+    {
+     "type": "hashtag",
+     "text": "#tls"
+    },
+    "+http1.1\n#",
+    {
+     "type": "code",
+     "text": "trojan://30aedb2d-0cfc-a8b1-9908-0bcbbcd3ab85@51.83.254.7:443?security=tls&sni=ov6poland.kianpir.tk&alpn=http/1.1&type=tcp&headerType=http&path=%2F30aedb2d0cfca8b199080bcbbcd3ab85%2Ftrtc#trojan+tls+http1.1_ov6poland.kianpir.tk\nvless://30aedb2d-0cfc-a8b1-9908-0bcbbcd3ab85@51.83.254.7:443?security=tls&sni=ov6poland.kianpir.tk&alpn=http/1.1&type=tcp&headerType=http&path=%2F30aedb2d0cfca8b199080bcbbcd3ab85%2Fvltc#vless+tls+http1.1_ov6poland.kianpir.tk\nvmess://{\"v\": \"2\", \"ps\": \"vmess+tls+http1.1_ov6poland.kianpir.tk\", \"add\": \"51.83.254.7\", \"port\": \"443\", \"id\": \"30aedb2d-0cfc-a8b1-9908-0bcbbcd3ab85\", \"aid\": \"0\", \"scy\": \"auto\", \"net\": \"tcp\", \"type\": \"http\", \"host\": \"\", \"path\": \"/30aedb2d0cfca8b199080bcbbcd3ab85/vmtc\", \"tls\": \"tls\", \"sni\": \"ov6poland.kianpir.tk\", \"alpn\": \"http/1.1\"}"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "سرور لهستان ۶:\n"
+    },
+    {
+     "type": "link",
+     "text": "https://ov6poland.kianpir.tk/30aedb2d0cfca8b199080bcbbcd3ab85/30aedb2d0cfca8b199080bcbbcd3ab85/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "hashtag",
+     "text": "#xtls"
+    },
+    {
+     "type": "plain",
+     "text": ":\n"
+    },
+    {
+     "type": "pre",
+     "text": "vless://30aedb2d-0cfc-a8b1-9908-0bcbbcd3ab85@51.83.254.7:443?flow=xtls-rprx-direct&security=xtls&alpn=h2&sni=ov6poland.kianpir.tk&type=tcp#vless+xtls_ov6poland.kianpir.tk\n\n",
+     "language": ""
+    },
+    {
+     "type": "hashtag",
+     "text": "#ws"
+    },
+    {
+     "type": "plain",
+     "text": ":\n"
+    },
+    {
+     "type": "pre",
+     "text": "vless://30aedb2d-0cfc-a8b1-9908-0bcbbcd3ab85@51.83.254.7:443?security=tls&alpn=h2&sni=ov6poland.kianpir.tk&type=ws&path=%2F30aedb2d0cfca8b199080bcbbcd3ab85%2Fvlessws#vless_ws_ov6poland.kianpir.tk\ntrojan://30aedb2d-0cfc-a8b1-9908-0bcbbcd3ab85@51.83.254.7:443?security=tls&alpn=h2&sni=ov6poland.kianpir.tk&type=ws&path=%2F30aedb2d0cfca8b199080bcbbcd3ab85%2Ftrojanws#trojan_ws_ov6poland.kianpir.tk\nvmess://{\"v\":\"2\", \"ps\":\"vmess_ws_ov6poland.kianpir.tk\", \"add\":\"51.83.254.7\", \"port\":\"443\", \"id\":\"30aedb2d-0cfc-a8b1-9908-0bcbbcd3ab85\", \"aid\":\"0\", \"scy\":\"auto\", \"net\":\"ws\", \"type\":\"none\", \"host\":\"\", \"path\":\"/30aedb2d0cfca8b199080bcbbcd3ab85/vmessws\", \"tls\":\"tls\", \"sni\":\"ov6poland.kianpir.tk\", \"alpn\":\"h2\"}\n\n",
+     "language": ""
+    },
+    {
+     "type": "hashtag",
+     "text": "#ws"
+    },
+    {
+     "type": "plain",
+     "text": " CDN:\n"
+    },
+    {
+     "type": "pre",
+     "text": "vless://30aedb2d-0cfc-a8b1-9908-0bcbbcd3ab85@ov6poland.kianpir.tk:443?security=tls&alpn=h2&sni=ov6poland.kianpir.tk&type=ws&path=%2F30aedb2d0cfca8b199080bcbbcd3ab85%2Fvlessws#CDNvless_ws_ov6poland.kianpir.tk\ntrojan://30aedb2d-0cfc-a8b1-9908-0bcbbcd3ab85@ov6poland.kianpir.tk:443?security=tls&alpn=h2&sni=ov6poland.kianpir.tk&type=ws&path=%2F30aedb2d0cfca8b199080bcbbcd3ab85%2Ftrojanws#CDNtrojan_ws_ov6poland.kianpir.tk\n\nvmess://{\"v\":\"2\", \"ps\":\"CDNvmess_ws_ov6poland.kianpir.tk\", \"add\":\"ov6poland.kianpir.tk\", \"port\":\"443\", \"id\":\"30aedb2d-0cfc-a8b1-9908-0bcbbcd3ab85\", \"aid\":\"0\", \"scy\":\"auto\", \"net\":\"ws\", \"type\":\"none\", \"host\":\"\", \"path\":\"/30aedb2d0cfca8b199080bcbbcd3ab85/vmessws\", \"tls\":\"tls\", \"sni\":\"ov6poland.kianpir.tk\", \"alpn\":\"h2\"}\n\n",
+     "language": ""
+    },
+    {
+     "type": "hashtag",
+     "text": "#grpc"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "pre",
+     "text": "vless://30aedb2d-0cfc-a8b1-9908-0bcbbcd3ab85@51.83.254.7:443?security=tls&alpn=h2&sni=ov6poland.kianpir.tk&type=grpc&serviceName=30aedb2d0cfca8b199080bcbbcd3ab85-vlgrpc&mode=multi#vless-grpc_ov6poland.kianpir.tk\ntrojan://30aedb2d-0cfc-a8b1-9908-0bcbbcd3ab85@51.83.254.7:443?security=tls&alpn=h2&sni=ov6poland.kianpir.tk&type=grpc&serviceName=30aedb2d0cfca8b199080bcbbcd3ab85-trgrpc&mode=multi#trojan-grpc_ov6poland.kianpir.tk\nvmess://{\"v\":\"2\", \"ps\":\"vmess_grpc_ov6poland.kianpir.tk\", \"add\":\"51.83.254.7\", \"port\":\"443\", \"id\":\"30aedb2d-0cfc-a8b1-9908-0bcbbcd3ab85\", \"aid\":\"0\", \"scy\":\"auto\", \"net\":\"grpc\", \"type\":\"multi\", \"host\":\"\", \"path\":\"30aedb2d0cfca8b199080bcbbcd3ab85-vmgrpc\", \"tls\":\"tls\", \"sni\":\"ov6poland.kianpir.tk\", \"alpn\":\"h2\"}\n\n",
+     "language": ""
+    },
+    {
+     "type": "hashtag",
+     "text": "#tls"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "pre",
+     "text": "trojan://30aedb2d-0cfc-a8b1-9908-0bcbbcd3ab85@51.83.254.7:443?security=tls&sni=ov6poland.kianpir.tk&alpn=h2&type=tcp#trojan+tls_ov6poland.kianpir.tk\nvless://30aedb2d-0cfc-a8b1-9908-0bcbbcd3ab85@51.83.254.7:443?security=tls&sni=ov6poland.kianpir.tk&alpn=h2&type=tcp#vless+tls_ov6poland.kianpir.tk\nvmess://{\"v\": \"2\", \"ps\": \"vmess+tls_ov6poland.kianpir.tk\", \"add\": \"51.83.254.7\", \"port\": \"443\", \"id\": \"30aedb2d-0cfc-a8b1-9908-0bcbbcd3ab85\", \"aid\": \"0\", \"scy\": \"auto\", \"net\": \"tcp\", \"type\":\"http\", \"host\": \"\", \"path\": \"/30aedb2d0cfca8b199080bcbbcd3ab85/vmtc\", \"tls\": \"tls\", \"sni\": \"ov6poland.kianpir.tk\", \"alpn\": \"h2\"}\n\n\n",
+     "language": ""
+    },
+    {
+     "type": "hashtag",
+     "text": "#tls"
+    },
+    {
+     "type": "plain",
+     "text": "+http1.1\n#"
+    },
+    {
+     "type": "code",
+     "text": "trojan://30aedb2d-0cfc-a8b1-9908-0bcbbcd3ab85@51.83.254.7:443?security=tls&sni=ov6poland.kianpir.tk&alpn=http/1.1&type=tcp&headerType=http&path=%2F30aedb2d0cfca8b199080bcbbcd3ab85%2Ftrtc#trojan+tls+http1.1_ov6poland.kianpir.tk\nvless://30aedb2d-0cfc-a8b1-9908-0bcbbcd3ab85@51.83.254.7:443?security=tls&sni=ov6poland.kianpir.tk&alpn=http/1.1&type=tcp&headerType=http&path=%2F30aedb2d0cfca8b199080bcbbcd3ab85%2Fvltc#vless+tls+http1.1_ov6poland.kianpir.tk\nvmess://{\"v\": \"2\", \"ps\": \"vmess+tls+http1.1_ov6poland.kianpir.tk\", \"add\": \"51.83.254.7\", \"port\": \"443\", \"id\": \"30aedb2d-0cfc-a8b1-9908-0bcbbcd3ab85\", \"aid\": \"0\", \"scy\": \"auto\", \"net\": \"tcp\", \"type\": \"http\", \"host\": \"\", \"path\": \"/30aedb2d0cfca8b199080bcbbcd3ab85/vmtc\", \"tls\": \"tls\", \"sni\": \"ov6poland.kianpir.tk\", \"alpn\": \"http/1.1\"}"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
   }
  ]
 }

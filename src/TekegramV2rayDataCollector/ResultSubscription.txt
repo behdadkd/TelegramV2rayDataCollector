@@ -13,3 +13,4 @@ vless://30aedb2d-0cfc-a8b1-9908-0bcbbcd3ab85@51.83.254.7:443?sni=ov6poland.kianp
 trojan://30aedb2d-0cfc-a8b1-9908-0bcbbcd3ab85@51.83.254.7:443?sni=ov6poland.kianpir.tk&security=tls&type=tcp#trojan+tls+http1.1_ov6poland.kianpir.tk
 vless://30aedb2d-0cfc-a8b1-9908-0bcbbcd3ab85@51.83.254.7:443?sni=ov6poland.kianpir.tk&security=tls&type=tcp#vless+tls+http1.1_ov6poland.kianpir.tk
 vmess://ewogICAgImFkZCI6ICJkZTcuZ2VyZm9nLnh5eiIsCiAgICAiYWlkIjogIjAiLAogICAgImhvc3QiOiAiYm1pLmlyIiwKICAgICJpZCI6ICI1NDJhNjljOS1lMjJlLTRkNTYtZDI0Yi1mODM1MGE1MGNlODkiLAogICAgIm5ldCI6ICJ0Y3AiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6ICIyMDI2NSIsCiAgICAicHMiOiAiTWFrYml0IiwKICAgICJzY3kiOiAiYXV0byIsCiAgICAic25pIjogIiIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJodHRwIiwKICAgICJ2IjogIjIiCn0K
+vless://f69f2cba-f8af-40e1-f2a1-5d01c75dd689@x.meandb3.tk:2096?sni=x.meandb3.tk&security=tls&type=ws&path=/#2096

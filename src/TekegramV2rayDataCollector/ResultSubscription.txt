@@ -12,3 +12,4 @@ trojan://30aedb2d-0cfc-a8b1-9908-0bcbbcd3ab85@51.83.254.7:443?sni=ov6poland.kian
 vless://30aedb2d-0cfc-a8b1-9908-0bcbbcd3ab85@51.83.254.7:443?sni=ov6poland.kianpir.tk&security=tls&type=tcp#vless+tls_ov6poland.kianpir.tk
 trojan://30aedb2d-0cfc-a8b1-9908-0bcbbcd3ab85@51.83.254.7:443?sni=ov6poland.kianpir.tk&security=tls&type=tcp#trojan+tls+http1.1_ov6poland.kianpir.tk
 vless://30aedb2d-0cfc-a8b1-9908-0bcbbcd3ab85@51.83.254.7:443?sni=ov6poland.kianpir.tk&security=tls&type=tcp#vless+tls+http1.1_ov6poland.kianpir.tk
+vmess://ewogICAgImFkZCI6ICJkZTcuZ2VyZm9nLnh5eiIsCiAgICAiYWlkIjogIjAiLAogICAgImhvc3QiOiAiYm1pLmlyIiwKICAgICJpZCI6ICI1NDJhNjljOS1lMjJlLTRkNTYtZDI0Yi1mODM1MGE1MGNlODkiLAogICAgIm5ldCI6ICJ0Y3AiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6ICIyMDI2NSIsCiAgICAicHMiOiAiTWFrYml0IiwKICAgICJzY3kiOiAiYXV0byIsCiAgICAic25pIjogIiIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJodHRwIiwKICAgICJ2IjogIjIiCn0K

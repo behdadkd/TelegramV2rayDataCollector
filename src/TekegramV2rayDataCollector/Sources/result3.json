@@ -295,115 +295,6 @@
    "text_entities": []
   },
   {
-   "id": 133,
-   "type": "message",
-   "date": "2022-12-26T00:55:07",
-   "date_unixtime": "1672003507",
-   "edited": "2022-12-26T00:57:15",
-   "edited_unixtime": "1672003635",
-   "from": "Free Xray VPN",
-   "from_id": "channel1885529128",
-   "text": [
-    "سرور آلمان 2 به نظر میاد هنوز گروهی دارن استفاده میکنن :)\n🇩🇪  ",
-    {
-     "type": "bold",
-     "text": "Vmess Germany 2:\n"
-    },
-    {
-     "type": "pre",
-     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHZXJtYW55IDIiLAogICJhZGQiOiAib3YyZ2VybWFueS5yb25hZ2hpLnRrIiwKICAicG9ydCI6IDQ0MywKICAiaWQiOiAiYjIyZmZkYTctOTAyMS00NDhhLTkyNTctZjcwNDk2Y2ExOTRhIiwKICAiYWlkIjogMCwKICAibmV0IjogIndzIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIi8iLAogICJ0bHMiOiAidGxzIgp9\n\n",
-     "language": ""
-    },
-    "🇩🇪 ",
-    {
-     "type": "underline",
-     "text": "Vless Germany 2:\n"
-    },
-    {
-     "type": "pre",
-     "text": "vless://5c3d0247-d6d5-4139-c8e5-67154de39fdf@ov2germany.ronaghi.tk:8443?type=tcp&security=xtls&flow=xtls-rprx-direct#Vless%20Germany%202\n\n",
-     "language": ""
-    },
-    "🇩🇪 ",
-    {
-     "type": "bold",
-     "text": "Trojan Germany 2:\n"
-    },
-    {
-     "type": "pre",
-     "text": "trojan://ryOkOHWVCH@ov2germany.ronaghi.tk:2087#Trojan%20Germany2\n\n",
-     "language": ""
-    },
-    "🇩🇪 ",
-    {
-     "type": "bold",
-     "text": "SS Germany 2:\n"
-    },
-    {
-     "type": "code",
-     "text": "ss://YWVzLTI1Ni1nY206S0w3QkpCTklRVQ==@ov2germany.ronaghi.tk:8882#SS+Germany+2"
-    },
-    ""
-   ],
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "سرور آلمان 2 به نظر میاد هنوز گروهی دارن استفاده میکنن :)\n🇩🇪  "
-    },
-    {
-     "type": "bold",
-     "text": "Vmess Germany 2:\n"
-    },
-    {
-     "type": "pre",
-     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHZXJtYW55IDIiLAogICJhZGQiOiAib3YyZ2VybWFueS5yb25hZ2hpLnRrIiwKICAicG9ydCI6IDQ0MywKICAiaWQiOiAiYjIyZmZkYTctOTAyMS00NDhhLTkyNTctZjcwNDk2Y2ExOTRhIiwKICAiYWlkIjogMCwKICAibmV0IjogIndzIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIi8iLAogICJ0bHMiOiAidGxzIgp9\n\n",
-     "language": ""
-    },
-    {
-     "type": "plain",
-     "text": "🇩🇪 "
-    },
-    {
-     "type": "underline",
-     "text": "Vless Germany 2:\n"
-    },
-    {
-     "type": "pre",
-     "text": "vless://5c3d0247-d6d5-4139-c8e5-67154de39fdf@ov2germany.ronaghi.tk:8443?type=tcp&security=xtls&flow=xtls-rprx-direct#Vless%20Germany%202\n\n",
-     "language": ""
-    },
-    {
-     "type": "plain",
-     "text": "🇩🇪 "
-    },
-    {
-     "type": "bold",
-     "text": "Trojan Germany 2:\n"
-    },
-    {
-     "type": "pre",
-     "text": "trojan://ryOkOHWVCH@ov2germany.ronaghi.tk:2087#Trojan%20Germany2\n\n",
-     "language": ""
-    },
-    {
-     "type": "plain",
-     "text": "🇩🇪 "
-    },
-    {
-     "type": "bold",
-     "text": "SS Germany 2:\n"
-    },
-    {
-     "type": "code",
-     "text": "ss://YWVzLTI1Ni1nY206S0w3QkpCTklRVQ==@ov2germany.ronaghi.tk:8882#SS+Germany+2"
-    },
-    {
-     "type": "plain",
-     "text": ""
-    }
-   ]
-  },
-  {
    "id": 183,
    "type": "message",
    "date": "2023-01-04T21:12:51",
@@ -717,1320 +608,6 @@
    ]
   },
   {
-   "id": 217,
-   "type": "message",
-   "date": "2023-01-09T00:15:07",
-   "date_unixtime": "1673210707",
-   "edited": "2023-01-09T00:17:48",
-   "edited_unixtime": "1673210868",
-   "from": "Free Xray VPN",
-   "from_id": "channel1885529128",
-   "photo": "(File not included. Change data exporting settings to download.)",
-   "width": 1195,
-   "height": 385,
-   "text": "سرور ها مجموعا روی هم ۵۰۰ مگابیت بر ثانیه ترافیک دارن . حدود ۶۰ مگابایت بر ثاینه.یعنی  سه الی چهار گیگ در دقیقه",
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "سرور ها مجموعا روی هم ۵۰۰ مگابیت بر ثانیه ترافیک دارن . حدود ۶۰ مگابایت بر ثاینه.یعنی  سه الی چهار گیگ در دقیقه"
-    }
-   ]
-  },
-  {
-   "id": 231,
-   "type": "message",
-   "date": "2023-01-11T21:22:49",
-   "date_unixtime": "1673459569",
-   "edited": "2023-01-11T21:24:46",
-   "edited_unixtime": "1673459686",
-   "from": "Free Xray VPN",
-   "from_id": "channel1885529128",
-   "photo": "(File not included. Change data exporting settings to download.)",
-   "width": 1280,
-   "height": 349,
-   "text": "سرور های ۲ ۱۱ ۱۶ و ۲۱ آلمان بیشترین لود رو دارن میتونین استفاده کنین :)",
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "سرور های ۲ ۱۱ ۱۶ و ۲۱ آلمان بیشترین لود رو دارن میتونین استفاده کنین :)"
-    }
-   ]
-  },
-  {
-   "id": 237,
-   "type": "message",
-   "date": "2023-01-14T21:31:54",
-   "date_unixtime": "1673719314",
-   "edited": "2023-01-14T22:15:18",
-   "edited_unixtime": "1673721918",
-   "from": "Free Xray VPN",
-   "from_id": "channel1885529128",
-   "text": [
-    "سرور آلمان ۲:\n\n",
-    {
-     "type": "code",
-     "text": "vless://42388748-1b84-4d32-c7be-20013fa3e064@ov2germanyp.ronaghi.tk:8443?path=%2F&security=tls&encryption=none&type=ws&sni=ov2germanyp.ronaghi.tk#Vless+Germany+2+p1"
-    },
-    ""
-   ],
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "سرور آلمان ۲:\n\n"
-    },
-    {
-     "type": "code",
-     "text": "vless://42388748-1b84-4d32-c7be-20013fa3e064@ov2germanyp.ronaghi.tk:8443?path=%2F&security=tls&encryption=none&type=ws&sni=ov2germanyp.ronaghi.tk#Vless+Germany+2+p1"
-    },
-    {
-     "type": "plain",
-     "text": ""
-    }
-   ]
-  },
-  {
-   "id": 243,
-   "type": "message",
-   "date": "2023-01-14T23:41:27",
-   "date_unixtime": "1673727087",
-   "edited": "2023-01-14T23:53:08",
-   "edited_unixtime": "1673727788",
-   "from": "Free Xray VPN",
-   "from_id": "channel1885529128",
-   "photo": "(File not included. Change data exporting settings to download.)",
-   "width": 1280,
-   "height": 572,
-   "text": "سرور المان ۲ رنگ زرده که میبینین یکهو ترافیکش کم شده ولی صفر نشده. دقت داشته باشید با سرعت بالای ۳۰۰ مگابیت یعنی حدود ۴۰ مگابایت در ثانیه دارید استفاوه میکنید ولی معلومه نسبت به دیروز ترافیک کم شده که همش سر از دست رفتن آلمان ۲ هست. سرور آلمان ۲ تا الان ۱۲ ترابایت مصرف داشته :)",
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "سرور المان ۲ رنگ زرده که میبینین یکهو ترافیکش کم شده ولی صفر نشده. دقت داشته باشید با سرعت بالای ۳۰۰ مگابیت یعنی حدود ۴۰ مگابایت در ثانیه دارید استفاوه میکنید ولی معلومه نسبت به دیروز ترافیک کم شده که همش سر از دست رفتن آلمان ۲ هست. سرور آلمان ۲ تا الان ۱۲ ترابایت مصرف داشته :)"
-    }
-   ]
-  },
-  {
-   "id": 255,
-   "type": "message",
-   "date": "2023-01-16T15:49:20",
-   "date_unixtime": "1673871560",
-   "edited": "2023-01-16T18:06:50",
-   "edited_unixtime": "1673879810",
-   "from": "Free Xray VPN",
-   "from_id": "channel1885529128",
-   "text": [
-    "#✅ به روز رسانی سرور المان ۱۹:\n",
-    {
-     "type": "hashtag",
-     "text": "#Trojan"
-    },
-    "\n",
-    {
-     "type": "code",
-     "text": "trojan://H6lcmTxE5G@ov19germany.kianpir.tk:442#Trojan%20Germany%2019\n\n"
-    },
-    {
-     "type": "hashtag",
-     "text": "#Vless"
-    },
-    "\n",
-    {
-     "type": "code",
-     "text": "vless://272b49e3-b6cb-47e2-ddb3-14794ac2a337@ov19germany.kianpir.tk:8443?type=tcp&security=xtls&flow=xtls-rprx-direct#Vless%20Germany%2019\n\n"
-    },
-    {
-     "type": "hashtag",
-     "text": "#Vmess"
-    },
-    "\n",
-    {
-     "type": "code",
-     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHZXJtYW55IDE5IiwKICAiYWRkIjogIm92MTlnZXJtYW55LmtpYW5waXIudGsiLAogICJwb3J0IjogMjA4NywKICAiaWQiOiAiMGQzZGNiNDQtMTc1MS00OTUzLWJjZGQtZTRmNThjNDdhZWRhIiwKICAiYWlkIjogMCwKICAibmV0IjogIndzIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIi8iLAogICJ0bHMiOiAidGxzIgp9\n\n"
-    },
-    {
-     "type": "hashtag",
-     "text": "#Vless"
-    },
-    " proxy\n",
-    {
-     "type": "code",
-     "text": "vless://1f89be9e-198e-4033-da12-928a49f9a6a6@ov19germany.kianpir.tk:2053?type=ws&security=tls&path=%2F&sni=ov19germany.kianpir.tk#Vless%20Germany%2019%20P1"
-    },
-    ""
-   ],
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "#✅ به روز رسانی سرور المان ۱۹:\n"
-    },
-    {
-     "type": "hashtag",
-     "text": "#Trojan"
-    },
-    {
-     "type": "plain",
-     "text": "\n"
-    },
-    {
-     "type": "code",
-     "text": "trojan://H6lcmTxE5G@ov19germany.kianpir.tk:442#Trojan%20Germany%2019\n\n"
-    },
-    {
-     "type": "hashtag",
-     "text": "#Vless"
-    },
-    {
-     "type": "plain",
-     "text": "\n"
-    },
-    {
-     "type": "code",
-     "text": "vless://272b49e3-b6cb-47e2-ddb3-14794ac2a337@ov19germany.kianpir.tk:8443?type=tcp&security=xtls&flow=xtls-rprx-direct#Vless%20Germany%2019\n\n"
-    },
-    {
-     "type": "hashtag",
-     "text": "#Vmess"
-    },
-    {
-     "type": "plain",
-     "text": "\n"
-    },
-    {
-     "type": "code",
-     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHZXJtYW55IDE5IiwKICAiYWRkIjogIm92MTlnZXJtYW55LmtpYW5waXIudGsiLAogICJwb3J0IjogMjA4NywKICAiaWQiOiAiMGQzZGNiNDQtMTc1MS00OTUzLWJjZGQtZTRmNThjNDdhZWRhIiwKICAiYWlkIjogMCwKICAibmV0IjogIndzIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIi8iLAogICJ0bHMiOiAidGxzIgp9\n\n"
-    },
-    {
-     "type": "hashtag",
-     "text": "#Vless"
-    },
-    {
-     "type": "plain",
-     "text": " proxy\n"
-    },
-    {
-     "type": "code",
-     "text": "vless://1f89be9e-198e-4033-da12-928a49f9a6a6@ov19germany.kianpir.tk:2053?type=ws&security=tls&path=%2F&sni=ov19germany.kianpir.tk#Vless%20Germany%2019%20P1"
-    },
-    {
-     "type": "plain",
-     "text": ""
-    }
-   ]
-  },
-  {
-   "id": 256,
-   "type": "message",
-   "date": "2023-01-16T16:11:32",
-   "date_unixtime": "1673872892",
-   "edited": "2023-01-16T17:43:45",
-   "edited_unixtime": "1673878425",
-   "from": "Free Xray VPN",
-   "from_id": "channel1885529128",
-   "text": [
-    {
-     "type": "hashtag",
-     "text": "#سرور"
-    },
-    " 26 آلمان:\n",
-    {
-     "type": "hashtag",
-     "text": "#Trojan"
-    },
-    "\n",
-    {
-     "type": "code",
-     "text": "trojan://wZTx1OCrUu@ov26germany.kianpir.tk:443#Trojan%20Germany%2026\n\n"
-    },
-    {
-     "type": "hashtag",
-     "text": "#Vless"
-    },
-    "\n",
-    {
-     "type": "code",
-     "text": "vless://67faaf63-beb8-4293-fb0b-ec8b9f43f0ba@ov26germany.kianpir.tk:2078?type=ws&security=tls&path=%2F&sni=ov26germany.kianpir.tk#Vless%20Germany%2026\n\n"
-    },
-    {
-     "type": "hashtag",
-     "text": "#Vmess"
-    },
-    "\n",
-    {
-     "type": "code",
-     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHZXJtYW55IDI2IiwKICAiYWRkIjogIm92MjZnZXJtYW55LmtpYW5waXIudGsiLAogICJwb3J0IjogODQ0MywKICAiaWQiOiAiYWE4MDBlNDktMWM2OC00ZWMyLWI1YTItM2E3ZTUxZjQwNWIzIiwKICAiYWlkIjogMCwKICAibmV0IjogInRjcCIsCiAgInR5cGUiOiAibm9uZSIsCiAgImhvc3QiOiAiIiwKICAicGF0aCI6ICIiLAogICJ0bHMiOiAidGxzIgp9\n\n"
-    },
-    {
-     "type": "hashtag",
-     "text": "#Vless"
-    },
-    " Proxy\n",
-    {
-     "type": "code",
-     "text": "vless://8c476b37-c68f-4460-c266-bfce8bef752a@ov26germanyp.kianpir.tk:2053?type=ws&security=tls&path=%2F&sni=ov26germanyp.kianpir.tk#Vless%20Germany%20P1"
-    },
-    ""
-   ],
-   "text_entities": [
-    {
-     "type": "hashtag",
-     "text": "#سرور"
-    },
-    {
-     "type": "plain",
-     "text": " 26 آلمان:\n"
-    },
-    {
-     "type": "hashtag",
-     "text": "#Trojan"
-    },
-    {
-     "type": "plain",
-     "text": "\n"
-    },
-    {
-     "type": "code",
-     "text": "trojan://wZTx1OCrUu@ov26germany.kianpir.tk:443#Trojan%20Germany%2026\n\n"
-    },
-    {
-     "type": "hashtag",
-     "text": "#Vless"
-    },
-    {
-     "type": "plain",
-     "text": "\n"
-    },
-    {
-     "type": "code",
-     "text": "vless://67faaf63-beb8-4293-fb0b-ec8b9f43f0ba@ov26germany.kianpir.tk:2078?type=ws&security=tls&path=%2F&sni=ov26germany.kianpir.tk#Vless%20Germany%2026\n\n"
-    },
-    {
-     "type": "hashtag",
-     "text": "#Vmess"
-    },
-    {
-     "type": "plain",
-     "text": "\n"
-    },
-    {
-     "type": "code",
-     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHZXJtYW55IDI2IiwKICAiYWRkIjogIm92MjZnZXJtYW55LmtpYW5waXIudGsiLAogICJwb3J0IjogODQ0MywKICAiaWQiOiAiYWE4MDBlNDktMWM2OC00ZWMyLWI1YTItM2E3ZTUxZjQwNWIzIiwKICAiYWlkIjogMCwKICAibmV0IjogInRjcCIsCiAgInR5cGUiOiAibm9uZSIsCiAgImhvc3QiOiAiIiwKICAicGF0aCI6ICIiLAogICJ0bHMiOiAidGxzIgp9\n\n"
-    },
-    {
-     "type": "hashtag",
-     "text": "#Vless"
-    },
-    {
-     "type": "plain",
-     "text": " Proxy\n"
-    },
-    {
-     "type": "code",
-     "text": "vless://8c476b37-c68f-4460-c266-bfce8bef752a@ov26germanyp.kianpir.tk:2053?type=ws&security=tls&path=%2F&sni=ov26germanyp.kianpir.tk#Vless%20Germany%20P1"
-    },
-    {
-     "type": "plain",
-     "text": ""
-    }
-   ]
-  },
-  {
-   "id": 257,
-   "type": "message",
-   "date": "2023-01-16T16:34:07",
-   "date_unixtime": "1673874247",
-   "edited": "2023-01-16T17:43:29",
-   "edited_unixtime": "1673878409",
-   "from": "Free Xray VPN",
-   "from_id": "channel1885529128",
-   "text": [
-    {
-     "type": "hashtag",
-     "text": "#سرور"
-    },
-    " آلمان پنج به نظر میرسه خوبه  👍\n\n#🇩🇪 Vmess Germany 5:\n",
-    {
-     "type": "code",
-     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHZXJtYW55IDUiLAogICJhZGQiOiAib3Y1Z2VybWFueS5yb25hZ2hpLnRrIiwKICAicG9ydCI6IDQ0MywKICAiaWQiOiAiYjIyZmZkYTctOTAyMS00NDhhLTkyNTctZjcwNDk2Y2ExOTRhIiwKICAiYWlkIjogMCwKICAibmV0IjogIndzIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIi8iLAogICJ0bHMiOiAidGxzIgp9\n\n"
-    },
-    "#🇩🇪 Vless Germany 5:\n",
-    {
-     "type": "code",
-     "text": "vless://5c3d0247-d6d5-4139-c8e5-67154de39fdf@ov5germany.ronaghi.tk:8443?type=tcp&security=xtls&flow=xtls-rprx-direct#Vless%20Germany%205\n\n"
-    },
-    "#🇩🇪 Trojan Germany 5:\n",
-    {
-     "type": "code",
-     "text": "trojan://ryOkOHWVCH@ov5germany.ronaghi.tk:2087#Trojan%20Germany%205\n\n"
-    },
-    "#🇩🇪 SS Germany 5:\n",
-    {
-     "type": "code",
-     "text": "ss://Y2hhY2hhMjAtcG9seTEzMDU6SERLOE1tS3hLOQ==@ov5germany.ronaghi.tk:15489#SS+Germany+5"
-    },
-    ""
-   ],
-   "text_entities": [
-    {
-     "type": "hashtag",
-     "text": "#سرور"
-    },
-    {
-     "type": "plain",
-     "text": " آلمان پنج به نظر میرسه خوبه  👍\n\n#🇩🇪 Vmess Germany 5:\n"
-    },
-    {
-     "type": "code",
-     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHZXJtYW55IDUiLAogICJhZGQiOiAib3Y1Z2VybWFueS5yb25hZ2hpLnRrIiwKICAicG9ydCI6IDQ0MywKICAiaWQiOiAiYjIyZmZkYTctOTAyMS00NDhhLTkyNTctZjcwNDk2Y2ExOTRhIiwKICAiYWlkIjogMCwKICAibmV0IjogIndzIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIi8iLAogICJ0bHMiOiAidGxzIgp9\n\n"
-    },
-    {
-     "type": "plain",
-     "text": "#🇩🇪 Vless Germany 5:\n"
-    },
-    {
-     "type": "code",
-     "text": "vless://5c3d0247-d6d5-4139-c8e5-67154de39fdf@ov5germany.ronaghi.tk:8443?type=tcp&security=xtls&flow=xtls-rprx-direct#Vless%20Germany%205\n\n"
-    },
-    {
-     "type": "plain",
-     "text": "#🇩🇪 Trojan Germany 5:\n"
-    },
-    {
-     "type": "code",
-     "text": "trojan://ryOkOHWVCH@ov5germany.ronaghi.tk:2087#Trojan%20Germany%205\n\n"
-    },
-    {
-     "type": "plain",
-     "text": "#🇩🇪 SS Germany 5:\n"
-    },
-    {
-     "type": "code",
-     "text": "ss://Y2hhY2hhMjAtcG9seTEzMDU6SERLOE1tS3hLOQ==@ov5germany.ronaghi.tk:15489#SS+Germany+5"
-    },
-    {
-     "type": "plain",
-     "text": ""
-    }
-   ]
-  },
-  {
-   "id": 258,
-   "type": "message",
-   "date": "2023-01-16T16:38:36",
-   "date_unixtime": "1673874516",
-   "edited": "2023-01-16T17:43:04",
-   "edited_unixtime": "1673878384",
-   "from": "Free Xray VPN",
-   "from_id": "channel1885529128",
-   "text": [
-    {
-     "type": "hashtag",
-     "text": "#سرور"
-    },
-    " 4 آلمان هم هنوز خیلیا وصل هستند\n\n#🇩🇪 Vmess Germany 4:\n",
-    {
-     "type": "pre",
-     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHZXJtYW55IDQiLAogICJhZGQiOiAib3Y0Z2VybWFueS5yb25hZ2hpLnRrIiwKICAicG9ydCI6IDQ0MywKICAiaWQiOiAiYjIyZmZkYTctOTAyMS00NDhhLTkyNTctZjcwNDk2Y2ExOTRhIiwKICAiYWlkIjogMCwKICAibmV0IjogIndzIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIi8iLAogICJ0bHMiOiAidGxzIgp9\n\n",
-     "language": ""
-    },
-    "#🇩🇪 Vless Germany 4:\n",
-    {
-     "type": "pre",
-     "text": "vless://5c3d0247-d6d5-4139-c8e5-67154de39fdf@ov4germany.ronaghi.tk:8443?type=tcp&security=xtls&flow=xtls-rprx-direct#Vless%20Germany%204\n\n",
-     "language": ""
-    },
-    "#🇩🇪 Trojan Germany 4:\n",
-    {
-     "type": "pre",
-     "text": "trojan://ryOkOHWVCH@ov4germany.ronaghi.tk:2087#Trojan%20Germany%204\n\n",
-     "language": ""
-    },
-    "#🇩🇪 SS Germany 4:\n",
-    {
-     "type": "pre",
-     "text": "ss://YWVzLTEyOC1nY206RU5POU5OT2FSZg==@ov4germany.ronaghi.tk:46720#SS+Germany+4\n\n",
-     "language": ""
-    },
-    "#🇩🇪 Vless proxy Germany 4:\n\n",
-    {
-     "type": "code",
-     "text": "vless://935ca785-bb88-43cc-d845-a91f58184d05@ov4germanyp.ronaghi.tk:2053?path=%2F&security=tls&encryption=none&type=ws&sni=ov4germanyp.ronaghi.tk#Vless+GErmany+4+p1"
-    },
-    ""
-   ],
-   "text_entities": [
-    {
-     "type": "hashtag",
-     "text": "#سرور"
-    },
-    {
-     "type": "plain",
-     "text": " 4 آلمان هم هنوز خیلیا وصل هستند\n\n#🇩🇪 Vmess Germany 4:\n"
-    },
-    {
-     "type": "pre",
-     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHZXJtYW55IDQiLAogICJhZGQiOiAib3Y0Z2VybWFueS5yb25hZ2hpLnRrIiwKICAicG9ydCI6IDQ0MywKICAiaWQiOiAiYjIyZmZkYTctOTAyMS00NDhhLTkyNTctZjcwNDk2Y2ExOTRhIiwKICAiYWlkIjogMCwKICAibmV0IjogIndzIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIi8iLAogICJ0bHMiOiAidGxzIgp9\n\n",
-     "language": ""
-    },
-    {
-     "type": "plain",
-     "text": "#🇩🇪 Vless Germany 4:\n"
-    },
-    {
-     "type": "pre",
-     "text": "vless://5c3d0247-d6d5-4139-c8e5-67154de39fdf@ov4germany.ronaghi.tk:8443?type=tcp&security=xtls&flow=xtls-rprx-direct#Vless%20Germany%204\n\n",
-     "language": ""
-    },
-    {
-     "type": "plain",
-     "text": "#🇩🇪 Trojan Germany 4:\n"
-    },
-    {
-     "type": "pre",
-     "text": "trojan://ryOkOHWVCH@ov4germany.ronaghi.tk:2087#Trojan%20Germany%204\n\n",
-     "language": ""
-    },
-    {
-     "type": "plain",
-     "text": "#🇩🇪 SS Germany 4:\n"
-    },
-    {
-     "type": "pre",
-     "text": "ss://YWVzLTEyOC1nY206RU5POU5OT2FSZg==@ov4germany.ronaghi.tk:46720#SS+Germany+4\n\n",
-     "language": ""
-    },
-    {
-     "type": "plain",
-     "text": "#🇩🇪 Vless proxy Germany 4:\n\n"
-    },
-    {
-     "type": "code",
-     "text": "vless://935ca785-bb88-43cc-d845-a91f58184d05@ov4germanyp.ronaghi.tk:2053?path=%2F&security=tls&encryption=none&type=ws&sni=ov4germanyp.ronaghi.tk#Vless+GErmany+4+p1"
-    },
-    {
-     "type": "plain",
-     "text": ""
-    }
-   ]
-  },
-  {
-   "id": 259,
-   "type": "message",
-   "date": "2023-01-16T16:50:33",
-   "date_unixtime": "1673875233",
-   "edited": "2023-01-16T17:42:40",
-   "edited_unixtime": "1673878360",
-   "from": "Free Xray VPN",
-   "from_id": "channel1885529128",
-   "text": [
-    "#✅به روز رسانی سرور لهستان ۶:\n",
-    {
-     "type": "link",
-     "text": "https://ov6poland.kianpir.tk/f475e82462ce57d73d44325a147a5e80/f475e82462ce57d73d44325a147a5e80/"
-    },
-    "\n\n",
-    {
-     "type": "hashtag",
-     "text": "#FakeCDN"
-    },
-    "\n\n",
-    {
-     "type": "code",
-     "text": "vless://f475e824-62ce-57d7-3d44-325a147a5e80@nhl66.ir:80?encryption=none&security=none&sni=nhl66.ir&type=ws&host=ov6poland.kianpir.tk&path=%2Ff475e82462ce57d73d44325a147a5e80%2Fvlessws#FakeCDNvless_ws_ov6poland.kianpir.tk\n\n"
-    },
-    "#==\n\n",
-    {
-     "type": "code",
-     "text": "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkZha2VDRE52bWVzc193c19vdjZwb2xhbmQua2lhbnBpci50ayAoaHR0cDovL2Zha2VjZG52bWVzc193c19vdjZwb2xhbmQua2lhbnBpci50ay8pIiwNCiAgImFkZCI6ICJuaGw2Ni5pciIsDQogICJwb3J0IjogIjgwIiwNCiAgImlkIjogImY0NzVlODI0LTYyY2UtNTdkNy0zZDQ0LTMyNWExNDdhNWU4MCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAib3Y2cG9sYW5kLmtpYW5waXIudGsiLA0KICAicGF0aCI6ICIvZjQ3NWU4MjQ2MmNlNTdkNzNkNDQzMjVhMTQ3YTVlODAvdm1lc3N3cyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICJuaGw2Ni5pciIsDQogICJhbHBuIjogIiINCn0=\n\n"
-    },
-    {
-     "type": "hashtag",
-     "text": "#xtls"
-    },
-    ":\n",
-    {
-     "type": "pre",
-     "text": "vless://f475e824-62ce-57d7-3d44-325a147a5e80@51.83.254.7:443?flow=xtls-rprx-direct&security=xtls&sni=ov6poland.kianpir.tk&type=tcp#vless+xtls_ov6poland.kianpir.tk\n\n",
-     "language": ""
-    },
-    {
-     "type": "hashtag",
-     "text": "#ws"
-    },
-    ":\n",
-    {
-     "type": "pre",
-     "text": "vless://f475e824-62ce-57d7-3d44-325a147a5e80@51.83.254.7:443?security=tls&sni=ov6poland.kianpir.tk&type=ws&path=%2Ff475e82462ce57d73d44325a147a5e80%2Fvlessws#vless_ws_ov6poland.kianpir.tk\n\n",
-     "language": ""
-    },
-    "#==\n\n",
-    {
-     "type": "pre",
-     "text": "trojan://f475e824-62ce-57d7-3d44-325a147a5e80@51.83.254.7:443?security=tls&sni=ov6poland.kianpir.tk&type=ws&path=%2Ff475e82462ce57d73d44325a147a5e80%2Ftrojanws#trojan_ws_ov6poland.kianpir.tk\n\n\n",
-     "language": ""
-    },
-    {
-     "type": "hashtag",
-     "text": "#ws"
-    },
-    " CDN:\n",
-    {
-     "type": "pre",
-     "text": "vless://f475e824-62ce-57d7-3d44-325a147a5e80@ov6poland.kianpir.tk:443?security=tls&sni=ov6poland.kianpir.tk&type=ws&path=%2Ff475e82462ce57d73d44325a147a5e80%2Fvlessws#CDNvless_ws_ov6poland.kianpir.tk\n\n",
-     "language": ""
-    },
-    "#==\n\n",
-    {
-     "type": "pre",
-     "text": "trojan://f475e824-62ce-57d7-3d44-325a147a5e80@ov6poland.kianpir.tk:443?security=tls&sni=ov6poland.kianpir.tk&type=ws&path=%2Ff475e82462ce57d73d44325a147a5e80%2Ftrojanws#CDNtrojan_ws_ov6poland.kianpir.tk\n\n\n",
-     "language": ""
-    },
-    {
-     "type": "hashtag",
-     "text": "#grpc"
-    },
-    "\n\n",
-    {
-     "type": "pre",
-     "text": "vless://f475e824-62ce-57d7-3d44-325a147a5e80@51.83.254.7:443?security=tls&sni=ov6poland.kianpir.tk&type=grpc&serviceName=f475e82462ce57d73d44325a147a5e80-vlgrpc&mode=multi#vless-grpc_ov6poland.kianpir.tk\n\n",
-     "language": ""
-    },
-    "#==\n\n",
-    {
-     "type": "pre",
-     "text": "trojan://f475e824-62ce-57d7-3d44-325a147a5e80@51.83.254.7:443?security=tls&sni=ov6poland.kianpir.tk&type=grpc&serviceName=f475e82462ce57d73d44325a147a5e80-trgrpc&mode=multi#trojan-grpc_ov6poland.kianpir.tk\n\n\n",
-     "language": ""
-    },
-    {
-     "type": "hashtag",
-     "text": "#tls"
-    },
-    "\n\n",
-    {
-     "type": "pre",
-     "text": "trojan://f475e824-62ce-57d7-3d44-325a147a5e80@51.83.254.7:443?security=tls&sni=ov6poland.kianpir.tk&type=tcp#trojan+tls_ov6poland.kianpir.tk\n\n",
-     "language": ""
-    },
-    "#==\n\n",
-    {
-     "type": "pre",
-     "text": "vless://f475e824-62ce-57d7-3d44-325a147a5e80@51.83.254.7:443?security=tls&sni=ov6poland.kianpir.tk&type=tcp#vless+tls_ov6poland.kianpir.tk\n\n\n",
-     "language": ""
-    },
-    {
-     "type": "hashtag",
-     "text": "#tls"
-    },
-    "+http2\n\n",
-    {
-     "type": "pre",
-     "text": "trojan://f475e824-62ce-57d7-3d44-325a147a5e80@51.83.254.7:443?security=tls&sni=ov6poland.kianpir.tk&alpn=h2&type=tcp&headerType=http&path=%2Ff475e82462ce57d73d44325a147a5e80%2Ftrtc\n\n",
-     "language": ""
-    },
-    {
-     "type": "hashtag",
-     "text": "#trojan"
-    },
-    "+tls+",
-    {
-     "type": "link",
-     "text": "http1.1_ov6poland.kianpir.tk"
-    },
-    "\n\n",
-    {
-     "type": "pre",
-     "text": "vless://f475e824-62ce-57d7-3d44-325a147a5e80@51.83.254.7:443?security=tls&sni=ov6poland.kianpir.tk&alpn=h2&type=tcp&headerType=http&path=%2Ff475e82462ce57d73d44325a147a5e80%2Fvltc",
-     "language": ""
-    },
-    ""
-   ],
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "#✅به روز رسانی سرور لهستان ۶:\n"
-    },
-    {
-     "type": "link",
-     "text": "https://ov6poland.kianpir.tk/f475e82462ce57d73d44325a147a5e80/f475e82462ce57d73d44325a147a5e80/"
-    },
-    {
-     "type": "plain",
-     "text": "\n\n"
-    },
-    {
-     "type": "hashtag",
-     "text": "#FakeCDN"
-    },
-    {
-     "type": "plain",
-     "text": "\n\n"
-    },
-    {
-     "type": "code",
-     "text": "vless://f475e824-62ce-57d7-3d44-325a147a5e80@nhl66.ir:80?encryption=none&security=none&sni=nhl66.ir&type=ws&host=ov6poland.kianpir.tk&path=%2Ff475e82462ce57d73d44325a147a5e80%2Fvlessws#FakeCDNvless_ws_ov6poland.kianpir.tk\n\n"
-    },
-    {
-     "type": "plain",
-     "text": "#==\n\n"
-    },
-    {
-     "type": "code",
-     "text": "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkZha2VDRE52bWVzc193c19vdjZwb2xhbmQua2lhbnBpci50ayAoaHR0cDovL2Zha2VjZG52bWVzc193c19vdjZwb2xhbmQua2lhbnBpci50ay8pIiwNCiAgImFkZCI6ICJuaGw2Ni5pciIsDQogICJwb3J0IjogIjgwIiwNCiAgImlkIjogImY0NzVlODI0LTYyY2UtNTdkNy0zZDQ0LTMyNWExNDdhNWU4MCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAib3Y2cG9sYW5kLmtpYW5waXIudGsiLA0KICAicGF0aCI6ICIvZjQ3NWU4MjQ2MmNlNTdkNzNkNDQzMjVhMTQ3YTVlODAvdm1lc3N3cyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICJuaGw2Ni5pciIsDQogICJhbHBuIjogIiINCn0=\n\n"
-    },
-    {
-     "type": "hashtag",
-     "text": "#xtls"
-    },
-    {
-     "type": "plain",
-     "text": ":\n"
-    },
-    {
-     "type": "pre",
-     "text": "vless://f475e824-62ce-57d7-3d44-325a147a5e80@51.83.254.7:443?flow=xtls-rprx-direct&security=xtls&sni=ov6poland.kianpir.tk&type=tcp#vless+xtls_ov6poland.kianpir.tk\n\n",
-     "language": ""
-    },
-    {
-     "type": "hashtag",
-     "text": "#ws"
-    },
-    {
-     "type": "plain",
-     "text": ":\n"
-    },
-    {
-     "type": "pre",
-     "text": "vless://f475e824-62ce-57d7-3d44-325a147a5e80@51.83.254.7:443?security=tls&sni=ov6poland.kianpir.tk&type=ws&path=%2Ff475e82462ce57d73d44325a147a5e80%2Fvlessws#vless_ws_ov6poland.kianpir.tk\n\n",
-     "language": ""
-    },
-    {
-     "type": "plain",
-     "text": "#==\n\n"
-    },
-    {
-     "type": "pre",
-     "text": "trojan://f475e824-62ce-57d7-3d44-325a147a5e80@51.83.254.7:443?security=tls&sni=ov6poland.kianpir.tk&type=ws&path=%2Ff475e82462ce57d73d44325a147a5e80%2Ftrojanws#trojan_ws_ov6poland.kianpir.tk\n\n\n",
-     "language": ""
-    },
-    {
-     "type": "hashtag",
-     "text": "#ws"
-    },
-    {
-     "type": "plain",
-     "text": " CDN:\n"
-    },
-    {
-     "type": "pre",
-     "text": "vless://f475e824-62ce-57d7-3d44-325a147a5e80@ov6poland.kianpir.tk:443?security=tls&sni=ov6poland.kianpir.tk&type=ws&path=%2Ff475e82462ce57d73d44325a147a5e80%2Fvlessws#CDNvless_ws_ov6poland.kianpir.tk\n\n",
-     "language": ""
-    },
-    {
-     "type": "plain",
-     "text": "#==\n\n"
-    },
-    {
-     "type": "pre",
-     "text": "trojan://f475e824-62ce-57d7-3d44-325a147a5e80@ov6poland.kianpir.tk:443?security=tls&sni=ov6poland.kianpir.tk&type=ws&path=%2Ff475e82462ce57d73d44325a147a5e80%2Ftrojanws#CDNtrojan_ws_ov6poland.kianpir.tk\n\n\n",
-     "language": ""
-    },
-    {
-     "type": "hashtag",
-     "text": "#grpc"
-    },
-    {
-     "type": "plain",
-     "text": "\n\n"
-    },
-    {
-     "type": "pre",
-     "text": "vless://f475e824-62ce-57d7-3d44-325a147a5e80@51.83.254.7:443?security=tls&sni=ov6poland.kianpir.tk&type=grpc&serviceName=f475e82462ce57d73d44325a147a5e80-vlgrpc&mode=multi#vless-grpc_ov6poland.kianpir.tk\n\n",
-     "language": ""
-    },
-    {
-     "type": "plain",
-     "text": "#==\n\n"
-    },
-    {
-     "type": "pre",
-     "text": "trojan://f475e824-62ce-57d7-3d44-325a147a5e80@51.83.254.7:443?security=tls&sni=ov6poland.kianpir.tk&type=grpc&serviceName=f475e82462ce57d73d44325a147a5e80-trgrpc&mode=multi#trojan-grpc_ov6poland.kianpir.tk\n\n\n",
-     "language": ""
-    },
-    {
-     "type": "hashtag",
-     "text": "#tls"
-    },
-    {
-     "type": "plain",
-     "text": "\n\n"
-    },
-    {
-     "type": "pre",
-     "text": "trojan://f475e824-62ce-57d7-3d44-325a147a5e80@51.83.254.7:443?security=tls&sni=ov6poland.kianpir.tk&type=tcp#trojan+tls_ov6poland.kianpir.tk\n\n",
-     "language": ""
-    },
-    {
-     "type": "plain",
-     "text": "#==\n\n"
-    },
-    {
-     "type": "pre",
-     "text": "vless://f475e824-62ce-57d7-3d44-325a147a5e80@51.83.254.7:443?security=tls&sni=ov6poland.kianpir.tk&type=tcp#vless+tls_ov6poland.kianpir.tk\n\n\n",
-     "language": ""
-    },
-    {
-     "type": "hashtag",
-     "text": "#tls"
-    },
-    {
-     "type": "plain",
-     "text": "+http2\n\n"
-    },
-    {
-     "type": "pre",
-     "text": "trojan://f475e824-62ce-57d7-3d44-325a147a5e80@51.83.254.7:443?security=tls&sni=ov6poland.kianpir.tk&alpn=h2&type=tcp&headerType=http&path=%2Ff475e82462ce57d73d44325a147a5e80%2Ftrtc\n\n",
-     "language": ""
-    },
-    {
-     "type": "hashtag",
-     "text": "#trojan"
-    },
-    {
-     "type": "plain",
-     "text": "+tls+"
-    },
-    {
-     "type": "link",
-     "text": "http1.1_ov6poland.kianpir.tk"
-    },
-    {
-     "type": "plain",
-     "text": "\n\n"
-    },
-    {
-     "type": "pre",
-     "text": "vless://f475e824-62ce-57d7-3d44-325a147a5e80@51.83.254.7:443?security=tls&sni=ov6poland.kianpir.tk&alpn=h2&type=tcp&headerType=http&path=%2Ff475e82462ce57d73d44325a147a5e80%2Fvltc",
-     "language": ""
-    },
-    {
-     "type": "plain",
-     "text": ""
-    }
-   ]
-  },
-  {
-   "id": 261,
-   "type": "message",
-   "date": "2023-01-16T17:41:21",
-   "date_unixtime": "1673878281",
-   "edited": "2023-01-17T01:55:12",
-   "edited_unixtime": "1673907912",
-   "from": "Free Xray VPN",
-   "from_id": "channel1885529128",
-   "text": [
-    {
-     "type": "hashtag",
-     "text": "#سرور"
-    },
-    " 27 آلمان:\n#🇩🇪Trojan\n",
-    {
-     "type": "code",
-     "text": "trojan://YnGLMSzoeO@ov27germany.kianpir.tk:443#Trojan%20Germany%2027\n"
-    },
-    "#🇩🇪Vless\n",
-    {
-     "type": "code",
-     "text": "vless://21d71d70-3d0e-4764-dad6-1b9ab9aafa00@ov27germany.kianpir.tk:8443?type=ws&security=tls&path=%2F&sni=ov27germany.kianpir.tk#Vless%20Germany%2027\n"
-    },
-    "#🇩🇪Vmess\n",
-    {
-     "type": "code",
-     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHZXJtYW55IDI3IiwKICAiYWRkIjogIm92MjdnZXJtYW55LmtpYW5waXIudGsiLAogICJwb3J0IjogMjA4NywKICAiaWQiOiAiOTQyYTYzNWQtZDljMi00Yjc3LWJjMjItMzViNTY5MDFkMjVmIiwKICAiYWlkIjogMCwKICAibmV0IjogInRjcCIsCiAgInR5cGUiOiAibm9uZSIsCiAgImhvc3QiOiAiIiwKICAicGF0aCI6ICIiLAogICJ0bHMiOiAidGxzIgp9\n"
-    },
-    "#🇩🇪Vless Proxy 1\n",
-    {
-     "type": "code",
-     "text": "vless://4610ed8e-86f9-4de8-96b7-b9ba7f5f2280@ov27germanyp.kianpir.tk:2053?type=ws&security=tls&path=%2F&sni=ov27germanyp.kianpir.tk#Vless%20Proxy+1+Germany%2027\n"
-    },
-    "#🇩🇪Vless Proxy 2\n",
-    {
-     "type": "code",
-     "text": "vless://b821a8ca-747b-4cbc-83b6-1902171d0a01@arzdigital.com:80?path=%2F&security=none&encryption=none&host=ov27germany.kianpir.tk&type=ws#Vless+Proxy+2+Germany+27\n"
-    },
-    "#🇩🇪Vless Proxy 3\n",
-    {
-     "type": "code",
-     "text": "vless://c2659a9d-ff58-4540-9a56-83db36de8e03@arzdigital.com:2096?path=%2F&security=tls&encryption=none&host=ov27germany.kianpir.tk&type=ws&sni=ov27germany.kianpir.tk#Vless+Proxy+3+Germany+27"
-    },
-    ""
-   ],
-   "text_entities": [
-    {
-     "type": "hashtag",
-     "text": "#سرور"
-    },
-    {
-     "type": "plain",
-     "text": " 27 آلمان:\n#🇩🇪Trojan\n"
-    },
-    {
-     "type": "code",
-     "text": "trojan://YnGLMSzoeO@ov27germany.kianpir.tk:443#Trojan%20Germany%2027\n"
-    },
-    {
-     "type": "plain",
-     "text": "#🇩🇪Vless\n"
-    },
-    {
-     "type": "code",
-     "text": "vless://21d71d70-3d0e-4764-dad6-1b9ab9aafa00@ov27germany.kianpir.tk:8443?type=ws&security=tls&path=%2F&sni=ov27germany.kianpir.tk#Vless%20Germany%2027\n"
-    },
-    {
-     "type": "plain",
-     "text": "#🇩🇪Vmess\n"
-    },
-    {
-     "type": "code",
-     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHZXJtYW55IDI3IiwKICAiYWRkIjogIm92MjdnZXJtYW55LmtpYW5waXIudGsiLAogICJwb3J0IjogMjA4NywKICAiaWQiOiAiOTQyYTYzNWQtZDljMi00Yjc3LWJjMjItMzViNTY5MDFkMjVmIiwKICAiYWlkIjogMCwKICAibmV0IjogInRjcCIsCiAgInR5cGUiOiAibm9uZSIsCiAgImhvc3QiOiAiIiwKICAicGF0aCI6ICIiLAogICJ0bHMiOiAidGxzIgp9\n"
-    },
-    {
-     "type": "plain",
-     "text": "#🇩🇪Vless Proxy 1\n"
-    },
-    {
-     "type": "code",
-     "text": "vless://4610ed8e-86f9-4de8-96b7-b9ba7f5f2280@ov27germanyp.kianpir.tk:2053?type=ws&security=tls&path=%2F&sni=ov27germanyp.kianpir.tk#Vless%20Proxy+1+Germany%2027\n"
-    },
-    {
-     "type": "plain",
-     "text": "#🇩🇪Vless Proxy 2\n"
-    },
-    {
-     "type": "code",
-     "text": "vless://b821a8ca-747b-4cbc-83b6-1902171d0a01@arzdigital.com:80?path=%2F&security=none&encryption=none&host=ov27germany.kianpir.tk&type=ws#Vless+Proxy+2+Germany+27\n"
-    },
-    {
-     "type": "plain",
-     "text": "#🇩🇪Vless Proxy 3\n"
-    },
-    {
-     "type": "code",
-     "text": "vless://c2659a9d-ff58-4540-9a56-83db36de8e03@arzdigital.com:2096?path=%2F&security=tls&encryption=none&host=ov27germany.kianpir.tk&type=ws&sni=ov27germany.kianpir.tk#Vless+Proxy+3+Germany+27"
-    },
-    {
-     "type": "plain",
-     "text": ""
-    }
-   ]
-  },
-  {
-   "id": 262,
-   "type": "message",
-   "date": "2023-01-16T19:39:58",
-   "date_unixtime": "1673885398",
-   "edited": "2023-01-17T02:08:09",
-   "edited_unixtime": "1673908689",
-   "from": "Free Xray VPN",
-   "from_id": "channel1885529128",
-   "text": [
-    {
-     "type": "hashtag",
-     "text": "#سرور"
-    },
-    " 3 انگلیس:\n#🇬🇧Trojan\n",
-    {
-     "type": "code",
-     "text": "trojan://bwkSSd4c7i@ov3uk.ronaghi.tk:443#Trojan%20UK%203\n"
-    },
-    "#🇬🇧Vless\n",
-    {
-     "type": "code",
-     "text": "vless://ad0fa61f-50e5-4d34-d126-d2bd6cdce1bb@ov3uk.ronaghi.tk:2087?type=ws&security=tls&path=%2F&sni=ov3uk.ronaghi.tk#Vless%20UK%203\n"
-    },
-    "#🇬🇧Vmess\n",
-    {
-     "type": "code",
-     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBVSyAzIiwKICAiYWRkIjogIm92M3VrLnJvbmFnaGkudGsiLAogICJwb3J0IjogODQ0MywKICAiaWQiOiAiODU1MmI5M2EtMmU4Ni00YmExLWZkODctMTRlN2IyMjg2MjhkIiwKICAiYWlkIjogMCwKICAibmV0IjogInRjcCIsCiAgInR5cGUiOiAibm9uZSIsCiAgImhvc3QiOiAiIiwKICAicGF0aCI6ICIiLAogICJ0bHMiOiAidGxzIgp9\n"
-    },
-    "#🇬🇧Vless Proxy 1\n",
-    {
-     "type": "code",
-     "text": "vless://11e94239-4b3a-4ad5-a4a9-66c062c3362a@ov3ukp.ronaghi.tk:2053?type=ws&security=tls&path=%2F&sni=ov3ukp.ronaghi.tk#Vless%20proxy%201%20UK%203"
-    },
-    ""
-   ],
-   "text_entities": [
-    {
-     "type": "hashtag",
-     "text": "#سرور"
-    },
-    {
-     "type": "plain",
-     "text": " 3 انگلیس:\n#🇬🇧Trojan\n"
-    },
-    {
-     "type": "code",
-     "text": "trojan://bwkSSd4c7i@ov3uk.ronaghi.tk:443#Trojan%20UK%203\n"
-    },
-    {
-     "type": "plain",
-     "text": "#🇬🇧Vless\n"
-    },
-    {
-     "type": "code",
-     "text": "vless://ad0fa61f-50e5-4d34-d126-d2bd6cdce1bb@ov3uk.ronaghi.tk:2087?type=ws&security=tls&path=%2F&sni=ov3uk.ronaghi.tk#Vless%20UK%203\n"
-    },
-    {
-     "type": "plain",
-     "text": "#🇬🇧Vmess\n"
-    },
-    {
-     "type": "code",
-     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBVSyAzIiwKICAiYWRkIjogIm92M3VrLnJvbmFnaGkudGsiLAogICJwb3J0IjogODQ0MywKICAiaWQiOiAiODU1MmI5M2EtMmU4Ni00YmExLWZkODctMTRlN2IyMjg2MjhkIiwKICAiYWlkIjogMCwKICAibmV0IjogInRjcCIsCiAgInR5cGUiOiAibm9uZSIsCiAgImhvc3QiOiAiIiwKICAicGF0aCI6ICIiLAogICJ0bHMiOiAidGxzIgp9\n"
-    },
-    {
-     "type": "plain",
-     "text": "#🇬🇧Vless Proxy 1\n"
-    },
-    {
-     "type": "code",
-     "text": "vless://11e94239-4b3a-4ad5-a4a9-66c062c3362a@ov3ukp.ronaghi.tk:2053?type=ws&security=tls&path=%2F&sni=ov3ukp.ronaghi.tk#Vless%20proxy%201%20UK%203"
-    },
-    {
-     "type": "plain",
-     "text": ""
-    }
-   ]
-  },
-  {
-   "id": 268,
-   "type": "message",
-   "date": "2023-01-17T00:05:27",
-   "date_unixtime": "1673901327",
-   "edited": "2023-01-17T00:48:10",
-   "edited_unixtime": "1673903890",
-   "from": "Free Xray VPN",
-   "from_id": "channel1885529128",
-   "text": [
-    "#✅به روز رسانی سرور آلمان ۱۶:\n#🇩🇪\n",
-    {
-     "type": "code",
-     "text": "trojan://Gx7qYzxgSz@ov16germany.kianpir.tk:443#Trojan%20Germany%2016\n#🇩🇪\nvless://4b79730c-e34f-4c57-f3fc-a64fd1d1f571@ov16germany.kianpir.tk:8443?type=tcp&security=xtls&flow=xtls-rprx-direct#Vless%20Germany%2016\n"
-    },
-    "#🇩🇪\n",
-    {
-     "type": "code",
-     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHZXJtYW55IDE2IiwKICAiYWRkIjogIm92MTZnZXJtYW55LmtpYW5waXIudGsiLAogICJwb3J0IjogMjA4NywKICAiaWQiOiAiNWY2MTIxNzktYTJmMi00YWNkLWZhMWEtYzc4YWMxMjA2ZDFiIiwKICAiYWlkIjogMCwKICAibmV0IjogIndzIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIi8iLAogICJ0bHMiOiAidGxzIgp9\n"
-    },
-    "#🇩🇪\n",
-    {
-     "type": "pre",
-     "text": "vless://b10b9858-3d35-4d54-96f6-5498e6179194@ov16germanyp.kianpir.tk:2053?type=ws&security=tls&path=%2F&sni=ov16germanyp.kianpir.tk#Vless%20Proxy%201%20Germany%2016\n",
-     "language": ""
-    },
-    "#🇩🇪\n",
-    {
-     "type": "pre",
-     "text": "vless://45effb98-b095-496d-bc19-013efad34f96@dana.ir:2096?type=ws&security=tls&path=%2F&host=ov16germanyp.kianpir.tk&sni=ov16germanyp.kianpir.tk#Vless%20Proxy%202%20Germany%2016\n",
-     "language": ""
-    },
-    "#🇩🇪\n",
-    {
-     "type": "pre",
-     "text": "vless://2b14cae1-f4c6-480e-a213-15316af464b8@dana.ir:2083?type=ws&security=tls&path=%2F&host=ov16germany.kianpir.tk&sni=ov16germany.kianpir.tk#Vless%20Proxy%203%20Germany%2016\n",
-     "language": ""
-    },
-    "#🇩🇪\n",
-    {
-     "type": "code",
-     "text": "vless://032990d5-3724-4624-c527-5a6bf4499301@dana.ir:80?type=ws&security=none&path=%2F&host=ov16germany.kianpir.tk#Vless%20Proxy%204%20Germany%2016"
-    },
-    ""
-   ],
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "#✅به روز رسانی سرور آلمان ۱۶:\n#🇩🇪\n"
-    },
-    {
-     "type": "code",
-     "text": "trojan://Gx7qYzxgSz@ov16germany.kianpir.tk:443#Trojan%20Germany%2016\n#🇩🇪\nvless://4b79730c-e34f-4c57-f3fc-a64fd1d1f571@ov16germany.kianpir.tk:8443?type=tcp&security=xtls&flow=xtls-rprx-direct#Vless%20Germany%2016\n"
-    },
-    {
-     "type": "plain",
-     "text": "#🇩🇪\n"
-    },
-    {
-     "type": "code",
-     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHZXJtYW55IDE2IiwKICAiYWRkIjogIm92MTZnZXJtYW55LmtpYW5waXIudGsiLAogICJwb3J0IjogMjA4NywKICAiaWQiOiAiNWY2MTIxNzktYTJmMi00YWNkLWZhMWEtYzc4YWMxMjA2ZDFiIiwKICAiYWlkIjogMCwKICAibmV0IjogIndzIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIi8iLAogICJ0bHMiOiAidGxzIgp9\n"
-    },
-    {
-     "type": "plain",
-     "text": "#🇩🇪\n"
-    },
-    {
-     "type": "pre",
-     "text": "vless://b10b9858-3d35-4d54-96f6-5498e6179194@ov16germanyp.kianpir.tk:2053?type=ws&security=tls&path=%2F&sni=ov16germanyp.kianpir.tk#Vless%20Proxy%201%20Germany%2016\n",
-     "language": ""
-    },
-    {
-     "type": "plain",
-     "text": "#🇩🇪\n"
-    },
-    {
-     "type": "pre",
-     "text": "vless://45effb98-b095-496d-bc19-013efad34f96@dana.ir:2096?type=ws&security=tls&path=%2F&host=ov16germanyp.kianpir.tk&sni=ov16germanyp.kianpir.tk#Vless%20Proxy%202%20Germany%2016\n",
-     "language": ""
-    },
-    {
-     "type": "plain",
-     "text": "#🇩🇪\n"
-    },
-    {
-     "type": "pre",
-     "text": "vless://2b14cae1-f4c6-480e-a213-15316af464b8@dana.ir:2083?type=ws&security=tls&path=%2F&host=ov16germany.kianpir.tk&sni=ov16germany.kianpir.tk#Vless%20Proxy%203%20Germany%2016\n",
-     "language": ""
-    },
-    {
-     "type": "plain",
-     "text": "#🇩🇪\n"
-    },
-    {
-     "type": "code",
-     "text": "vless://032990d5-3724-4624-c527-5a6bf4499301@dana.ir:80?type=ws&security=none&path=%2F&host=ov16germany.kianpir.tk#Vless%20Proxy%204%20Germany%2016"
-    },
-    {
-     "type": "plain",
-     "text": ""
-    }
-   ]
-  },
-  {
-   "id": 269,
-   "type": "message",
-   "date": "2023-01-17T01:38:28",
-   "date_unixtime": "1673906908",
-   "edited": "2023-01-17T14:24:06",
-   "edited_unixtime": "1673952846",
-   "from": "Free Xray VPN",
-   "from_id": "channel1885529128",
-   "text": [
-    "#✅به روز رسانی سرور آلمان 21:\n#🇩🇪Vmess\n",
-    {
-     "type": "code",
-     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHZXJtYW55IDIxIiwKICAiYWRkIjogIm92MjFnZXJtYW55LmtpYW5waXIudGsiLAogICJwb3J0IjogNDQzLAogICJpZCI6ICJlMTQ5NGY0OS1mZGJlLTQ4NDAtZjdhMS04YWU3OTI4ZWJjNWEiLAogICJhaWQiOiAwLAogICJuZXQiOiAid3MiLAogICJ0eXBlIjogIm5vbmUiLAogICJob3N0IjogIiIsCiAgInBhdGgiOiAiLyIsCiAgInRscyI6ICJ0bHMiCn0=\n"
-    },
-    "#🇩🇪Vless\n",
-    {
-     "type": "code",
-     "text": "vless://c5665f4c-c78b-427c-af83-04dac65869fa@ov21germany.kianpir.tk:8443?type=tcp&security=xtls&flow=xtls-rprx-direct#Vless%20Germany%2021\n"
-    },
-    "#🇩🇪Trojan\n",
-    {
-     "type": "code",
-     "text": "trojan://THN3O5N8un@ov21germany.kianpir.tk:2087#Trojan%20Germany%2021\n"
-    },
-    "#🇩🇪Vless Proxy 1\n",
-    {
-     "type": "code",
-     "text": "vless://f4655d9d-b685-454a-88dc-aa909ec59d38@ov21germanyp.kianpir.tk:2053?type=ws&security=tls&path=%2F&sni=ov21germanyp.kianpir.tk#Vless%20Germany%2021%20p1\n"
-    },
-    "#🇩🇪Vless Proxy 2\n",
-    {
-     "type": "code",
-     "text": "vless://6dfca4eb-0a41-4a35-86d5-5d7227d4b9ef@dana.ir:80?type=ws&security=none&path=%2F&host=ov21germanyp.kianpir.tk#Vless%20Proxy%202%20Germany%2021\n"
-    },
-    "#🇩🇪Vless Proxy 3\n",
-    {
-     "type": "code",
-     "text": "vless://359113dc-993b-44de-ca41-9f9e2ba1bfc7@dana.ir:2096?type=ws&security=tls&path=%2F&host=ov21germany.kianpir.tk&sni=ov21germany.kianpir.tk#Vless%20Proxy%203%20Germany%2021"
-    },
-    ""
-   ],
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "#✅به روز رسانی سرور آلمان 21:\n#🇩🇪Vmess\n"
-    },
-    {
-     "type": "code",
-     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHZXJtYW55IDIxIiwKICAiYWRkIjogIm92MjFnZXJtYW55LmtpYW5waXIudGsiLAogICJwb3J0IjogNDQzLAogICJpZCI6ICJlMTQ5NGY0OS1mZGJlLTQ4NDAtZjdhMS04YWU3OTI4ZWJjNWEiLAogICJhaWQiOiAwLAogICJuZXQiOiAid3MiLAogICJ0eXBlIjogIm5vbmUiLAogICJob3N0IjogIiIsCiAgInBhdGgiOiAiLyIsCiAgInRscyI6ICJ0bHMiCn0=\n"
-    },
-    {
-     "type": "plain",
-     "text": "#🇩🇪Vless\n"
-    },
-    {
-     "type": "code",
-     "text": "vless://c5665f4c-c78b-427c-af83-04dac65869fa@ov21germany.kianpir.tk:8443?type=tcp&security=xtls&flow=xtls-rprx-direct#Vless%20Germany%2021\n"
-    },
-    {
-     "type": "plain",
-     "text": "#🇩🇪Trojan\n"
-    },
-    {
-     "type": "code",
-     "text": "trojan://THN3O5N8un@ov21germany.kianpir.tk:2087#Trojan%20Germany%2021\n"
-    },
-    {
-     "type": "plain",
-     "text": "#🇩🇪Vless Proxy 1\n"
-    },
-    {
-     "type": "code",
-     "text": "vless://f4655d9d-b685-454a-88dc-aa909ec59d38@ov21germanyp.kianpir.tk:2053?type=ws&security=tls&path=%2F&sni=ov21germanyp.kianpir.tk#Vless%20Germany%2021%20p1\n"
-    },
-    {
-     "type": "plain",
-     "text": "#🇩🇪Vless Proxy 2\n"
-    },
-    {
-     "type": "code",
-     "text": "vless://6dfca4eb-0a41-4a35-86d5-5d7227d4b9ef@dana.ir:80?type=ws&security=none&path=%2F&host=ov21germanyp.kianpir.tk#Vless%20Proxy%202%20Germany%2021\n"
-    },
-    {
-     "type": "plain",
-     "text": "#🇩🇪Vless Proxy 3\n"
-    },
-    {
-     "type": "code",
-     "text": "vless://359113dc-993b-44de-ca41-9f9e2ba1bfc7@dana.ir:2096?type=ws&security=tls&path=%2F&host=ov21germany.kianpir.tk&sni=ov21germany.kianpir.tk#Vless%20Proxy%203%20Germany%2021"
-    },
-    {
-     "type": "plain",
-     "text": ""
-    }
-   ]
-  },
-  {
-   "id": 270,
-   "type": "message",
-   "date": "2023-01-17T15:57:16",
-   "date_unixtime": "1673958436",
-   "edited": "2023-01-17T16:00:03",
-   "edited_unixtime": "1673958603",
-   "from": "Free Xray VPN",
-   "from_id": "channel1885529128",
-   "text": [
-    {
-     "type": "hashtag",
-     "text": "#سرور"
-    },
-    " 28 آلمان :\n#🇩🇪Trojan Germany 28\n",
-    {
-     "type": "pre",
-     "text": "trojan://M7O9wAbx5S@ov28germany.kianpir.tk:443#Trojan%20Germany%2028\n\n",
-     "language": ""
-    },
-    "#🇩🇪Vless Germany 28\n",
-    {
-     "type": "pre",
-     "text": "vless://d0a21281-9140-4c19-ce1c-c5e9186e6b27@ov28germany.kianpir.tk:8443?type=ws&security=tls&path=%2F&sni=ov28germany.kianpir.tk#Vless%20Germany%2028\n\n",
-     "language": ""
-    },
-    "#🇩🇪Vmess Germany 28\n",
-    {
-     "type": "pre",
-     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHZXJtYW55IDI4IiwKICAiYWRkIjogIm92MjhnZXJtYW55LmtpYW5waXIudGsiLAogICJwb3J0IjogMjA4NywKICAiaWQiOiAiZjNiZWQ4MDgtMTdlNy00YjQyLWViNGItZWVhMzgwYWVlOTdlIiwKICAiYWlkIjogMCwKICAibmV0IjogInRjcCIsCiAgInR5cGUiOiAibm9uZSIsCiAgImhvc3QiOiAiIiwKICAicGF0aCI6ICIiLAogICJ0bHMiOiAidGxzIgp9\n\n",
-     "language": ""
-    },
-    "#🇩🇪Vless Proxy 1 Germany 28\n",
-    {
-     "type": "pre",
-     "text": "vless://b805d0d6-dcf0-4b8d-d049-dae80a1b04ca@ov28germanyp.kianpir.tk:2053?type=ws&security=tls&path=%2F&sni=ov28germanyp.kianpir.tk#Vless%20Proxy%201%20Germany%2028\n\n",
-     "language": ""
-    },
-    "#🇩🇪Vless Proxy 2 Germany 28\n",
-    {
-     "type": "pre",
-     "text": "vless://bfae72cb-df77-4b12-def0-893b46d7c18a@dana.ir:2096?type=ws&security=tls&path=%2F&host=ov28germanyp.kianpir.tk&sni=ov28germanyp.kianpir.tk#Vless%20Proxy%202%20Germany%2028\n\n",
-     "language": ""
-    },
-    "#🇩🇪Vless Proxy 3 Germany 28\n",
-    {
-     "type": "pre",
-     "text": "vless://2e266307-6951-4acd-fb1f-5d42e0af52a3@dana.ir:2083?type=ws&security=tls&path=%2F&host=ov28germany.kianpir.tk&sni=ov28germany.kianpir.tk#Vless%20Proxy%203%20Germany%2028\n\n",
-     "language": ""
-    },
-    "#🇩🇪Vless Proxy 4 Germany 28\n",
-    {
-     "type": "code",
-     "text": "vless://96caf6fd-4478-4ca0-bf60-930d0035d5be@dana.ir:80?type=ws&security=none&path=%2F&host=ov28germany.kianpir.tk#Vless%20Proxy%204%20Germany%2028"
-    },
-    ""
-   ],
-   "text_entities": [
-    {
-     "type": "hashtag",
-     "text": "#سرور"
-    },
-    {
-     "type": "plain",
-     "text": " 28 آلمان :\n#🇩🇪Trojan Germany 28\n"
-    },
-    {
-     "type": "pre",
-     "text": "trojan://M7O9wAbx5S@ov28germany.kianpir.tk:443#Trojan%20Germany%2028\n\n",
-     "language": ""
-    },
-    {
-     "type": "plain",
-     "text": "#🇩🇪Vless Germany 28\n"
-    },
-    {
-     "type": "pre",
-     "text": "vless://d0a21281-9140-4c19-ce1c-c5e9186e6b27@ov28germany.kianpir.tk:8443?type=ws&security=tls&path=%2F&sni=ov28germany.kianpir.tk#Vless%20Germany%2028\n\n",
-     "language": ""
-    },
-    {
-     "type": "plain",
-     "text": "#🇩🇪Vmess Germany 28\n"
-    },
-    {
-     "type": "pre",
-     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHZXJtYW55IDI4IiwKICAiYWRkIjogIm92MjhnZXJtYW55LmtpYW5waXIudGsiLAogICJwb3J0IjogMjA4NywKICAiaWQiOiAiZjNiZWQ4MDgtMTdlNy00YjQyLWViNGItZWVhMzgwYWVlOTdlIiwKICAiYWlkIjogMCwKICAibmV0IjogInRjcCIsCiAgInR5cGUiOiAibm9uZSIsCiAgImhvc3QiOiAiIiwKICAicGF0aCI6ICIiLAogICJ0bHMiOiAidGxzIgp9\n\n",
-     "language": ""
-    },
-    {
-     "type": "plain",
-     "text": "#🇩🇪Vless Proxy 1 Germany 28\n"
-    },
-    {
-     "type": "pre",
-     "text": "vless://b805d0d6-dcf0-4b8d-d049-dae80a1b04ca@ov28germanyp.kianpir.tk:2053?type=ws&security=tls&path=%2F&sni=ov28germanyp.kianpir.tk#Vless%20Proxy%201%20Germany%2028\n\n",
-     "language": ""
-    },
-    {
-     "type": "plain",
-     "text": "#🇩🇪Vless Proxy 2 Germany 28\n"
-    },
-    {
-     "type": "pre",
-     "text": "vless://bfae72cb-df77-4b12-def0-893b46d7c18a@dana.ir:2096?type=ws&security=tls&path=%2F&host=ov28germanyp.kianpir.tk&sni=ov28germanyp.kianpir.tk#Vless%20Proxy%202%20Germany%2028\n\n",
-     "language": ""
-    },
-    {
-     "type": "plain",
-     "text": "#🇩🇪Vless Proxy 3 Germany 28\n"
-    },
-    {
-     "type": "pre",
-     "text": "vless://2e266307-6951-4acd-fb1f-5d42e0af52a3@dana.ir:2083?type=ws&security=tls&path=%2F&host=ov28germany.kianpir.tk&sni=ov28germany.kianpir.tk#Vless%20Proxy%203%20Germany%2028\n\n",
-     "language": ""
-    },
-    {
-     "type": "plain",
-     "text": "#🇩🇪Vless Proxy 4 Germany 28\n"
-    },
-    {
-     "type": "code",
-     "text": "vless://96caf6fd-4478-4ca0-bf60-930d0035d5be@dana.ir:80?type=ws&security=none&path=%2F&host=ov28germany.kianpir.tk#Vless%20Proxy%204%20Germany%2028"
-    },
-    {
-     "type": "plain",
-     "text": ""
-    }
-   ]
-  },
-  {
    "id": 271,
    "type": "message",
    "date": "2023-01-17T21:40:37",
@@ -2048,122 +625,6 @@
    ]
   },
   {
-   "id": 272,
-   "type": "message",
-   "date": "2023-01-18T03:15:08",
-   "date_unixtime": "1673999108",
-   "edited": "2023-01-18T07:51:53",
-   "edited_unixtime": "1674015713",
-   "from": "Free Xray VPN",
-   "from_id": "channel1885529128",
-   "text": [
-    {
-     "type": "hashtag",
-     "text": "#سرور"
-    },
-    " اهدایی شماره 1:\n",
-    {
-     "type": "hashtag",
-     "text": "#Trojan"
-    },
-    "\n",
-    {
-     "type": "code",
-     "text": "trojan://M7O9wAbx5S@gift1.kianpir.tk:443#Trojan%20Gift%201\n"
-    },
-    {
-     "type": "hashtag",
-     "text": "#Vless"
-    },
-    "\n",
-    {
-     "type": "code",
-     "text": "vless://d0a21281-9140-4c19-ce1c-c5e9186e6b27@gift1.kianpir.tk:8443?type=ws&security=tls&path=%2F&sni=gift1.kianpir.tk#Vless%20Gift%201\n"
-    },
-    {
-     "type": "hashtag",
-     "text": "#Vmess"
-    },
-    "\n",
-    {
-     "type": "code",
-     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHaWZ0IDEiLAogICJhZGQiOiAiZ2lmdDEua2lhbnBpci50ayIsCiAgInBvcnQiOiAyMDg3LAogICJpZCI6ICJmM2JlZDgwOC0xN2U3LTRiNDItZWI0Yi1lZWEzODBhZWU5N2UiLAogICJhaWQiOiAwLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIiIsCiAgInRscyI6ICJ0bHMiCn0=\n"
-    },
-    {
-     "type": "hashtag",
-     "text": "#Vless"
-    },
-    " Proxy 1\n",
-    {
-     "type": "code",
-     "text": "vless://b805d0d6-dcf0-4b8d-d049-dae80a1b04ca@gift1p.kianpir.tk:2053?type=ws&security=tls&path=%2F&sni=gift1p.kianpir.tk#Vless%20Proxy%201%20gift%201"
-    },
-    ""
-   ],
-   "text_entities": [
-    {
-     "type": "hashtag",
-     "text": "#سرور"
-    },
-    {
-     "type": "plain",
-     "text": " اهدایی شماره 1:\n"
-    },
-    {
-     "type": "hashtag",
-     "text": "#Trojan"
-    },
-    {
-     "type": "plain",
-     "text": "\n"
-    },
-    {
-     "type": "code",
-     "text": "trojan://M7O9wAbx5S@gift1.kianpir.tk:443#Trojan%20Gift%201\n"
-    },
-    {
-     "type": "hashtag",
-     "text": "#Vless"
-    },
-    {
-     "type": "plain",
-     "text": "\n"
-    },
-    {
-     "type": "code",
-     "text": "vless://d0a21281-9140-4c19-ce1c-c5e9186e6b27@gift1.kianpir.tk:8443?type=ws&security=tls&path=%2F&sni=gift1.kianpir.tk#Vless%20Gift%201\n"
-    },
-    {
-     "type": "hashtag",
-     "text": "#Vmess"
-    },
-    {
-     "type": "plain",
-     "text": "\n"
-    },
-    {
-     "type": "code",
-     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHaWZ0IDEiLAogICJhZGQiOiAiZ2lmdDEua2lhbnBpci50ayIsCiAgInBvcnQiOiAyMDg3LAogICJpZCI6ICJmM2JlZDgwOC0xN2U3LTRiNDItZWI0Yi1lZWEzODBhZWU5N2UiLAogICJhaWQiOiAwLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIiIsCiAgInRscyI6ICJ0bHMiCn0=\n"
-    },
-    {
-     "type": "hashtag",
-     "text": "#Vless"
-    },
-    {
-     "type": "plain",
-     "text": " Proxy 1\n"
-    },
-    {
-     "type": "code",
-     "text": "vless://b805d0d6-dcf0-4b8d-d049-dae80a1b04ca@gift1p.kianpir.tk:2053?type=ws&security=tls&path=%2F&sni=gift1p.kianpir.tk#Vless%20Proxy%201%20gift%201"
-    },
-    {
-     "type": "plain",
-     "text": ""
-    }
-   ]
-  },
-  {
    "id": 273,
    "type": "service",
    "date": "2023-01-18T11:39:37",
@@ -2176,12 +637,70 @@
    "text_entities": []
   },
   {
-   "id": 274,
+   "id": 290,
    "type": "message",
-   "date": "2023-01-18T16:01:32",
-   "date_unixtime": "1674045092",
-   "edited": "2023-01-18T16:42:37",
-   "edited_unixtime": "1674047557",
+   "date": "2023-01-23T13:10:52",
+   "date_unixtime": "1674466852",
+   "edited": "2023-01-23T13:12:38",
+   "edited_unixtime": "1674466958",
+   "from": "Free Xray VPN",
+   "from_id": "channel1885529128",
+   "text": [
+    "اگر قصد کمک مالی دارید از طرف من به این صفحه کمک کنید :) \nاگر دوست داشتید این زیر هم بگین چقدر کمک کردین. لطفا فیش پرداخت برای من نفرستید. \n",
+    {
+     "type": "link",
+     "text": "https://twitter.com/behesht_shirin/status/1511728504324321283?t=tLkOL8XM3c5NbyykCqpl3Q&s=19"
+    },
+    "\n\nپ.ن:  ایشون من رو نمیشناسه و نمیدونه توی این صفحه براشون درخواست کمک شده. من هم ایشون رو مستقیما نمیشناسم ولی از نظر من قابل اطمینانه. \nچرا گربه ؟ چرا سگ نه؟ چرا فلان نه؟ چرا بهمان نه ؟ دلیلم شخصیه این زیر بحث اینجوری کنید از کانال خصوصی من اخراج میشید 😀\n\nتوضیحات صفحه :\nسلام\nاینجا قراره داستان زندگی پیشیا و هاپو های ‎",
+    {
+     "type": "hashtag",
+     "text": "#بهشت_شیرین"
+    },
+    " گفته بشه \nنگهداری تنها از اینهمه بچه معلول کار سختیه. دستت خالی هم باشه یه غم به هزار تا غمت اضافه میشه\n\n",
+    {
+     "type": "bank_card",
+     "text": "6221-0610-6908-5464"
+    },
+    "\nبانك پارسيان- بنام سمانه نظام شهيدي"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "اگر قصد کمک مالی دارید از طرف من به این صفحه کمک کنید :) \nاگر دوست داشتید این زیر هم بگین چقدر کمک کردین. لطفا فیش پرداخت برای من نفرستید. \n"
+    },
+    {
+     "type": "link",
+     "text": "https://twitter.com/behesht_shirin/status/1511728504324321283?t=tLkOL8XM3c5NbyykCqpl3Q&s=19"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nپ.ن:  ایشون من رو نمیشناسه و نمیدونه توی این صفحه براشون درخواست کمک شده. من هم ایشون رو مستقیما نمیشناسم ولی از نظر من قابل اطمینانه. \nچرا گربه ؟ چرا سگ نه؟ چرا فلان نه؟ چرا بهمان نه ؟ دلیلم شخصیه این زیر بحث اینجوری کنید از کانال خصوصی من اخراج میشید 😀\n\nتوضیحات صفحه :\nسلام\nاینجا قراره داستان زندگی پیشیا و هاپو های ‎"
+    },
+    {
+     "type": "hashtag",
+     "text": "#بهشت_شیرین"
+    },
+    {
+     "type": "plain",
+     "text": " گفته بشه \nنگهداری تنها از اینهمه بچه معلول کار سختیه. دستت خالی هم باشه یه غم به هزار تا غمت اضافه میشه\n\n"
+    },
+    {
+     "type": "bank_card",
+     "text": "6221-0610-6908-5464"
+    },
+    {
+     "type": "plain",
+     "text": "\nبانك پارسيان- بنام سمانه نظام شهيدي"
+    }
+   ]
+  },
+  {
+   "id": 291,
+   "type": "message",
+   "date": "2023-01-24T01:35:17",
+   "date_unixtime": "1674511517",
+   "edited": "2023-01-24T17:30:44",
+   "edited_unixtime": "1674568844",
    "from": "Free Xray VPN",
    "from_id": "channel1885529128",
    "text": [
@@ -2189,46 +708,41 @@
      "type": "hashtag",
      "text": "#سرور"
     },
-    " 29 آلمان :\n#🇩🇪Trojan Germany 29\n",
+    " 1 آلمان:\n#🇩🇪Trojan Germany-1\n",
     {
      "type": "pre",
-     "text": "trojan://M7O9wAbx5S@ov29germany.kianpir.tk:443#Trojan%20Germany%2029\n\n",
+     "text": "trojan://M7O9wAbx5S@germany-1.kianpir.tk:443#Trojan%20Germany-1\n\n",
      "language": ""
     },
-    "#🇩🇪Vless Germany 29\n",
+    "#🇩🇪Vless Germany-1\n",
     {
      "type": "pre",
-     "text": "vless://d0a21281-9140-4c19-ce1c-c5e9186e6b27@ov29germany.kianpir.tk:8443?type=ws&security=tls&path=%2F&sni=ov29germany.kianpir.tk#Vless%20Germany%2029\n\n",
+     "text": "vless://d0a21281-9140-4c19-ce1c-c5e9186e6b27@germany-1.kianpir.tk:8443?type=ws&security=tls&path=%2F&sni=germany-1.kianpir.tk#Vless%20Germany-1\n\n",
      "language": ""
     },
-    "#🇩🇪Vmess Germany 29\n",
+    "#🇩🇪Vmess Germany-1\n",
     {
      "type": "pre",
-     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHZXJtYW55IDI5IiwKICAiYWRkIjogIm92MjlnZXJtYW55LmtpYW5waXIudGsiLAogICJwb3J0IjogMjA4NywKICAiaWQiOiAiZjNiZWQ4MDgtMTdlNy00YjQyLWViNGItZWVhMzgwYWVlOTdlIiwKICAiYWlkIjogMCwKICAibmV0IjogInRjcCIsCiAgInR5cGUiOiAibm9uZSIsCiAgImhvc3QiOiAiIiwKICAicGF0aCI6ICIiLAogICJ0bHMiOiAidGxzIgp9\n\n",
+     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHZXJtYW55LTEiLAogICJhZGQiOiAiZ2VybWFueS0xLmtpYW5waXIudGsiLAogICJwb3J0IjogMjA4NywKICAiaWQiOiAiZjNiZWQ4MDgtMTdlNy00YjQyLWViNGItZWVhMzgwYWVlOTdlIiwKICAiYWlkIjogMCwKICAibmV0IjogInRjcCIsCiAgInR5cGUiOiAibm9uZSIsCiAgImhvc3QiOiAiIiwKICAicGF0aCI6ICIiLAogICJ0bHMiOiAidGxzIgp9\n\n",
      "language": ""
     },
-    "#🇩🇪Vless Proxy 1 Germany 29\n",
+    "#🇩🇪Vless Proxy 1 Germany-1\n",
     {
      "type": "pre",
-     "text": "vless://b805d0d6-dcf0-4b8d-d049-dae80a1b04ca@ov29germanyp.kianpir.tk:2053?type=ws&security=tls&path=%2F&sni=ov29germanyp.kianpir.tk#Vless%20Proxy%201%20Germany%2029\n\n",
+     "text": "vless://b805d0d6-dcf0-4b8d-d049-dae80a1b04ca@germany-1p.kianpir.tk:2053?type=ws&security=tls&path=%2F&sni=germany-1p.kianpir.tk#Vless%20Proxy%201%20Germany-1\n\n",
      "language": ""
     },
-    "#🇩🇪Vless Proxy 2 Germany 29\n",
+    "#🇩🇪Vless Proxy 2 Germany-1\n",
     {
      "type": "pre",
-     "text": "vless://bfae72cb-df77-4b12-def0-893b46d7c18a@dana.ir:2096?type=ws&security=tls&path=%2F&host=ov29germanyp.kianpir.tk&sni=ov29germanyp.kianpir.tk#Vless%20Proxy%202%20Germany%2029\n\n",
+     "text": "vless://bfae72cb-df77-4b12-def0-893b46d7c18a@arzdigital.com:2096?type=ws&security=tls&path=%2F&host=germany-1p.kianpir.tk&sni=germany-1p.kianpir.tk#Vless%20Proxy%202%20Germany-1\n\n",
      "language": ""
     },
-    "#🇩🇪Vless Proxy 3 Germany 29\n",
+    "#🇩🇪Vless Proxy 3 Germany-1\n",
     {
      "type": "pre",
-     "text": "vless://2e266307-6951-4acd-fb1f-5d42e0af52a3@dana.ir:2083?type=ws&security=tls&path=%2F&host=ov29germany.kianpir.tk&sni=ov29germany.kianpir.tk#Vless%20Proxy%203%20Germany%2029\n\n",
+     "text": "vless://2e266307-6951-4acd-fb1f-5d42e0af52a3@arzdigital.com:2083?type=ws&security=tls&path=%2F&host=germany-1.kianpir.tk&sni=germany-1.kianpir.tk#Vless%20Proxy%203%20Germany-1",
      "language": ""
-    },
-    "#🇩🇪Vless Proxy 4 Germany 29\n",
-    {
-     "type": "code",
-     "text": "vless://96caf6fd-4478-4ca0-bf60-930d0035d5be@dana.ir:80?type=ws&security=none&path=%2F&host=ov29germany.kianpir.tk#Vless%20Proxy%204%20Germany%2029"
     },
     ""
    ],
@@ -2239,65 +753,57 @@
     },
     {
      "type": "plain",
-     "text": " 29 آلمان :\n#🇩🇪Trojan Germany 29\n"
+     "text": " 1 آلمان:\n#🇩🇪Trojan Germany-1\n"
     },
     {
      "type": "pre",
-     "text": "trojan://M7O9wAbx5S@ov29germany.kianpir.tk:443#Trojan%20Germany%2029\n\n",
+     "text": "trojan://M7O9wAbx5S@germany-1.kianpir.tk:443#Trojan%20Germany-1\n\n",
      "language": ""
     },
     {
      "type": "plain",
-     "text": "#🇩🇪Vless Germany 29\n"
+     "text": "#🇩🇪Vless Germany-1\n"
     },
     {
      "type": "pre",
-     "text": "vless://d0a21281-9140-4c19-ce1c-c5e9186e6b27@ov29germany.kianpir.tk:8443?type=ws&security=tls&path=%2F&sni=ov29germany.kianpir.tk#Vless%20Germany%2029\n\n",
+     "text": "vless://d0a21281-9140-4c19-ce1c-c5e9186e6b27@germany-1.kianpir.tk:8443?type=ws&security=tls&path=%2F&sni=germany-1.kianpir.tk#Vless%20Germany-1\n\n",
      "language": ""
     },
     {
      "type": "plain",
-     "text": "#🇩🇪Vmess Germany 29\n"
+     "text": "#🇩🇪Vmess Germany-1\n"
     },
     {
      "type": "pre",
-     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHZXJtYW55IDI5IiwKICAiYWRkIjogIm92MjlnZXJtYW55LmtpYW5waXIudGsiLAogICJwb3J0IjogMjA4NywKICAiaWQiOiAiZjNiZWQ4MDgtMTdlNy00YjQyLWViNGItZWVhMzgwYWVlOTdlIiwKICAiYWlkIjogMCwKICAibmV0IjogInRjcCIsCiAgInR5cGUiOiAibm9uZSIsCiAgImhvc3QiOiAiIiwKICAicGF0aCI6ICIiLAogICJ0bHMiOiAidGxzIgp9\n\n",
+     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHZXJtYW55LTEiLAogICJhZGQiOiAiZ2VybWFueS0xLmtpYW5waXIudGsiLAogICJwb3J0IjogMjA4NywKICAiaWQiOiAiZjNiZWQ4MDgtMTdlNy00YjQyLWViNGItZWVhMzgwYWVlOTdlIiwKICAiYWlkIjogMCwKICAibmV0IjogInRjcCIsCiAgInR5cGUiOiAibm9uZSIsCiAgImhvc3QiOiAiIiwKICAicGF0aCI6ICIiLAogICJ0bHMiOiAidGxzIgp9\n\n",
      "language": ""
     },
     {
      "type": "plain",
-     "text": "#🇩🇪Vless Proxy 1 Germany 29\n"
+     "text": "#🇩🇪Vless Proxy 1 Germany-1\n"
     },
     {
      "type": "pre",
-     "text": "vless://b805d0d6-dcf0-4b8d-d049-dae80a1b04ca@ov29germanyp.kianpir.tk:2053?type=ws&security=tls&path=%2F&sni=ov29germanyp.kianpir.tk#Vless%20Proxy%201%20Germany%2029\n\n",
+     "text": "vless://b805d0d6-dcf0-4b8d-d049-dae80a1b04ca@germany-1p.kianpir.tk:2053?type=ws&security=tls&path=%2F&sni=germany-1p.kianpir.tk#Vless%20Proxy%201%20Germany-1\n\n",
      "language": ""
     },
     {
      "type": "plain",
-     "text": "#🇩🇪Vless Proxy 2 Germany 29\n"
+     "text": "#🇩🇪Vless Proxy 2 Germany-1\n"
     },
     {
      "type": "pre",
-     "text": "vless://bfae72cb-df77-4b12-def0-893b46d7c18a@dana.ir:2096?type=ws&security=tls&path=%2F&host=ov29germanyp.kianpir.tk&sni=ov29germanyp.kianpir.tk#Vless%20Proxy%202%20Germany%2029\n\n",
+     "text": "vless://bfae72cb-df77-4b12-def0-893b46d7c18a@arzdigital.com:2096?type=ws&security=tls&path=%2F&host=germany-1p.kianpir.tk&sni=germany-1p.kianpir.tk#Vless%20Proxy%202%20Germany-1\n\n",
      "language": ""
     },
     {
      "type": "plain",
-     "text": "#🇩🇪Vless Proxy 3 Germany 29\n"
+     "text": "#🇩🇪Vless Proxy 3 Germany-1\n"
     },
     {
      "type": "pre",
-     "text": "vless://2e266307-6951-4acd-fb1f-5d42e0af52a3@dana.ir:2083?type=ws&security=tls&path=%2F&host=ov29germany.kianpir.tk&sni=ov29germany.kianpir.tk#Vless%20Proxy%203%20Germany%2029\n\n",
+     "text": "vless://2e266307-6951-4acd-fb1f-5d42e0af52a3@arzdigital.com:2083?type=ws&security=tls&path=%2F&host=germany-1.kianpir.tk&sni=germany-1.kianpir.tk#Vless%20Proxy%203%20Germany-1",
      "language": ""
-    },
-    {
-     "type": "plain",
-     "text": "#🇩🇪Vless Proxy 4 Germany 29\n"
-    },
-    {
-     "type": "code",
-     "text": "vless://96caf6fd-4478-4ca0-bf60-930d0035d5be@dana.ir:80?type=ws&security=none&path=%2F&host=ov29germany.kianpir.tk#Vless%20Proxy%204%20Germany%2029"
     },
     {
      "type": "plain",
@@ -2306,12 +812,12 @@
    ]
   },
   {
-   "id": 275,
+   "id": 292,
    "type": "message",
-   "date": "2023-01-18T21:09:11",
-   "date_unixtime": "1674063551",
-   "edited": "2023-01-18T21:09:42",
-   "edited_unixtime": "1674063582",
+   "date": "2023-01-24T12:06:43",
+   "date_unixtime": "1674549403",
+   "edited": "2023-01-24T17:30:22",
+   "edited_unixtime": "1674568822",
    "from": "Free Xray VPN",
    "from_id": "channel1885529128",
    "text": [
@@ -2319,46 +825,41 @@
      "type": "hashtag",
      "text": "#سرور"
     },
-    " 30 آلمان :\n#🇩🇪Trojan Germany 30\n",
+    " 2 آلمان:\n#🇩🇪Trojan Germany-2\n",
     {
      "type": "pre",
-     "text": "trojan://M7O9wAbx5S@ov30germany.kianpir.tk:443#Trojan%20Germany%2030\n\n",
+     "text": "trojan://M7O9wAbx5S@germany-2.kianpir.tk:443#Trojan%20Germany-2\n\n",
      "language": ""
     },
-    "#🇩🇪Vless Germany 30\n",
+    "#🇩🇪Vless Germany-2\n",
     {
      "type": "pre",
-     "text": "vless://d0a21281-9140-4c19-ce1c-c5e9186e6b27@ov30germany.kianpir.tk:8443?type=ws&security=tls&path=%2F&sni=ov30germany.kianpir.tk#Vless%20Germany%2030\n\n",
+     "text": "vless://d0a21281-9140-4c19-ce1c-c5e9186e6b27@germany-2.kianpir.tk:8443?type=ws&security=tls&path=%2F&sni=germany-2.kianpir.tk#Vless%20Germany-2\n\n",
      "language": ""
     },
-    "#🇩🇪Vmess Germany 30\n",
+    "#🇩🇪Vmess Germany-2\n",
     {
      "type": "pre",
-     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHZXJtYW55IDMwIiwKICAiYWRkIjogIm92MzBnZXJtYW55LmtpYW5waXIudGsiLAogICJwb3J0IjogMjA4NywKICAiaWQiOiAiZjNiZWQ4MDgtMTdlNy00YjQyLWViNGItZWVhMzgwYWVlOTdlIiwKICAiYWlkIjogMCwKICAibmV0IjogInRjcCIsCiAgInR5cGUiOiAibm9uZSIsCiAgImhvc3QiOiAiIiwKICAicGF0aCI6ICIiLAogICJ0bHMiOiAidGxzIgp9\n\n",
+     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHZXJtYW55LTIiLAogICJhZGQiOiAiZ2VybWFueS0yLmtpYW5waXIudGsiLAogICJwb3J0IjogMjA4NywKICAiaWQiOiAiZjNiZWQ4MDgtMTdlNy00YjQyLWViNGItZWVhMzgwYWVlOTdlIiwKICAiYWlkIjogMCwKICAibmV0IjogInRjcCIsCiAgInR5cGUiOiAibm9uZSIsCiAgImhvc3QiOiAiIiwKICAicGF0aCI6ICIiLAogICJ0bHMiOiAidGxzIgp9\n\n",
      "language": ""
     },
-    "#🇩🇪Vless Proxy 1 Germany 30\n",
+    "#🇩🇪Vless Proxy 1 Germany-2\n",
     {
      "type": "pre",
-     "text": "vless://b805d0d6-dcf0-4b8d-d049-dae80a1b04ca@ov30germanyp.kianpir.tk:2053?type=ws&security=tls&path=%2F&sni=ov30germanyp.kianpir.tk#Vless%20Proxy%201%20Germany%2030\n\n",
+     "text": "vless://b805d0d6-dcf0-4b8d-d049-dae80a1b04ca@germany-2p.kianpir.tk:2053?type=ws&security=tls&path=%2F&sni=germany-2p.kianpir.tk#Vless%20Proxy%201%20Germany-2\n\n",
      "language": ""
     },
-    "#🇩🇪Vless Proxy 2 Germany 30\n",
+    "#🇩🇪Vless Proxy 2 Germany-2\n",
     {
      "type": "pre",
-     "text": "vless://bfae72cb-df77-4b12-def0-893b46d7c18a@dana.ir:2096?type=ws&security=tls&path=%2F&host=ov30germanyp.kianpir.tk&sni=ov30germanyp.kianpir.tk#Vless%20Proxy%202%20Germany%2030\n\n",
+     "text": "vless://bfae72cb-df77-4b12-def0-893b46d7c18a@arzdigital.com:2096?type=ws&security=tls&path=%2F&host=germany-2p.kianpir.tk&sni=germany-2p.kianpir.tk#Vless%20Proxy%202%20Germany-2\n\n",
      "language": ""
     },
-    "#🇩🇪Vless Proxy 3 Germany 30\n",
+    "#🇩🇪Vless Proxy 3 Germany-2\n",
     {
      "type": "pre",
-     "text": "vless://2e266307-6951-4acd-fb1f-5d42e0af52a3@dana.ir:2083?type=ws&security=tls&path=%2F&host=ov30germany.kianpir.tk&sni=ov30germany.kianpir.tk#Vless%20Proxy%203%20Germany%2030\n\n",
+     "text": "vless://2e266307-6951-4acd-fb1f-5d42e0af52a3@arzdigital.com:2083?type=ws&security=tls&path=%2F&host=germany-2.kianpir.tk&sni=germany-2.kianpir.tk#Vless%20Proxy%203%20Germany-2",
      "language": ""
-    },
-    "#🇩🇪Vless Proxy 4 Germany 30\n",
-    {
-     "type": "code",
-     "text": "vless://96caf6fd-4478-4ca0-bf60-930d0035d5be@dana.ir:80?type=ws&security=none&path=%2F&host=ov30germany.kianpir.tk#Vless%20Proxy%204%20Germany%2030"
     },
     ""
    ],
@@ -2369,65 +870,57 @@
     },
     {
      "type": "plain",
-     "text": " 30 آلمان :\n#🇩🇪Trojan Germany 30\n"
+     "text": " 2 آلمان:\n#🇩🇪Trojan Germany-2\n"
     },
     {
      "type": "pre",
-     "text": "trojan://M7O9wAbx5S@ov30germany.kianpir.tk:443#Trojan%20Germany%2030\n\n",
+     "text": "trojan://M7O9wAbx5S@germany-2.kianpir.tk:443#Trojan%20Germany-2\n\n",
      "language": ""
     },
     {
      "type": "plain",
-     "text": "#🇩🇪Vless Germany 30\n"
+     "text": "#🇩🇪Vless Germany-2\n"
     },
     {
      "type": "pre",
-     "text": "vless://d0a21281-9140-4c19-ce1c-c5e9186e6b27@ov30germany.kianpir.tk:8443?type=ws&security=tls&path=%2F&sni=ov30germany.kianpir.tk#Vless%20Germany%2030\n\n",
+     "text": "vless://d0a21281-9140-4c19-ce1c-c5e9186e6b27@germany-2.kianpir.tk:8443?type=ws&security=tls&path=%2F&sni=germany-2.kianpir.tk#Vless%20Germany-2\n\n",
      "language": ""
     },
     {
      "type": "plain",
-     "text": "#🇩🇪Vmess Germany 30\n"
+     "text": "#🇩🇪Vmess Germany-2\n"
     },
     {
      "type": "pre",
-     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHZXJtYW55IDMwIiwKICAiYWRkIjogIm92MzBnZXJtYW55LmtpYW5waXIudGsiLAogICJwb3J0IjogMjA4NywKICAiaWQiOiAiZjNiZWQ4MDgtMTdlNy00YjQyLWViNGItZWVhMzgwYWVlOTdlIiwKICAiYWlkIjogMCwKICAibmV0IjogInRjcCIsCiAgInR5cGUiOiAibm9uZSIsCiAgImhvc3QiOiAiIiwKICAicGF0aCI6ICIiLAogICJ0bHMiOiAidGxzIgp9\n\n",
+     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHZXJtYW55LTIiLAogICJhZGQiOiAiZ2VybWFueS0yLmtpYW5waXIudGsiLAogICJwb3J0IjogMjA4NywKICAiaWQiOiAiZjNiZWQ4MDgtMTdlNy00YjQyLWViNGItZWVhMzgwYWVlOTdlIiwKICAiYWlkIjogMCwKICAibmV0IjogInRjcCIsCiAgInR5cGUiOiAibm9uZSIsCiAgImhvc3QiOiAiIiwKICAicGF0aCI6ICIiLAogICJ0bHMiOiAidGxzIgp9\n\n",
      "language": ""
     },
     {
      "type": "plain",
-     "text": "#🇩🇪Vless Proxy 1 Germany 30\n"
+     "text": "#🇩🇪Vless Proxy 1 Germany-2\n"
     },
     {
      "type": "pre",
-     "text": "vless://b805d0d6-dcf0-4b8d-d049-dae80a1b04ca@ov30germanyp.kianpir.tk:2053?type=ws&security=tls&path=%2F&sni=ov30germanyp.kianpir.tk#Vless%20Proxy%201%20Germany%2030\n\n",
+     "text": "vless://b805d0d6-dcf0-4b8d-d049-dae80a1b04ca@germany-2p.kianpir.tk:2053?type=ws&security=tls&path=%2F&sni=germany-2p.kianpir.tk#Vless%20Proxy%201%20Germany-2\n\n",
      "language": ""
     },
     {
      "type": "plain",
-     "text": "#🇩🇪Vless Proxy 2 Germany 30\n"
+     "text": "#🇩🇪Vless Proxy 2 Germany-2\n"
     },
     {
      "type": "pre",
-     "text": "vless://bfae72cb-df77-4b12-def0-893b46d7c18a@dana.ir:2096?type=ws&security=tls&path=%2F&host=ov30germanyp.kianpir.tk&sni=ov30germanyp.kianpir.tk#Vless%20Proxy%202%20Germany%2030\n\n",
+     "text": "vless://bfae72cb-df77-4b12-def0-893b46d7c18a@arzdigital.com:2096?type=ws&security=tls&path=%2F&host=germany-2p.kianpir.tk&sni=germany-2p.kianpir.tk#Vless%20Proxy%202%20Germany-2\n\n",
      "language": ""
     },
     {
      "type": "plain",
-     "text": "#🇩🇪Vless Proxy 3 Germany 30\n"
+     "text": "#🇩🇪Vless Proxy 3 Germany-2\n"
     },
     {
      "type": "pre",
-     "text": "vless://2e266307-6951-4acd-fb1f-5d42e0af52a3@dana.ir:2083?type=ws&security=tls&path=%2F&host=ov30germany.kianpir.tk&sni=ov30germany.kianpir.tk#Vless%20Proxy%203%20Germany%2030\n\n",
+     "text": "vless://2e266307-6951-4acd-fb1f-5d42e0af52a3@arzdigital.com:2083?type=ws&security=tls&path=%2F&host=germany-2.kianpir.tk&sni=germany-2.kianpir.tk#Vless%20Proxy%203%20Germany-2",
      "language": ""
-    },
-    {
-     "type": "plain",
-     "text": "#🇩🇪Vless Proxy 4 Germany 30\n"
-    },
-    {
-     "type": "code",
-     "text": "vless://96caf6fd-4478-4ca0-bf60-930d0035d5be@dana.ir:80?type=ws&security=none&path=%2F&host=ov30germany.kianpir.tk#Vless%20Proxy%204%20Germany%2030"
     },
     {
      "type": "plain",
@@ -2436,135 +929,63 @@
    ]
   },
   {
-   "id": 276,
-   "type": "message",
-   "date": "2023-01-19T00:04:25",
-   "date_unixtime": "1674074065",
-   "edited": "2023-01-19T00:16:00",
-   "edited_unixtime": "1674074760",
-   "from": "Free Xray VPN",
-   "from_id": "channel1885529128",
-   "reply_to_message_id": 271,
-   "file": "(File not included. Change data exporting settings to download.)",
-   "thumbnail": "(File not included. Change data exporting settings to download.)",
-   "media_type": "sticker",
-   "sticker_emoji": "☝️",
-   "width": 512,
-   "height": 512,
+   "id": 293,
+   "type": "service",
+   "date": "2023-01-24T12:07:07",
+   "date_unixtime": "1674549427",
+   "actor": "Free Xray VPN",
+   "actor_id": "channel1885529128",
+   "action": "pin_message",
+   "message_id": 290,
    "text": "",
    "text_entities": []
   },
   {
-   "id": 277,
+   "id": 294,
    "type": "message",
-   "date": "2023-01-19T00:33:01",
-   "date_unixtime": "1674075781",
-   "edited": "2023-01-19T00:48:17",
-   "edited_unixtime": "1674076697",
+   "date": "2023-01-24T12:43:17",
+   "date_unixtime": "1674551597",
+   "edited": "2023-01-24T12:44:02",
+   "edited_unixtime": "1674551642",
    "from": "Free Xray VPN",
    "from_id": "channel1885529128",
+   "forwarded_from": "Project Hope - IranXray",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "video_file",
+   "mime_type": "video/mp4",
+   "duration_seconds": 87,
+   "width": 1280,
+   "height": 720,
    "text": [
+    "سلام رفقا. یه خبر خوب داریم. ما ابزاری رو آماده کردیم به اسم \"جعبه ابزار امید\" که بهتون کمک ‌می‌کنه زیر دو دیقه و بدون هیچ دانش فنی تمام ابزار‌های لازم رو نصب کنید، کانفیگ‌ها رو راه‌اندازی کنید و لینک‌ها رو بگیرید. کلیک کلیک تمام! \n\nهدف از تهیه این ابزار چند تا چیز بوده:\n\n۱. مهم‌ترین چیز برای ما اینه که به همه کمک کنیم بدون کوچک ترین سواد کامپیوتری بتونن این سامانه رو راه اندازی کنند. پیروزی ما وقتیه که هر کس بتونه این مسیر رو تا آخر بره و این منحصر به بچه های کامپیوتری نباشه. کلیک کلیک تمام!\n\n۲. بچه‌های داخل ایران بعضا مشکل دارن به سیستم‌ها ssh بزنن. این ابزار تا حدی این نیاز رو برطرف می‌کنه.\n\n۳. حتما تا الان فهمدید، بعد یه مدت سیستم شما لو میره و ارتباط‌هاتون کند میشه. اونجاست که نیاز دارید مجدد یه سیستم جدید بالا بیارید. این برای بعضی‌هامون می‌تونه خسته کننده باشه که دوباره همه چی رو از اول برن. جعبه ‌ابزار کمک می‌کنه که این فرایند راحت انجام بشه. کلیک کلیک تمام.\n\n",
     {
-     "type": "hashtag",
-     "text": "#به"
+     "type": "link",
+     "text": "https://hope-toolbox.azurewebsites.net/"
     },
-    " روز رسانی سرور 22 آلمان :\n#🇩🇪Trojan Germany 22\n",
+    "\n\n\nآدرس گیت‌هاب پروژه، آموزش و کد برنامه به صورت متن باز: \n\n",
     {
-     "type": "code",
-     "text": "trojan://M7O9wAbx5S@ov22germany.kianpir.tk:443#Trojan%20Germany%2022\n\n"
-    },
-    "#🇩🇪Vless Germany 22\n",
-    {
-     "type": "code",
-     "text": "vless://d0a21281-9140-4c19-ce1c-c5e9186e6b27@ov22germany.kianpir.tk:8443?type=ws&security=tls&path=%2F&sni=ov22germany.kianpir.tk#Vless%20Germany%2022\n\n"
-    },
-    "#🇩🇪Vmess Germany 22\n",
-    {
-     "type": "code",
-     "text": "vmess://eyJhZGQiOiJvdjIyZ2VybWFueS5raWFucGlyLnRrIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiIiwiaWQiOiJmM2JlZDgwOC0xN2U3LTRiNDItZWI0Yi1lZWEzODBhZWU5N2UiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIwODciLCJwcyI6IlZtZXNzIEdlcm1hbnkgMjIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9\n\n"
-    },
-    "#🇩🇪Vless Proxy 1 Germany 22\n",
-    {
-     "type": "code",
-     "text": "vless://b805d0d6-dcf0-4b8d-d049-dae80a1b04ca@ov22germanyp.kianpir.tk:2053?type=ws&security=tls&path=%2F&sni=ov22germanyp.kianpir.tk#Vless%20Proxy%201%20Germany%2022\n\n"
-    },
-    "#🇩🇪Vless Proxy 2 Germany 22\n",
-    {
-     "type": "code",
-     "text": "vless://bfae72cb-df77-4b12-def0-893b46d7c18a@dana.ir:2096?type=ws&security=tls&path=%2F&host=ov22germanyp.kianpir.tk&sni=ov22germanyp.kianpir.tk#Vless%20Proxy%202%20Germany%2022\n\n"
-    },
-    "#🇩🇪Vless Proxy 3 Germany 22\n",
-    {
-     "type": "code",
-     "text": "vless://2e266307-6951-4acd-fb1f-5d42e0af52a3@dana.ir:2083?type=ws&security=tls&path=%2F&host=ov22germany.kianpir.tk&sni=ov22germany.kianpir.tk#Vless%20Proxy%203%20Germany%2022\n\n"
-    },
-    "#🇩🇪Vless Proxy 4 Germany 22\n",
-    {
-     "type": "code",
-     "text": "vless://96caf6fd-4478-4ca0-bf60-930d0035d5be@dana.ir:80?type=ws&security=none&path=%2F&host=ov22germany.kianpir.tk#Vless%20Proxy%204%20Germany%2022"
+     "type": "link",
+     "text": "https://github.com/iranxray/hope-toolbox"
     },
     ""
    ],
    "text_entities": [
     {
-     "type": "hashtag",
-     "text": "#به"
+     "type": "plain",
+     "text": "سلام رفقا. یه خبر خوب داریم. ما ابزاری رو آماده کردیم به اسم \"جعبه ابزار امید\" که بهتون کمک ‌می‌کنه زیر دو دیقه و بدون هیچ دانش فنی تمام ابزار‌های لازم رو نصب کنید، کانفیگ‌ها رو راه‌اندازی کنید و لینک‌ها رو بگیرید. کلیک کلیک تمام! \n\nهدف از تهیه این ابزار چند تا چیز بوده:\n\n۱. مهم‌ترین چیز برای ما اینه که به همه کمک کنیم بدون کوچک ترین سواد کامپیوتری بتونن این سامانه رو راه اندازی کنند. پیروزی ما وقتیه که هر کس بتونه این مسیر رو تا آخر بره و این منحصر به بچه های کامپیوتری نباشه. کلیک کلیک تمام!\n\n۲. بچه‌های داخل ایران بعضا مشکل دارن به سیستم‌ها ssh بزنن. این ابزار تا حدی این نیاز رو برطرف می‌کنه.\n\n۳. حتما تا الان فهمدید، بعد یه مدت سیستم شما لو میره و ارتباط‌هاتون کند میشه. اونجاست که نیاز دارید مجدد یه سیستم جدید بالا بیارید. این برای بعضی‌هامون می‌تونه خسته کننده باشه که دوباره همه چی رو از اول برن. جعبه ‌ابزار کمک می‌کنه که این فرایند راحت انجام بشه. کلیک کلیک تمام.\n\n"
+    },
+    {
+     "type": "link",
+     "text": "https://hope-toolbox.azurewebsites.net/"
     },
     {
      "type": "plain",
-     "text": " روز رسانی سرور 22 آلمان :\n#🇩🇪Trojan Germany 22\n"
+     "text": "\n\n\nآدرس گیت‌هاب پروژه، آموزش و کد برنامه به صورت متن باز: \n\n"
     },
     {
-     "type": "code",
-     "text": "trojan://M7O9wAbx5S@ov22germany.kianpir.tk:443#Trojan%20Germany%2022\n\n"
-    },
-    {
-     "type": "plain",
-     "text": "#🇩🇪Vless Germany 22\n"
-    },
-    {
-     "type": "code",
-     "text": "vless://d0a21281-9140-4c19-ce1c-c5e9186e6b27@ov22germany.kianpir.tk:8443?type=ws&security=tls&path=%2F&sni=ov22germany.kianpir.tk#Vless%20Germany%2022\n\n"
-    },
-    {
-     "type": "plain",
-     "text": "#🇩🇪Vmess Germany 22\n"
-    },
-    {
-     "type": "code",
-     "text": "vmess://eyJhZGQiOiJvdjIyZ2VybWFueS5raWFucGlyLnRrIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiIiwiaWQiOiJmM2JlZDgwOC0xN2U3LTRiNDItZWI0Yi1lZWEzODBhZWU5N2UiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIwODciLCJwcyI6IlZtZXNzIEdlcm1hbnkgMjIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9\n\n"
-    },
-    {
-     "type": "plain",
-     "text": "#🇩🇪Vless Proxy 1 Germany 22\n"
-    },
-    {
-     "type": "code",
-     "text": "vless://b805d0d6-dcf0-4b8d-d049-dae80a1b04ca@ov22germanyp.kianpir.tk:2053?type=ws&security=tls&path=%2F&sni=ov22germanyp.kianpir.tk#Vless%20Proxy%201%20Germany%2022\n\n"
-    },
-    {
-     "type": "plain",
-     "text": "#🇩🇪Vless Proxy 2 Germany 22\n"
-    },
-    {
-     "type": "code",
-     "text": "vless://bfae72cb-df77-4b12-def0-893b46d7c18a@dana.ir:2096?type=ws&security=tls&path=%2F&host=ov22germanyp.kianpir.tk&sni=ov22germanyp.kianpir.tk#Vless%20Proxy%202%20Germany%2022\n\n"
-    },
-    {
-     "type": "plain",
-     "text": "#🇩🇪Vless Proxy 3 Germany 22\n"
-    },
-    {
-     "type": "code",
-     "text": "vless://2e266307-6951-4acd-fb1f-5d42e0af52a3@dana.ir:2083?type=ws&security=tls&path=%2F&host=ov22germany.kianpir.tk&sni=ov22germany.kianpir.tk#Vless%20Proxy%203%20Germany%2022\n\n"
-    },
-    {
-     "type": "plain",
-     "text": "#🇩🇪Vless Proxy 4 Germany 22\n"
-    },
-    {
-     "type": "code",
-     "text": "vless://96caf6fd-4478-4ca0-bf60-930d0035d5be@dana.ir:80?type=ws&security=none&path=%2F&host=ov22germany.kianpir.tk#Vless%20Proxy%204%20Germany%2022"
+     "type": "link",
+     "text": "https://github.com/iranxray/hope-toolbox"
     },
     {
      "type": "plain",
@@ -2573,65 +994,12 @@
    ]
   },
   {
-   "id": 279,
+   "id": 295,
    "type": "message",
-   "date": "2023-01-19T13:02:04",
-   "date_unixtime": "1674120724",
-   "edited": "2023-01-19T13:57:10",
-   "edited_unixtime": "1674124030",
-   "from": "Free Xray VPN",
-   "from_id": "channel1885529128",
-   "reply_to_message_id": 271,
-   "text": [
-    "👆👆👆👆👆👆👆\n\nدیشب یکی از اعضا با هزینه دو تا ساندویچ هایدا ! وی پی ان خونوادش رو ردیف کرد 🎉👍\nیه بار دیگه شما رو دعوت میکنم که دست به کار بشید 🙏\nپ.ن. :لطفا زیر این پست کامنت ندارید. زیر ",
-    {
-     "type": "text_link",
-     "text": "پست قبلی",
-     "href": "https://t.me/c/1885529128/271"
-    },
-    " کامنت بذارید که همه یه جا باشه 👍"
-   ],
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "👆👆👆👆👆👆👆\n\nدیشب یکی از اعضا با هزینه دو تا ساندویچ هایدا ! وی پی ان خونوادش رو ردیف کرد 🎉👍\nیه بار دیگه شما رو دعوت میکنم که دست به کار بشید 🙏\nپ.ن. :لطفا زیر این پست کامنت ندارید. زیر "
-    },
-    {
-     "type": "text_link",
-     "text": "پست قبلی",
-     "href": "https://t.me/c/1885529128/271"
-    },
-    {
-     "type": "plain",
-     "text": " کامنت بذارید که همه یه جا باشه 👍"
-    }
-   ]
-  },
-  {
-   "id": 282,
-   "type": "message",
-   "date": "2023-01-20T23:30:10",
-   "date_unixtime": "1674244810",
-   "edited": "2023-01-20T23:31:33",
-   "edited_unixtime": "1674244893",
-   "from": "Free Xray VPN",
-   "from_id": "channel1885529128",
-   "reply_to_message_id": 269,
-   "text": "دوباره کانکشن ها رو فعال کردم :)",
-   "text_entities": [
-    {
-     "type": "plain",
-     "text": "دوباره کانکشن ها رو فعال کردم :)"
-    }
-   ]
-  },
-  {
-   "id": 283,
-   "type": "message",
-   "date": "2023-01-21T00:06:58",
-   "date_unixtime": "1674247018",
-   "edited": "2023-01-21T00:11:08",
-   "edited_unixtime": "1674247268",
+   "date": "2023-01-24T17:27:35",
+   "date_unixtime": "1674568655",
+   "edited": "2023-01-24T17:30:25",
+   "edited_unixtime": "1674568825",
    "from": "Free Xray VPN",
    "from_id": "channel1885529128",
    "text": [
@@ -2639,46 +1007,41 @@
      "type": "hashtag",
      "text": "#سرور"
     },
-    " 24 آلمان (به روز رسانی) :\n#🇩🇪Trojan Germany 24\n",
+    " 3 آلمان:\n#🇩🇪Trojan Germany-3\n",
     {
      "type": "pre",
-     "text": "trojan://M7O9wAbx5S@ov24germany.kianpir.tk:443#Trojan%20Germany%2024\n\n",
+     "text": "trojan://M7O9wAbx5S@germany-3.kianpir.tk:443#Trojan%20Germany-3\n\n",
      "language": ""
     },
-    "#🇩🇪Vless Germany 24\n",
+    "#🇩🇪Vless Germany-3\n",
     {
      "type": "pre",
-     "text": "vless://d0a21281-9140-4c19-ce1c-c5e9186e6b27@ov24germany.kianpir.tk:8443?type=ws&security=tls&path=%2F&sni=ov24germany.kianpir.tk#Vless%20Germany%2024\n\n",
+     "text": "vless://d0a21281-9140-4c19-ce1c-c5e9186e6b27@germany-3.kianpir.tk:8443?type=ws&security=tls&path=%2F&sni=germany-3.kianpir.tk#Vless%20Germany-3\n\n",
      "language": ""
     },
-    "#🇩🇪Vmess Germany 24\n",
+    "#🇩🇪Vmess Germany-3\n",
     {
      "type": "pre",
-     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHZXJtYW55IDI0IiwKICAiYWRkIjogIm92MjRnZXJtYW55LmtpYW5waXIudGsiLAogICJwb3J0IjogMjA4NywKICAiaWQiOiAiZjNiZWQ4MDgtMTdlNy00YjQyLWViNGItZWVhMzgwYWVlOTdlIiwKICAiYWlkIjogMCwKICAibmV0IjogInRjcCIsCiAgInR5cGUiOiAibm9uZSIsCiAgImhvc3QiOiAiIiwKICAicGF0aCI6ICIiLAogICJ0bHMiOiAidGxzIgp9\n\n",
+     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHZXJtYW55LTMiLAogICJhZGQiOiAiZ2VybWFueS0zLmtpYW5waXIudGsiLAogICJwb3J0IjogMjA4NywKICAiaWQiOiAiZjNiZWQ4MDgtMTdlNy00YjQyLWViNGItZWVhMzgwYWVlOTdlIiwKICAiYWlkIjogMCwKICAibmV0IjogInRjcCIsCiAgInR5cGUiOiAibm9uZSIsCiAgImhvc3QiOiAiIiwKICAicGF0aCI6ICIiLAogICJ0bHMiOiAidGxzIgp9\n\n",
      "language": ""
     },
-    "#🇩🇪Vless Proxy 1 Germany 24\n",
+    "#🇩🇪Vless Proxy 1 Germany-3\n",
     {
      "type": "pre",
-     "text": "vless://b805d0d6-dcf0-4b8d-d049-dae80a1b04ca@ov24germanyp.kianpir.tk:2053?type=ws&security=tls&path=%2F&sni=ov24germanyp.kianpir.tk#Vless%20Proxy%201%20Germany%2024\n\n",
+     "text": "vless://b805d0d6-dcf0-4b8d-d049-dae80a1b04ca@germany-3p.kianpir.tk:2053?type=ws&security=tls&path=%2F&sni=germany-3p.kianpir.tk#Vless%20Proxy%201%20Germany-3\n\n",
      "language": ""
     },
-    "#🇩🇪Vless Proxy 2 Germany 24\n",
+    "#🇩🇪Vless Proxy 2 Germany-3\n",
     {
      "type": "pre",
-     "text": "vless://bfae72cb-df77-4b12-def0-893b46d7c18a@dana.ir:2096?type=ws&security=tls&path=%2F&host=ov24germanyp.kianpir.tk&sni=ov24germanyp.kianpir.tk#Vless%20Proxy%202%20Germany%2024\n\n",
+     "text": "vless://bfae72cb-df77-4b12-def0-893b46d7c18a@arzdigital.com:2096?type=ws&security=tls&path=%2F&host=germany-3p.kianpir.tk&sni=germany-3p.kianpir.tk#Vless%20Proxy%202%20Germany-3\n\n",
      "language": ""
     },
-    "#🇩🇪Vless Proxy 3 Germany 24\n",
+    "#🇩🇪Vless Proxy 3 Germany-3\n",
     {
      "type": "pre",
-     "text": "vless://2e266307-6951-4acd-fb1f-5d42e0af52a3@dana.ir:2083?type=ws&security=tls&path=%2F&host=ov24germany.kianpir.tk&sni=ov24germany.kianpir.tk#Vless%20Proxy%203%20Germany%2024\n\n",
+     "text": "vless://2e266307-6951-4acd-fb1f-5d42e0af52a3@arzdigital.com:2083?type=ws&security=tls&path=%2F&host=germany-3.kianpir.tk&sni=germany-3.kianpir.tk#Vless%20Proxy%203%20Germany-3",
      "language": ""
-    },
-    "#🇩🇪Vless Proxy 4 Germany 24\n",
-    {
-     "type": "code",
-     "text": "vless://96caf6fd-4478-4ca0-bf60-930d0035d5be@dana.ir:80?type=ws&security=none&path=%2F&host=ov24germany.kianpir.tk#Vless%20Proxy%204%20Germany%2024"
     },
     ""
    ],
@@ -2689,65 +1052,234 @@
     },
     {
      "type": "plain",
-     "text": " 24 آلمان (به روز رسانی) :\n#🇩🇪Trojan Germany 24\n"
+     "text": " 3 آلمان:\n#🇩🇪Trojan Germany-3\n"
     },
     {
      "type": "pre",
-     "text": "trojan://M7O9wAbx5S@ov24germany.kianpir.tk:443#Trojan%20Germany%2024\n\n",
+     "text": "trojan://M7O9wAbx5S@germany-3.kianpir.tk:443#Trojan%20Germany-3\n\n",
      "language": ""
     },
     {
      "type": "plain",
-     "text": "#🇩🇪Vless Germany 24\n"
+     "text": "#🇩🇪Vless Germany-3\n"
     },
     {
      "type": "pre",
-     "text": "vless://d0a21281-9140-4c19-ce1c-c5e9186e6b27@ov24germany.kianpir.tk:8443?type=ws&security=tls&path=%2F&sni=ov24germany.kianpir.tk#Vless%20Germany%2024\n\n",
+     "text": "vless://d0a21281-9140-4c19-ce1c-c5e9186e6b27@germany-3.kianpir.tk:8443?type=ws&security=tls&path=%2F&sni=germany-3.kianpir.tk#Vless%20Germany-3\n\n",
      "language": ""
     },
     {
      "type": "plain",
-     "text": "#🇩🇪Vmess Germany 24\n"
+     "text": "#🇩🇪Vmess Germany-3\n"
     },
     {
      "type": "pre",
-     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHZXJtYW55IDI0IiwKICAiYWRkIjogIm92MjRnZXJtYW55LmtpYW5waXIudGsiLAogICJwb3J0IjogMjA4NywKICAiaWQiOiAiZjNiZWQ4MDgtMTdlNy00YjQyLWViNGItZWVhMzgwYWVlOTdlIiwKICAiYWlkIjogMCwKICAibmV0IjogInRjcCIsCiAgInR5cGUiOiAibm9uZSIsCiAgImhvc3QiOiAiIiwKICAicGF0aCI6ICIiLAogICJ0bHMiOiAidGxzIgp9\n\n",
+     "text": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJWbWVzcyBHZXJtYW55LTMiLAogICJhZGQiOiAiZ2VybWFueS0zLmtpYW5waXIudGsiLAogICJwb3J0IjogMjA4NywKICAiaWQiOiAiZjNiZWQ4MDgtMTdlNy00YjQyLWViNGItZWVhMzgwYWVlOTdlIiwKICAiYWlkIjogMCwKICAibmV0IjogInRjcCIsCiAgInR5cGUiOiAibm9uZSIsCiAgImhvc3QiOiAiIiwKICAicGF0aCI6ICIiLAogICJ0bHMiOiAidGxzIgp9\n\n",
      "language": ""
     },
     {
      "type": "plain",
-     "text": "#🇩🇪Vless Proxy 1 Germany 24\n"
+     "text": "#🇩🇪Vless Proxy 1 Germany-3\n"
     },
     {
      "type": "pre",
-     "text": "vless://b805d0d6-dcf0-4b8d-d049-dae80a1b04ca@ov24germanyp.kianpir.tk:2053?type=ws&security=tls&path=%2F&sni=ov24germanyp.kianpir.tk#Vless%20Proxy%201%20Germany%2024\n\n",
+     "text": "vless://b805d0d6-dcf0-4b8d-d049-dae80a1b04ca@germany-3p.kianpir.tk:2053?type=ws&security=tls&path=%2F&sni=germany-3p.kianpir.tk#Vless%20Proxy%201%20Germany-3\n\n",
      "language": ""
     },
     {
      "type": "plain",
-     "text": "#🇩🇪Vless Proxy 2 Germany 24\n"
+     "text": "#🇩🇪Vless Proxy 2 Germany-3\n"
     },
     {
      "type": "pre",
-     "text": "vless://bfae72cb-df77-4b12-def0-893b46d7c18a@dana.ir:2096?type=ws&security=tls&path=%2F&host=ov24germanyp.kianpir.tk&sni=ov24germanyp.kianpir.tk#Vless%20Proxy%202%20Germany%2024\n\n",
+     "text": "vless://bfae72cb-df77-4b12-def0-893b46d7c18a@arzdigital.com:2096?type=ws&security=tls&path=%2F&host=germany-3p.kianpir.tk&sni=germany-3p.kianpir.tk#Vless%20Proxy%202%20Germany-3\n\n",
      "language": ""
     },
     {
      "type": "plain",
-     "text": "#🇩🇪Vless Proxy 3 Germany 24\n"
+     "text": "#🇩🇪Vless Proxy 3 Germany-3\n"
     },
     {
      "type": "pre",
-     "text": "vless://2e266307-6951-4acd-fb1f-5d42e0af52a3@dana.ir:2083?type=ws&security=tls&path=%2F&host=ov24germany.kianpir.tk&sni=ov24germany.kianpir.tk#Vless%20Proxy%203%20Germany%2024\n\n",
+     "text": "vless://2e266307-6951-4acd-fb1f-5d42e0af52a3@arzdigital.com:2083?type=ws&security=tls&path=%2F&host=germany-3.kianpir.tk&sni=germany-3.kianpir.tk#Vless%20Proxy%203%20Germany-3",
      "language": ""
     },
     {
      "type": "plain",
-     "text": "#🇩🇪Vless Proxy 4 Germany 24\n"
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 306,
+   "type": "message",
+   "date": "2023-01-27T21:30:28",
+   "date_unixtime": "1674842428",
+   "edited": "2023-01-27T21:33:56",
+   "edited_unixtime": "1674842636",
+   "from": "Free Xray VPN",
+   "from_id": "channel1885529128",
+   "text": "کانکشن های اهدایی به یاد نیکاشاکرمی ...\n\nایرانسل:\nvless://bc47b1cb-da17-42be-ba8f-5ed00350bd35@mtn2.rememberme.cf:443?mode=gun&security=tls&encryption=none&alpn=h2&type=grpc&serviceName=&sni=gr2.rememberme.cf#Remember+Nika%2FMTN\nهمراه اول:\nvless://bc47b1cb-da17-42be-ba8f-5ed00350bd35@mci2.rememberme.cf:443?mode=gun&security=tls&encryption=none&alpn=h2&type=grpc&serviceName=&sni=gr2.rememberme.cf#Remember+Nika%2FIRMCI",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "کانکشن های اهدایی به یاد نیکاشاکرمی ...\n\nایرانسل:\nvless://bc47b1cb-da17-42be-ba8f-5ed00350bd35@mtn2.rememberme.cf:443?mode=gun&security=tls&encryption=none&alpn=h2&type=grpc&serviceName=&sni=gr2.rememberme.cf#Remember+Nika%2FMTN\nهمراه اول:\nvless://bc47b1cb-da17-42be-ba8f-5ed00350bd35@mci2.rememberme.cf:443?mode=gun&security=tls&encryption=none&alpn=h2&type=grpc&serviceName=&sni=gr2.rememberme.cf#Remember+Nika%2FIRMCI"
+    }
+   ]
+  },
+  {
+   "id": 310,
+   "type": "message",
+   "date": "2023-01-28T06:12:53",
+   "date_unixtime": "1674873773",
+   "edited": "2023-01-28T06:35:13",
+   "edited_unixtime": "1674875113",
+   "from": "Free Xray VPN",
+   "from_id": "channel1885529128",
+   "text": [
+    {
+     "type": "hashtag",
+     "text": "#تست"
+    },
+    " موقت:\n#🇩🇪 Trojan \n",
+    {
+     "type": "pre",
+     "text": "trojan://M7O9wAbx5S@germany-xx.ronaghi.tk:443?security=tls&type=tcp&headerType=none#Trojan%20%F0%9F%87%A9%F0%9F%87%AA-xx\n\n",
+     "language": ""
+    },
+    "#🇩🇪 Vless (WS) \n",
+    {
+     "type": "pre",
+     "text": "vless://d0a21281-9140-4c19-ce1c-c5e9186e6b27@germany-xx.ronaghi.tk:8443?encryption=none&security=tls&sni=germany-xx.ronaghi.tk&type=ws&host=germany-xx.ronaghi.tk&path=%2F#Vless%20WS%20%F0%9F%87%A9%F0%9F%87%AA-xx\n\n",
+     "language": ""
+    },
+    "#🇩🇪 Vless (WS) / همه \n",
+    {
+     "type": "pre",
+     "text": "vless://d0a21281-9140-4c19-ce1c-c5e9186e6b27@all.ronaghi.tk:8443?encryption=none&security=tls&sni=germany-xx.ronaghi.tk&type=ws&host=germany-xx.ronaghi.tk&path=%2F#Vless%20WS%20%F0%9F%87%A9%F0%9F%87%AA-xx%20%2F%20all\n\n",
+     "language": ""
+    },
+    "#🇩🇪 Vless (WS) / ایرانسل \n",
+    {
+     "type": "pre",
+     "text": "vless://d0a21281-9140-4c19-ce1c-c5e9186e6b27@mtn-1.ronaghi.tk:8443?encryption=none&security=tls&sni=germany-xx.ronaghi.tk&type=ws&host=germany-xx.ronaghi.tk&path=%2F#Vless%20WS%20%F0%9F%87%A9%F0%9F%87%AA-xx%20%2F%20IranCell\n\n",
+     "language": ""
+    },
+    "#🇩🇪 Vless (WS) / همراه اول \n",
+    {
+     "type": "pre",
+     "text": "vless://d0a21281-9140-4c19-ce1c-c5e9186e6b27@irmci-1.ronaghi.tk:8443?encryption=none&security=tls&sni=germany-xx.ronaghi.tk&type=ws&host=germany-xx.ronaghi.tk&path=%2F#Vless%20WS%20%F0%9F%87%A9%F0%9F%87%AA-xx%20%2F%20IRMCI\n\n",
+     "language": ""
+    },
+    "#🇩🇪 Vless (gprc) \n",
+    {
+     "type": "pre",
+     "text": "vless://b805d0d6-dcf0-4b8d-d049-dae80a1b04ca@germany-xx.ronaghi.tk:2053?encryption=none&security=tls&sni=germany-xx.ronaghi.tk&type=grpc#Vless%20GPRC%20%F0%9F%87%A9%F0%9F%87%AA-xx\n\n",
+     "language": ""
+    },
+    "#🇩🇪 Vless (gprc) / همه \n",
+    {
+     "type": "pre",
+     "text": "vless://b805d0d6-dcf0-4b8d-d049-dae80a1b04ca@all.ronaghi.tk:2053?encryption=none&security=tls&sni=germany-xx.ronaghi.tk&type=grpc#Vless%20GPRC%20%F0%9F%87%A9%F0%9F%87%AA-xx%20%2F%20All\n\n",
+     "language": ""
+    },
+    "#🇩🇪 Vless (gprc) /  ایرانسل  \n",
+    {
+     "type": "code",
+     "text": "vless://b805d0d6-dcf0-4b8d-d049-dae80a1b04ca@mtn-1.ronaghi.tk:2053?encryption=none&security=tls&sni=germany-xx.ronaghi.tk&type=grpc#Vless%20GPRC%20%F0%9F%87%A9%F0%9F%87%AA-xx%20%2F%20IranCell\n\n"
+    },
+    "#🇩🇪 Vless (gprc) / همراه اول \n",
+    {
+     "type": "pre",
+     "text": "vless://b805d0d6-dcf0-4b8d-d049-dae80a1b04ca@irmci-1.ronaghi.tk:2053?encryption=none&security=tls&sni=germany-xx.ronaghi.tk&type=grpc#Vless%20GPRC%20%F0%9F%87%A9%F0%9F%87%AA-xx%20%2F%20IRMCI",
+     "language": ""
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "hashtag",
+     "text": "#تست"
+    },
+    {
+     "type": "plain",
+     "text": " موقت:\n#🇩🇪 Trojan \n"
+    },
+    {
+     "type": "pre",
+     "text": "trojan://M7O9wAbx5S@germany-xx.ronaghi.tk:443?security=tls&type=tcp&headerType=none#Trojan%20%F0%9F%87%A9%F0%9F%87%AA-xx\n\n",
+     "language": ""
+    },
+    {
+     "type": "plain",
+     "text": "#🇩🇪 Vless (WS) \n"
+    },
+    {
+     "type": "pre",
+     "text": "vless://d0a21281-9140-4c19-ce1c-c5e9186e6b27@germany-xx.ronaghi.tk:8443?encryption=none&security=tls&sni=germany-xx.ronaghi.tk&type=ws&host=germany-xx.ronaghi.tk&path=%2F#Vless%20WS%20%F0%9F%87%A9%F0%9F%87%AA-xx\n\n",
+     "language": ""
+    },
+    {
+     "type": "plain",
+     "text": "#🇩🇪 Vless (WS) / همه \n"
+    },
+    {
+     "type": "pre",
+     "text": "vless://d0a21281-9140-4c19-ce1c-c5e9186e6b27@all.ronaghi.tk:8443?encryption=none&security=tls&sni=germany-xx.ronaghi.tk&type=ws&host=germany-xx.ronaghi.tk&path=%2F#Vless%20WS%20%F0%9F%87%A9%F0%9F%87%AA-xx%20%2F%20all\n\n",
+     "language": ""
+    },
+    {
+     "type": "plain",
+     "text": "#🇩🇪 Vless (WS) / ایرانسل \n"
+    },
+    {
+     "type": "pre",
+     "text": "vless://d0a21281-9140-4c19-ce1c-c5e9186e6b27@mtn-1.ronaghi.tk:8443?encryption=none&security=tls&sni=germany-xx.ronaghi.tk&type=ws&host=germany-xx.ronaghi.tk&path=%2F#Vless%20WS%20%F0%9F%87%A9%F0%9F%87%AA-xx%20%2F%20IranCell\n\n",
+     "language": ""
+    },
+    {
+     "type": "plain",
+     "text": "#🇩🇪 Vless (WS) / همراه اول \n"
+    },
+    {
+     "type": "pre",
+     "text": "vless://d0a21281-9140-4c19-ce1c-c5e9186e6b27@irmci-1.ronaghi.tk:8443?encryption=none&security=tls&sni=germany-xx.ronaghi.tk&type=ws&host=germany-xx.ronaghi.tk&path=%2F#Vless%20WS%20%F0%9F%87%A9%F0%9F%87%AA-xx%20%2F%20IRMCI\n\n",
+     "language": ""
+    },
+    {
+     "type": "plain",
+     "text": "#🇩🇪 Vless (gprc) \n"
+    },
+    {
+     "type": "pre",
+     "text": "vless://b805d0d6-dcf0-4b8d-d049-dae80a1b04ca@germany-xx.ronaghi.tk:2053?encryption=none&security=tls&sni=germany-xx.ronaghi.tk&type=grpc#Vless%20GPRC%20%F0%9F%87%A9%F0%9F%87%AA-xx\n\n",
+     "language": ""
+    },
+    {
+     "type": "plain",
+     "text": "#🇩🇪 Vless (gprc) / همه \n"
+    },
+    {
+     "type": "pre",
+     "text": "vless://b805d0d6-dcf0-4b8d-d049-dae80a1b04ca@all.ronaghi.tk:2053?encryption=none&security=tls&sni=germany-xx.ronaghi.tk&type=grpc#Vless%20GPRC%20%F0%9F%87%A9%F0%9F%87%AA-xx%20%2F%20All\n\n",
+     "language": ""
+    },
+    {
+     "type": "plain",
+     "text": "#🇩🇪 Vless (gprc) /  ایرانسل  \n"
     },
     {
      "type": "code",
-     "text": "vless://96caf6fd-4478-4ca0-bf60-930d0035d5be@dana.ir:80?type=ws&security=none&path=%2F&host=ov24germany.kianpir.tk#Vless%20Proxy%204%20Germany%2024"
+     "text": "vless://b805d0d6-dcf0-4b8d-d049-dae80a1b04ca@mtn-1.ronaghi.tk:2053?encryption=none&security=tls&sni=germany-xx.ronaghi.tk&type=grpc#Vless%20GPRC%20%F0%9F%87%A9%F0%9F%87%AA-xx%20%2F%20IranCell\n\n"
+    },
+    {
+     "type": "plain",
+     "text": "#🇩🇪 Vless (gprc) / همراه اول \n"
+    },
+    {
+     "type": "pre",
+     "text": "vless://b805d0d6-dcf0-4b8d-d049-dae80a1b04ca@irmci-1.ronaghi.tk:2053?encryption=none&security=tls&sni=germany-xx.ronaghi.tk&type=grpc#Vless%20GPRC%20%F0%9F%87%A9%F0%9F%87%AA-xx%20%2F%20IRMCI",
+     "language": ""
     },
     {
      "type": "plain",

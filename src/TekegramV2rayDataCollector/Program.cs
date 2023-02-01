@@ -45,7 +45,4 @@ result = result.Select(s => s.Trim()).Distinct().ToList();
 File.WriteAllLines(@"..\..\..\Result.txt", result);
 
 
-var text = File.ReadAllText(@"..\..\..\ResultSubscription.txt");
-
-File.WriteAllText(@"..\..\..\Subscription\Subscription.txt", Base64Encode(text));
 
